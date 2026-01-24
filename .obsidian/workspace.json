@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260123011144-administrative-scrivener.md",
+                "file": "20260124021316-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260123011144-administrative-scrivener"
+              "title": "20260124021316-new-reference-note-draft_"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260123011144-administrative-scrivener.md",
+                "file": "20260124021316-new-reference-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260123011144-administrative-scrivener"
+              "title": "Outline of 20260124021316-new-reference-note-draft_"
             }
           },
           {
@@ -174,13 +174,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b90e996a8e6fd23",
+  "active": "1fda3657030d1f7c",
   "lastOpenFiles": [
+    "20260123011144-administrative-scrivener.md",
+    "20260124102738-meaning-of-constitution.md",
     "20260124105744-person-with-human-rights.md",
     "20260125123247-limit-of-human-rights.md",
-    "20260123011144-administrative-scrivener.md",
     "20260124104201-principle-of-constitution.md",
-    "20260124102738-meaning-of-constitution.md",
     "20260124065658-lesson.md",
     "20260124065200-do-not-be-careless-until-win.md",
     "20260124064228-chess-record.md",

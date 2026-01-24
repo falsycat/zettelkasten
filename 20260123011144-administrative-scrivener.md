@@ -15,6 +15,7 @@ draft: false
 2. 人権
 	1. [[20260124105744-person-with-human-rights|人権享有主体]]
 	2. [[20260125123247-limit-of-human-rights|人権の限界]]
+3. 統治
 ## 動画学習
 ### 民法
 - [[20260122111311-civil-code-ability|権利能力・意思能力・行為能力]]
