@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "7e78287974da9f06",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a799b86a4cd2f11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dd77c44e5751518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260123091535-new-reference-note.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260123091535-new-reference-note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26e712241ffd0014",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ffd6e47d369fc15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88d09244cf5f6a73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b7c9ab03587b3df2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "69a48da83e0caf77",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af01cafe957798d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cdc99f52b024ccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aecb0894c4b04f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20260123091535-new-reference-note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 20260123091535-new-reference-note"
+            }
+          },
+          {
+            "id": "ca33fbda4696955f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a8a84b73aefbb679",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "20260123091535-new-reference-note.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 20260123091535-new-reference-note"
+            }
+          },
+          {
+            "id": "0b90e996a8e6fd23",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "random-note:Open random note": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4dd77c44e5751518",
+  "lastOpenFiles": [
+    "20260123091511-new-reference-note.md",
+    "20260123091535-new-reference-note.md",
+    "20260123091458-new-reference-note.md",
+    "20260123011144-administrative-scrivener.md",
+    "20260123125256-civil-code-lose-ability.md",
+    "20260122111311-civil-code-ability.md",
+    "20260123011040-new-reference-note.md",
+    "20260122011111-new-reference-note.md",
+    "system/trash/20260122103021-administrative-scrivener.md",
+    "system/trash/20260122085409-civil-code.md",
+    "system/trash",
+    "20260122102347-civil-code.md",
+    "20260122084309-credit-card-and-point-strategy.md",
+    "system/dashboard.md",
+    "20260122092438-new-reference-note.md",
+    "index.md",
+    "20260122082145-toyota-terms.md",
+    "20260122081350-toyota-development-milestones.md",
+    "20260122083122-biccamera-suica-card.md",
+    "20260122082426-toyota-vehicle-dev-events.md",
+    "20260122083848-smbc-olive.md",
+    "20260122083952-p-one-wiz-card.md",
+    "20260122084140-point-bonus-of-smbc-card.md",
+    "20260122083225-recruit-card.md",
+    "20260122082959-view-card.md",
+    "20260122082840-vpoint-up-program.md",
+    "20260122085449-hesitated-to-tell-cancellation-of-examine-real-estate.md",
+    "00_inbox",
+    "system/assets",
+    "system/templates",
+    "system"
+  ]
+}
