@@ -7,9 +7,6 @@ tags: [reference]
 publish: false
 draft: true
 ---
-
-
 ---
-# Ref
 2026/01/23
 - 

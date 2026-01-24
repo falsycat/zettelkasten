@@ -11,7 +11,6 @@ tags: reference
 publish: false
 draft: true
 ---
-# New Reference Note
 
 ---
 ## Ref

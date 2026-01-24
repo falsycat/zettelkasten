@@ -1,13 +1,12 @@
 ---
 id: 20260122083122
 title: ビックカメラSuicaカード
-aliases: [ビックカメラSuicaカード, "20260122083122"]
+aliases: ["20260122083122"]
 created: 2026-01-22 08:31
 tags: [reference/web]
 publish: true
 draft: false
 ---
-# ビックカメラSuicaカード
 - クレジットカード
 - 基本ポイントは、ビックポイント0.5% + JREポイント0.5% = 1%
 	- 特定用途でポイントアップ
@@ -22,7 +21,7 @@ draft: false
 		- いろんなとこで使える
 		- 基本的に1pt=1円
 ---
-## 出典
+# 出典
 2026/01/17参照
 - [ビックカメラsuicaカード](https://www.jreast.co.jp/card/first/bic/)
 - [ビックポイントのご案内](https://www.biccamera.com/bc/c/info/point/index.jsp)

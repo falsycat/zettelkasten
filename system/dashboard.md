@@ -1,4 +1,3 @@
-# Dashboard
 ## Draft Notes
 ```dataview
 TABLE WITHOUT ID

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260123091511-new-reference-note.md",
+                "file": "20260123011144-administrative-scrivener.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260123091511-new-reference-note"
+              "title": "20260123011144-administrative-scrivener"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20260123091511-new-reference-note.md",
+                "file": "20260123011144-administrative-scrivener.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 20260123091511-new-reference-note"
+              "title": "Backlinks for 20260123011144-administrative-scrivener"
             }
           },
           {
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260123091511-new-reference-note.md",
+                "file": "20260123011144-administrative-scrivener.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260123091511-new-reference-note"
+              "title": "Outline of 20260123011144-administrative-scrivener"
             }
           },
           {
@@ -180,12 +180,23 @@
   },
   "active": "4dd77c44e5751518",
   "lastOpenFiles": [
+    "20260122084309-credit-card-and-point-strategy.md",
+    "index.md",
+    "20260122083952-p-one-wiz-card.md",
+    "20260122083848-smbc-olive.md",
+    "20260122083225-recruit-card.md",
+    "20260122081538-toyota-development-milestone-sys4.md",
+    "20260122085449-hesitated-to-tell-cancellation-of-examine-real-estate.md",
+    "20260123011144-administrative-scrivener.md",
+    "20260122085717-anxiety-fear-and-angry-comes-from-ignorant.md",
+    "20260122082959-view-card.md",
+    "20260122081646-toyota-development-milestone-st.md",
+    "20260123091511-new-reference-note.md",
+    "cleanup_obsidian.py",
     "20260123125256-civil-code-lose-ability.md",
     "20260123091535-new-reference-note.md",
     "20260122111311-civil-code-ability.md",
-    "20260123091511-new-reference-note.md",
     "20260123091458-new-reference-note.md",
-    "20260123011144-administrative-scrivener.md",
     "20260123011040-new-reference-note.md",
     "system/templates/New Permanent Note.md",
     "system/templates/New Reference Note.md",
@@ -196,17 +207,7 @@
     "system/trash/20260122085409-civil-code.md",
     "system/trash",
     "20260122102347-civil-code.md",
-    "20260122084309-credit-card-and-point-strategy.md",
     "20260122092438-new-reference-note.md",
-    "index.md",
-    "20260122082145-toyota-terms.md",
-    "20260122081350-toyota-development-milestones.md",
-    "20260122083122-biccamera-suica-card.md",
-    "20260122082426-toyota-vehicle-dev-events.md",
-    "20260122083848-smbc-olive.md",
-    "20260122083952-p-one-wiz-card.md",
-    "20260122084140-point-bonus-of-smbc-card.md",
-    "20260122083225-recruit-card.md",
     "00_inbox",
     "system/assets",
     "system/templates",
