@@ -11,13 +11,52 @@
             "id": "1fda3657030d1f7c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "20260123011144-administrative-scrivener.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "20260123011144-administrative-scrivener"
+            }
+          },
+          {
+            "id": "a0d258525cfad6b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260124120835-expression.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260124120835-expression"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260124110114-word.md",
+                "file": "20260124120835-expression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260124110114-word"
+              "title": "Outline of 20260124120835-expression"
             }
           },
           {
@@ -144,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,8 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fda3657030d1f7c",
+  "active": "a8a84b73aefbb679",
   "lastOpenFiles": [
+    "20260124120835-expression.md",
+    "20260123011144-administrative-scrivener.md",
     "20260124120118-scrum-team-kickoff.md",
     "20260124115741-testing-strategy.md",
     "20260124115438-software-dev-team-kickoff.md",
@@ -186,8 +227,6 @@
     "20260124111826-sense-of-values-in-scrum.md",
     "20260124111701-requirements-of-scrum.md",
     "20260124111545-definition-of-scrum.md",
-    "20260123091511-machiavellianism.md",
-    "20260122011111-sunk-cost.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",
