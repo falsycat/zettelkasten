@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260124105744-new-reference-note-draft_.md",
+                "file": "20260125123247-limit-of-human-rights.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260124105744-new-reference-note-draft_"
-            }
-          },
-          {
-            "id": "a0d258525cfad6b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260124104201-principle-of-constitution.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260124104201-principle-of-constitution"
+              "title": "20260125123247-limit-of-human-rights"
             }
           }
         ]
@@ -162,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260124105744-new-reference-note-draft_.md",
+                "file": "20260125123247-limit-of-human-rights.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260124105744-new-reference-note-draft_"
+              "title": "Outline of 20260125123247-limit-of-human-rights"
             }
           },
           {
@@ -198,11 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8a84b73aefbb679",
+  "active": "1fda3657030d1f7c",
   "lastOpenFiles": [
     "20260123011144-administrative-scrivener.md",
-    "20260124105744-new-reference-note-draft_.md",
+    "20260125123247-limit-of-human-rights.md",
     "20260124104201-principle-of-constitution.md",
+    "20260124105744-person-with-human-rights.md",
     "20260124102738-meaning-of-constitution.md",
     "20260124065658-lesson.md",
     "20260124065200-do-not-be-careless-until-win.md",
@@ -225,7 +202,6 @@
     "20260124112556-sprint.md",
     "20260124112012-structure-of-scrum.md",
     "20260124114501-sprint-backlog.md",
-    "20260124114340-output-of-scrum.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",

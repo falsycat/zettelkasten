@@ -13,7 +13,8 @@ draft: false
 	1. [[20260124102738-meaning-of-constitution|憲法の意味]]
 	2. [[20260124104201-principle-of-constitution|憲法の基本原理]]
 2. 人権
-	1. 人権共有主体
+	1. [[20260124105744-person-with-human-rights|人権享有主体]]
+	2. 
 ## 動画学習
 ### 民法
 - [[20260122111311-civil-code-ability|権利能力・意思能力・行為能力]]
