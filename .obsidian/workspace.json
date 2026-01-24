@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260123091535-new-reference-note.md",
+                "file": "20260124110114-principle-and-philosophy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260123091535-new-reference-note"
+              "title": "20260124110114-principle-and-philosophy"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20260123091535-new-reference-note.md",
+                "file": "20260124110114-word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 20260123091535-new-reference-note"
+              "title": "Backlinks for 20260124110114-word"
             }
           },
           {
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260123091535-new-reference-note.md",
+                "file": "20260124110114-word.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260123091535-new-reference-note"
+              "title": "Outline of 20260124110114-word"
             }
           },
           {
@@ -168,11 +168,7 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "random-note:Open random note": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
@@ -180,13 +176,14 @@
   },
   "active": "4dd77c44e5751518",
   "lastOpenFiles": [
-    "20260123091511-machiavellianism.md",
+    "20260124110114-principle-and-philosophy.md",
     "20260123091458-cynicism.md",
-    "20260123091535-new-reference-note.md",
+    "20260123091535-just-world-hypothesis.md",
+    "20260122011111-sunk-cost.md",
+    "20260123091511-machiavellianism.md",
     "system/dashboard.md",
     "index.md",
     "20260123011144-administrative-scrivener.md",
-    "20260122011111-sunk-cost.md",
     "20260122081350-toyota-development-milestones.md",
     "system/templates/New Structure Note.md",
     "system/templates/New Permanent Note.md",
@@ -206,7 +203,6 @@
     "20260123125256-civil-code-lose-ability.md",
     "20260122111311-civil-code-ability.md",
     "20260123011040-new-reference-note.md",
-    "system/trash/20260122103021-administrative-scrivener.md",
     "system/trash",
     "00_inbox",
     "system/assets",

@@ -25,8 +25,8 @@
   },
   "features": {
     "alias": {
-      "enabled": false,
-      "strategy": "ensure",
+      "enabled": true,
+      "strategy": "adjust",
       "validator": "fr",
       "templates": {
         "main": "",
@@ -77,7 +77,7 @@
       }
     },
     "suggest": {
-      "enabled": false,
+      "enabled": true,
       "templates": {
         "main": "",
         "fallback": ""
