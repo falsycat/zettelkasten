@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260124021316-new-reference-note-draft_.md",
+                "file": "20260124030921-tsuetate-onsen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260124021316-new-reference-note-draft_"
+              "title": "20260124030921-tsuetate-onsen"
             }
           }
         ],
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260124021316-new-reference-note-draft_.md",
+                "file": "20260124030921-tsuetate-onsen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260124021316-new-reference-note-draft_"
+              "title": "Outline of 20260124030921-tsuetate-onsen"
             }
           },
           {
@@ -201,8 +201,11 @@
   },
   "active": "a0d258525cfad6b5",
   "lastOpenFiles": [
-    "20260123125256-civil-code-lose-ability.md",
+    "20260124031357-place-to-go.md",
+    "20260124031206-kamishikimi-kumanoza-shrine.md",
+    "20260124030921-tsuetate-onsen.md",
     "20260124021316-new-reference-note-draft_.md",
+    "20260123125256-civil-code-lose-ability.md",
     "20260123011144-administrative-scrivener.md",
     "20260124120835-civil-code-expression.md",
     "20260124120118-scrum-team-kickoff.md",
@@ -224,9 +227,6 @@
     "20260124112717-sprint-planning.md",
     "20260124112417-events-of-scrums.md",
     "20260124112311-developer.md",
-    "20260124112207-scrum-master.md",
-    "20260124112105-product-owner.md",
-    "20260124111826-sense-of-values-in-scrum.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",

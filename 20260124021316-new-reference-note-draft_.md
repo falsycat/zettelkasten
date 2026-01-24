@@ -1,10 +1,9 @@
 ---
 id: 20260124021316
 title: 日銀為替介入の予兆
-aliases:
-  - "20260124021316"
+aliases: ["20260124021316"]
 created: 2026-01-24 14:13
-tags: reference
+tags: [reference]
 publish: false
 draft: true
 ---
