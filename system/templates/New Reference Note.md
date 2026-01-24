@@ -9,6 +9,7 @@ aliases: ["<% id %>"]
 created: <% tp.file.creation_date() %>
 tags: reference
 publish: false
+draft: true
 ---
 # New Reference Note
 

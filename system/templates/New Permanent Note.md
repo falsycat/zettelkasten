@@ -9,4 +9,5 @@ aliases: ["<% id %>"]
 created: <% tp.file.creation_date() %>
 tags: permanent
 publish: false
+draft: true
 ---
