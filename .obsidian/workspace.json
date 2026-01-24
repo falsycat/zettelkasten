@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260124120835-expression.md",
+                "file": "20260124120835-civil-code-expression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260124120835-expression"
+              "title": "20260124120835-civil-code-expression"
             }
           }
         ],
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260124120835-expression.md",
+                "file": "20260124120835-civil-code-expression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260124120835-expression"
+              "title": "Outline of 20260124120835-civil-code-expression"
             }
           },
           {
@@ -201,8 +201,8 @@
   },
   "active": "a0d258525cfad6b5",
   "lastOpenFiles": [
-    "20260124120835-expression.md",
     "20260123011144-administrative-scrivener.md",
+    "20260124120835-civil-code-expression.md",
     "20260124120118-scrum-team-kickoff.md",
     "20260124115741-testing-strategy.md",
     "20260124115438-software-dev-team-kickoff.md",
