@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260123125256-civil-code-lose-ability.md",
+                "file": "20260124021316-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260123125256-civil-code-lose-ability"
+              "title": "20260124021316-new-reference-note-draft_"
             }
           }
         ],
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260123125256-civil-code-lose-ability.md",
+                "file": "20260124021316-new-reference-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260123125256-civil-code-lose-ability"
+              "title": "Outline of 20260124021316-new-reference-note-draft_"
             }
           },
           {
@@ -201,6 +201,8 @@
   },
   "active": "a0d258525cfad6b5",
   "lastOpenFiles": [
+    "20260123125256-civil-code-lose-ability.md",
+    "20260124021316-new-reference-note-draft_.md",
     "20260123011144-administrative-scrivener.md",
     "20260124120835-civil-code-expression.md",
     "20260124120118-scrum-team-kickoff.md",
@@ -225,8 +227,6 @@
     "20260124112207-scrum-master.md",
     "20260124112105-product-owner.md",
     "20260124111826-sense-of-values-in-scrum.md",
-    "20260124111701-requirements-of-scrum.md",
-    "20260124111545-definition-of-scrum.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",
