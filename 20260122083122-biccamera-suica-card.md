@@ -21,7 +21,7 @@ draft: false
 		- いろんなとこで使える
 		- 基本的に1pt=1円
 ---
-# 出典
+## 出典
 2026/01/17参照
 - [ビックカメラsuicaカード](https://www.jreast.co.jp/card/first/bic/)
 - [ビックポイントのご案内](https://www.biccamera.com/bc/c/info/point/index.jsp)

@@ -15,5 +15,5 @@ draft: false
 6. QCS: Quality Confirmation Stage / 品確
 7. LO: Line Off / SOP / 号口
 ---
-# 出典
+## 出典
 [自動車開発のスケジュール](https://bizinfo.blog/archives/52)より

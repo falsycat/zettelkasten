@@ -7,6 +7,6 @@ tags: [structure]
 publish: true
 draft: false
 ---
-# 民法
+## 民法
 - [[20260122111311-civil-code-ability|権利能力・意思能力・行為能力]]
 - [[20260123125256-civil-code-lose-ability|失踪宣告・同時死亡の推定]]
