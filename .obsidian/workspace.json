@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260124021316-new-reference-note-draft_.md",
+                "file": "20260125012337-market-is-like-game-of-imperfect-info.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260124021316-new-reference-note-draft_"
+              "title": "20260125012337-market-is-like-game-of-imperfect-info"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260124021316-new-reference-note-draft_.md",
+                "file": "20260125012337-market-is-like-game-of-imperfect-info.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260124021316-new-reference-note-draft_"
+              "title": "Outline of 20260125012337-market-is-like-game-of-imperfect-info"
             }
           },
           {
@@ -176,6 +176,8 @@
   },
   "active": "1fda3657030d1f7c",
   "lastOpenFiles": [
+    "20260124021316-fx-intervention.md",
+    "20260125012337-market-is-like-game-of-imperfect-info.md",
     "20260123011144-administrative-scrivener.md",
     "20260124102738-meaning-of-constitution.md",
     "20260124105744-person-with-human-rights.md",
@@ -191,7 +193,6 @@
     "20260124030921-tsuetate-onsen.md",
     "20260124031357-place-to-go.md",
     "20260124031206-kamishikimi-kumanoza-shrine.md",
-    "20260124021316-new-reference-note-draft_.md",
     "20260124120835-civil-code-expression.md",
     "20260124120118-scrum-team-kickoff.md",
     "20260124115741-testing-strategy.md",
@@ -201,7 +202,6 @@
     "system/dashboard.md",
     "20260124112556-sprint.md",
     "20260124112012-structure-of-scrum.md",
-    "20260124114501-sprint-backlog.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",
