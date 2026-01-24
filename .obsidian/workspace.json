@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260124102738-new-reference-note-draft_.md",
+                "file": "20260124104201-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260124102738-new-reference-note-draft_"
+              "title": "20260124104201-new-reference-note-draft_"
             }
           }
         ],
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260124102738-new-reference-note-draft_.md",
+                "file": "20260124104201-new-reference-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260124102738-new-reference-note-draft_"
+              "title": "Outline of 20260124104201-new-reference-note-draft_"
             }
           },
           {
@@ -201,8 +201,9 @@
   },
   "active": "a0d258525cfad6b5",
   "lastOpenFiles": [
+    "20260124102738-meaning-of-constitution.md",
+    "20260124104201-new-reference-note-draft_.md",
     "20260123011144-administrative-scrivener.md",
-    "20260124102738-new-reference-note-draft_.md",
     "20260124065658-lesson.md",
     "20260124065200-do-not-be-careless-until-win.md",
     "20260124064228-chess-record.md",
@@ -226,7 +227,6 @@
     "20260124114501-sprint-backlog.md",
     "20260124114340-output-of-scrum.md",
     "20260124114608-increment-of-scrum.md",
-    "20260124114400-product-backlog.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",
