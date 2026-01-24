@@ -32,36 +32,22 @@
             }
           },
           {
-            "id": "4dd77c44e5751518",
+            "id": "58430604ee3ba5d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260124112436-events-of-scrum.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260124112436-events-of-scrum"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "535c273ed8008fcf",
+            "id": "dae0d1bd6d4dfa6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260124112556-new-reference-note-draft_.md",
+                "file": "20260124114608-increment-of-scrum.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +62,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260124112556-new-reference-note-draft_"
+              "title": "20260124114608-increment-of-scrum"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,16 +209,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "535c273ed8008fcf",
+  "active": "58430604ee3ba5d2",
   "lastOpenFiles": [
+    "20260124114841-new-permanent-note-draft_.md",
+    "system/dashboard.md",
+    "20260124112556-sprint.md",
+    "20260124112012-structure-of-scrum.md",
+    "20260124114501-sprint-backlog.md",
+    "20260124111505-scrum-guide.md",
+    "20260124114340-output-of-scrum.md",
+    "20260124114608-increment-of-scrum.md",
+    "20260124114400-product-backlog.md",
+    "20260124112436-events-of-scrum.md",
+    "20260124114020-sprint-retrospective.md",
     "20260124112936-sprint-review.md",
-    "20260124112556-new-reference-note-draft_.md",
     "20260124112846-daily-scrum.md",
     "20260124112717-sprint-planning.md",
-    "20260124112436-events-of-scrum.md",
-    "20260124111505-scrum-guide.md",
     "20260124112417-events-of-scrums.md",
-    "20260124112012-structure-of-scrum.md",
     "20260124112311-developer.md",
     "20260124112207-scrum-master.md",
     "20260124112105-product-owner.md",
@@ -240,17 +233,10 @@
     "20260124111701-requirements-of-scrum.md",
     "20260124111545-definition-of-scrum.md",
     "20260123091511-machiavellianism.md",
-    "system/dashboard.md",
     "20260122011111-sunk-cost.md",
     "20260124110114-principle-and-philosophy.md",
     "20260123091458-cynicism.md",
     "20260123091535-just-world-hypothesis.md",
-    "20260122082959-view-card.md",
-    "20260122082840-vpoint-up-program.md",
-    "20260122082426-toyota-vehicle-dev-events.md",
-    "20260122082145-toyota-terms.md",
-    "20260122081350-toyota-development-milestones.md",
-    "20260123011144-administrative-scrivener.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",

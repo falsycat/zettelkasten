@@ -5,7 +5,7 @@ aliases: ["20260124112012"]
 created: 2026-01-24 11:20
 tags: [reference/book]
 publish: true
-draft: true
+draft: false
 ---
 - 通常は10人以下
 	- 大きくなりすぎる場合は、複数のスクラムチームに再編成を検討するべき
