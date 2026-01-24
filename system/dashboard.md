@@ -4,18 +4,7 @@
 TABLE WITHOUT ID
   link(file.link, title) AS "Note"
 FROM !"system"
-WHERE draft = true
-LIMIT 30
-```
-## Unnamed Notes
-```dataview
-TABLE WITHOUT ID
-  link(file.link, title) AS "Note"
-FROM !"system"
-WHERE
-  endswith(file.name, "new-reference-note") OR
-  endswith(file.name, "new-permanent-note") OR
-  endswith(file.name, "new-structure-note")
+WHERE draft = true OR endswith(file.name, "-draft_")
 LIMIT 30
 ```
 ## Weak Reference Notes
