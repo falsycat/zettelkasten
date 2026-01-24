@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/templates/New Permanent Note.md",
+                "file": "20260123091511-new-reference-note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "New Permanent Note"
+              "title": "20260123091511-new-reference-note"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "system/templates/New Permanent Note.md",
+                "file": "20260123091511-new-reference-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for New Permanent Note"
+              "title": "Backlinks for 20260123091511-new-reference-note"
             }
           },
           {
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/templates/New Permanent Note.md",
+                "file": "20260123091511-new-reference-note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of New Permanent Note"
+              "title": "Outline of 20260123091511-new-reference-note"
             }
           },
           {
@@ -180,17 +180,17 @@
   },
   "active": "4dd77c44e5751518",
   "lastOpenFiles": [
-    "system/templates/New Reference Note.md",
-    "system/templates/New Structure Note.md",
+    "20260123125256-civil-code-lose-ability.md",
     "20260123091535-new-reference-note.md",
-    "system/dashboard.md",
-    "system/templates/New Permanent Note.md",
+    "20260122111311-civil-code-ability.md",
     "20260123091511-new-reference-note.md",
     "20260123091458-new-reference-note.md",
     "20260123011144-administrative-scrivener.md",
-    "20260123125256-civil-code-lose-ability.md",
-    "20260122111311-civil-code-ability.md",
     "20260123011040-new-reference-note.md",
+    "system/templates/New Permanent Note.md",
+    "system/templates/New Reference Note.md",
+    "system/templates/New Structure Note.md",
+    "system/dashboard.md",
     "20260122011111-new-reference-note.md",
     "system/trash/20260122103021-administrative-scrivener.md",
     "system/trash/20260122085409-civil-code.md",

@@ -70,12 +70,12 @@
       "update-on-file-contents-updated": "never"
     },
     "yaml-title": {
-      "enabled": true,
+      "enabled": false,
       "title-key": "title",
       "mode": "first-h1"
     },
     "yaml-title-alias": {
-      "enabled": true,
+      "enabled": false,
       "preserve-existing-alias-section-style": true,
       "keep-alias-that-matches-the-filename": false,
       "use-yaml-key-to-keep-track-of-old-filename-or-heading": true,
