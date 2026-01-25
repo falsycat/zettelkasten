@@ -1,11 +1,13 @@
 ---
 id: 20260126012026
 title: マキャベリズムは日本国憲法と相容れない
-aliases: ["20260126012026"]
+aliases:
+  - "20260126012026"
 created: 2026-01-26 01:20
-tags: [permanent]
+tags:
+  - permanent
 publish: true
-draft: true
+draft: false
 ---
 - [[20260123091511-machiavellianism|マキャベリズム]]は国益のためならばあらゆる行為を肯定する思想だが、[[20260125110046-right-of-freedom|自由権]]を定める日本国憲法の思想とは全くの逆である
 	- [[20260124102738-meaning-of-constitution|憲法の意味]]によれば、憲法は国家権料を制限するために作成されている

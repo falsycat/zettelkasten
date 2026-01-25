@@ -69,10 +69,24 @@
             "id": "104b50180e75fe97",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "20260126012026-machiavellianism-and-constitution.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260126012026-machiavellianism-and-constitution"
             }
           }
         ],
@@ -183,12 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "20260126012026-machiavellianism-and-constitution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 20260126012026-machiavellianism-and-constitution"
             }
           },
           {
@@ -220,6 +235,7 @@
   },
   "active": "104b50180e75fe97",
   "lastOpenFiles": [
+    "system/dashboard.md",
     "20260126012026-machiavellianism-and-constitution.md",
     "20260124102738-meaning-of-constitution.md",
     "20260123091511-machiavellianism.md",
@@ -232,7 +248,6 @@
     "20260123091535-just-world-hypothesis.md",
     "index.md",
     "20260126125936-zettelkasten.md",
-    "system/dashboard.md",
     "20260126011206-expand-depth-and-width-of-knowledge.md",
     "20260124065658-lesson.md",
     "20260122085626-dont-leave-unknown.md",
