@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260123011144-administrative-scrivener.md",
+                "file": "20260125100220-equal-under-law.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260123011144-administrative-scrivener"
+              "title": "20260125100220-equal-under-law"
             }
           }
         ],
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260123011144-administrative-scrivener.md",
+                "file": "20260125100220-equal-under-law.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260123011144-administrative-scrivener"
+              "title": "Outline of 20260125100220-equal-under-law"
             }
           },
           {
@@ -183,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -201,11 +201,11 @@
   },
   "active": "65745b3d6d827b4d",
   "lastOpenFiles": [
+    "20260123011144-administrative-scrivener.md",
     "system/dashboard.md",
     "20260125091459-happiness-right.md",
     "20260125100220-equal-under-law.md",
     "20260124114841-scrum-is-decentralized.md",
-    "20260123011144-administrative-scrivener.md",
     "20260124102738-meaning-of-constitution.md",
     "20260124021316-fx-intervention.md",
     "20260125012337-dont-give-market-confidence.md",
