@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "65745b3d6d827b4d",
+            "id": "f53c561d0d54add0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260125100220-equal-under-law.md",
+                "file": "20260125110046-right-of-freedom.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260125100220-equal-under-law"
-            }
-          },
-          {
-            "id": "925c65ac5da532e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260125105220-circumstantial-judgement.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260125105220-circumstantial-judgement"
+              "title": "20260125110046-right-of-freedom"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260125105220-circumstantial-judgement.md",
+                "file": "20260125110046-right-of-freedom.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260125105220-circumstantial-judgement"
+              "title": "Outline of 20260125110046-right-of-freedom"
             }
           },
           {
@@ -223,22 +199,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "925c65ac5da532e5",
+  "active": "f53c561d0d54add0",
   "lastOpenFiles": [
-    "20260125105220-circumstantial-judgement.md",
-    "20260125100220-equal-under-law.md",
-    "20260123011144-administrative-scrivener.md",
     "system/dashboard.md",
+    "20260125110046-right-of-freedom.md",
+    "20260123011144-administrative-scrivener.md",
+    "20260125100220-equal-under-law.md",
+    "20260125123247-limit-of-human-rights.md",
     "20260125091459-happiness-right.md",
-    "20260124114841-scrum-is-decentralized.md",
+    "20260125105220-circumstantial-judgement.md",
     "20260124102738-meaning-of-constitution.md",
     "20260124021316-fx-intervention.md",
     "20260125012337-dont-give-market-confidence.md",
+    "20260124114841-scrum-is-decentralized.md",
     "20260124064228-chess-record.md",
     "20260125014012-new-permanent-note-draft_.md",
     "20260124065200-do-not-be-careless-until-win.md",
     "20260124105744-person-with-human-rights.md",
-    "20260125123247-limit-of-human-rights.md",
     "20260124104201-principle-of-constitution.md",
     "20260124065658-lesson.md",
     "20260124064904-chess.md",
@@ -250,7 +227,6 @@
     "20260124031206-kamishikimi-kumanoza-shrine.md",
     "20260124120835-civil-code-expression.md",
     "20260124120118-scrum-team-kickoff.md",
-    "20260124115741-testing-strategy.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",
