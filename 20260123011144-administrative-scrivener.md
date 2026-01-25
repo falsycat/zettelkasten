@@ -15,6 +15,7 @@ draft: false
 2. 人権
 	1. [[20260124105744-person-with-human-rights|人権享有主体]]
 	2. [[20260125123247-limit-of-human-rights|人権の限界]]
+	3. [[20260125091459-happiness-right|幸福追求権]]
 3. 統治
 ## 動画学習
 ### 民法

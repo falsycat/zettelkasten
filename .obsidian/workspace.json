@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260125091459-happiness-right.md",
+                "file": "20260123011144-administrative-scrivener.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260125091459-happiness-right"
+              "title": "20260123011144-administrative-scrivener"
+            }
+          },
+          {
+            "id": "65745b3d6d827b4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260125100220-equal-under-law.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260125100220-equal-under-law"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260125091459-happiness-right.md",
+                "file": "20260125100220-equal-under-law.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260125091459-happiness-right"
+              "title": "Outline of 20260125100220-equal-under-law"
             }
           },
           {
@@ -174,16 +199,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8a84b73aefbb679",
+  "active": "65745b3d6d827b4d",
   "lastOpenFiles": [
-    "20260123011144-administrative-scrivener.md",
     "20260125091459-happiness-right.md",
+    "20260125100220-equal-under-law.md",
+    "20260123011144-administrative-scrivener.md",
+    "20260124102738-meaning-of-constitution.md",
     "20260124021316-fx-intervention.md",
     "20260125012337-dont-give-market-confidence.md",
     "20260124064228-chess-record.md",
     "20260125014012-new-permanent-note-draft_.md",
     "20260124065200-do-not-be-careless-until-win.md",
-    "20260124102738-meaning-of-constitution.md",
     "20260124105744-person-with-human-rights.md",
     "20260125123247-limit-of-human-rights.md",
     "20260124104201-principle-of-constitution.md",
@@ -201,7 +227,6 @@
     "20260124115438-software-dev-team-kickoff.md",
     "20260124111505-scrum-guide.md",
     "20260124114841-new-permanent-note-draft_.md",
-    "system/dashboard.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",
