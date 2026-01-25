@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260125100220-equal-under-law.md",
+                "file": "20260123011144-administrative-scrivener.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260125100220-equal-under-law"
+              "title": "20260123011144-administrative-scrivener"
             }
           }
         ],
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260125100220-equal-under-law.md",
+                "file": "20260123011144-administrative-scrivener.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260125100220-equal-under-law"
+              "title": "Outline of 20260123011144-administrative-scrivener"
             }
           },
           {
@@ -201,8 +201,10 @@
   },
   "active": "65745b3d6d827b4d",
   "lastOpenFiles": [
+    "system/dashboard.md",
     "20260125091459-happiness-right.md",
     "20260125100220-equal-under-law.md",
+    "20260124114841-scrum-is-decentralized.md",
     "20260123011144-administrative-scrivener.md",
     "20260124102738-meaning-of-constitution.md",
     "20260124021316-fx-intervention.md",
@@ -225,8 +227,6 @@
     "20260124120118-scrum-team-kickoff.md",
     "20260124115741-testing-strategy.md",
     "20260124115438-software-dev-team-kickoff.md",
-    "20260124111505-scrum-guide.md",
-    "20260124114841-new-permanent-note-draft_.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",

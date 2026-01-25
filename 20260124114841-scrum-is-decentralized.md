@@ -4,7 +4,7 @@ title: スクラムはdecentralized的である
 aliases: ["20260124114841"]
 created: 2026-01-24 11:48
 tags: [permanent]
-publish: true
+publish: false
 draft: false
 ---
 - メンバーは並列の権限をもち、かつ、独立した個として扱われる
