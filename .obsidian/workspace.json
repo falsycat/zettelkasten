@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "20260125115840-freedom-of-expression"
             }
+          },
+          {
+            "id": "ffb57bb205098ed4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260126125033-zettelkasten.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260126125033-zettelkasten"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260125115840-freedom-of-expression.md",
+                "file": "20260126125033-zettelkasten.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260125115840-freedom-of-expression"
+              "title": "Outline of 20260126125033-zettelkasten"
             }
           },
           {
@@ -223,18 +247,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b90e996a8e6fd23",
+  "active": "ffb57bb205098ed4",
   "lastOpenFiles": [
+    "20260126125033-zettelkasten.md",
+    "20260125115840-freedom-of-expression.md",
+    "system/dashboard.md",
+    "20260125100220-equal-under-law.md",
+    "20260125091459-happiness-right.md",
     "20260123011144-administrative-scrivener.md",
     "20260125110046-right-of-freedom.md",
     "20260124114841-scrum-is-decentralized.md",
-    "20260125100220-equal-under-law.md",
     "20260125112256-institutional-guarantee.md",
-    "20260125115840-freedom-of-expression.md",
-    "system/dashboard.md",
     "20260125105220-circumstantial-judgement.md",
     "20260125123247-limit-of-human-rights.md",
-    "20260125091459-happiness-right.md",
     "20260124102738-meaning-of-constitution.md",
     "20260124021316-fx-intervention.md",
     "20260125012337-dont-give-market-confidence.md",
@@ -250,7 +275,6 @@
     "20260123125256-civil-code-lose-ability.md",
     "20260124030921-tsuetate-onsen.md",
     "20260124031357-place-to-go.md",
-    "20260124031206-kamishikimi-kumanoza-shrine.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",
