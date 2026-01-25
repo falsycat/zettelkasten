@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260124064228-chess-record.md",
+                "file": "20260125091459-happiness-right.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260124064228-chess-record"
+              "title": "20260125091459-happiness-right"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260124064228-chess-record.md",
+                "file": "20260125091459-happiness-right.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260124064228-chess-record"
+              "title": "Outline of 20260125091459-happiness-right"
             }
           },
           {
@@ -176,12 +176,13 @@
   },
   "active": "1fda3657030d1f7c",
   "lastOpenFiles": [
-    "20260125014012-new-permanent-note-draft_.md",
-    "20260124064228-chess-record.md",
-    "20260124065200-do-not-be-careless-until-win.md",
-    "20260125012337-dont-give-market-confidence.md",
     "20260123011144-administrative-scrivener.md",
+    "20260125091459-happiness-right.md",
     "20260124021316-fx-intervention.md",
+    "20260125012337-dont-give-market-confidence.md",
+    "20260124064228-chess-record.md",
+    "20260125014012-new-permanent-note-draft_.md",
+    "20260124065200-do-not-be-careless-until-win.md",
     "20260124102738-meaning-of-constitution.md",
     "20260124105744-person-with-human-rights.md",
     "20260125123247-limit-of-human-rights.md",
@@ -201,7 +202,6 @@
     "20260124111505-scrum-guide.md",
     "20260124114841-new-permanent-note-draft_.md",
     "system/dashboard.md",
-    "20260124112556-sprint.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",
