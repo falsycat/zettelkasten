@@ -17,7 +17,7 @@ draft: false
 	2. [[20260125123247-limit-of-human-rights|人権の限界]]
 	3. [[20260125091459-happiness-right|幸福追求権]]
 	4. [[20260125100220-equal-under-law|法の下の平等]]
-	5. 自由権
+	5. [[20260125110046-right-of-freedom|自由権]]
 	6. 国務請求権
 	7. 参政権
 	8. 社会権
