@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "ffb57bb205098ed4",
+            "id": "104b50180e75fe97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260126125936-zettelkasten.md",
+                "file": "system/dashboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260126125936-zettelkasten"
+              "title": "dashboard"
             }
           }
         ],
@@ -211,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260126125936-zettelkasten.md",
+                "file": "system/dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260126125936-zettelkasten"
+              "title": "Outline of dashboard"
             }
           },
           {
@@ -247,12 +247,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffb57bb205098ed4",
+  "active": "104b50180e75fe97",
   "lastOpenFiles": [
-    "20260126125033-zettelkasten.md",
-    "20260126125936-zettelkasten.md",
+    "20260126011206-expand-depth-and-width-of-knowledge.md",
     "20260125115840-freedom-of-expression.md",
     "system/dashboard.md",
+    "20260124065658-lesson.md",
+    "20260122085626-dont-leave-unknown.md",
+    "20260126125033-zettelkasten.md",
+    "20260126125936-zettelkasten.md",
     "20260125100220-equal-under-law.md",
     "20260125091459-happiness-right.md",
     "20260123011144-administrative-scrivener.md",
@@ -269,12 +272,9 @@
     "20260124065200-do-not-be-careless-until-win.md",
     "20260124105744-person-with-human-rights.md",
     "20260124104201-principle-of-constitution.md",
-    "20260124065658-lesson.md",
     "20260124064904-chess.md",
     "20260124110114-principle-and-philosophy.md",
     "20260122111311-civil-code-ability.md",
-    "20260123125256-civil-code-lose-ability.md",
-    "20260124030921-tsuetate-onsen.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",
