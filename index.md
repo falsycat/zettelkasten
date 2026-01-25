@@ -7,7 +7,7 @@ tags: [permanent]
 publish: true
 draft: false
 ---
-このサイトでは、falsycatのzettelkastenの内容を公開しています。
+このサイトでは、falsycatの[[20260126125033-zettelkasten|zettelkasten]]の内容を公開しています。
 ## Who am I?
 - 名前: faslycat
 - 本名: tamaki-yonemaru

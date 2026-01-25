@@ -11,24 +11,10 @@
             "id": "1fda3657030d1f7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260123011144-administrative-scrivener.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260123011144-administrative-scrivener"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -83,24 +69,10 @@
             "id": "104b50180e75fe97",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/dashboard.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "dashboard"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -211,13 +183,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dashboard"
+              "title": "Outline"
             }
           },
           {
@@ -249,32 +220,32 @@
   },
   "active": "104b50180e75fe97",
   "lastOpenFiles": [
-    "20260126011206-expand-depth-and-width-of-knowledge.md",
+    "20260126012026-machiavellianism-and-constitution.md",
+    "20260124102738-meaning-of-constitution.md",
+    "20260123091511-machiavellianism.md",
+    "20260124104201-principle-of-constitution.md",
+    "20260123011144-administrative-scrivener.md",
+    "20260124105744-person-with-human-rights.md",
+    "20260125123247-limit-of-human-rights.md",
     "20260125115840-freedom-of-expression.md",
+    "20260125110046-right-of-freedom.md",
+    "20260123091535-just-world-hypothesis.md",
+    "index.md",
+    "20260126125936-zettelkasten.md",
     "system/dashboard.md",
+    "20260126011206-expand-depth-and-width-of-knowledge.md",
     "20260124065658-lesson.md",
     "20260122085626-dont-leave-unknown.md",
     "20260126125033-zettelkasten.md",
-    "20260126125936-zettelkasten.md",
     "20260125100220-equal-under-law.md",
     "20260125091459-happiness-right.md",
-    "20260123011144-administrative-scrivener.md",
-    "20260125110046-right-of-freedom.md",
     "20260124114841-scrum-is-decentralized.md",
     "20260125112256-institutional-guarantee.md",
     "20260125105220-circumstantial-judgement.md",
-    "20260125123247-limit-of-human-rights.md",
-    "20260124102738-meaning-of-constitution.md",
     "20260124021316-fx-intervention.md",
     "20260125012337-dont-give-market-confidence.md",
     "20260124064228-chess-record.md",
     "20260125014012-new-permanent-note-draft_.md",
-    "20260124065200-do-not-be-careless-until-win.md",
-    "20260124105744-person-with-human-rights.md",
-    "20260124104201-principle-of-constitution.md",
-    "20260124064904-chess.md",
-    "20260124110114-principle-and-philosophy.md",
-    "20260122111311-civil-code-ability.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",
