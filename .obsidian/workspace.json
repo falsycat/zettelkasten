@@ -207,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -223,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2e1298e7f0418d3",
+  "active": "0b90e996a8e6fd23",
   "lastOpenFiles": [
     "20260123011144-administrative-scrivener.md",
     "20260125110046-right-of-freedom.md",
