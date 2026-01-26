@@ -82,4 +82,4 @@ draft: false
 ---
 ## Ref
 2026/01/25
-- 
+- TAC 行政書士の教科書 第1編 Ch.2 Section.5
