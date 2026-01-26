@@ -42,30 +42,6 @@
             }
           },
           {
-            "id": "f2e1298e7f0418d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260125115840-freedom-of-expression.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260125115840-freedom-of-expression"
-            }
-          },
-          {
             "id": "104b50180e75fe97",
             "type": "leaf",
             "state": {
@@ -90,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260125115840-freedom-of-expression.md",
+                "file": "20260125110046-right-of-freedom.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260125115840-freedom-of-expression"
+              "title": "Outline of 20260125110046-right-of-freedom"
             }
           },
           {
@@ -233,8 +209,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8a84b73aefbb679",
+  "active": "81f725a2834dbd46",
   "lastOpenFiles": [
+    "20260125115840-freedom-of-expression.md",
     "20260126125033-zettelkasten.md",
     "20260126125936-zettelkasten.md",
     "20260126011206-expand-depth-and-width-of-knowledge.md",
@@ -246,7 +223,6 @@
     "20260123011144-administrative-scrivener.md",
     "20260124105744-person-with-human-rights.md",
     "20260125123247-limit-of-human-rights.md",
-    "20260125115840-freedom-of-expression.md",
     "20260125110046-right-of-freedom.md",
     "20260123091535-just-world-hypothesis.md",
     "index.md",
