@@ -217,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -233,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "104b50180e75fe97",
+  "active": "a8a84b73aefbb679",
   "lastOpenFiles": [
     "20260126125033-zettelkasten.md",
     "20260126125936-zettelkasten.md",
