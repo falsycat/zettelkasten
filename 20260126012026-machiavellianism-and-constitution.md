@@ -1,11 +1,9 @@
 ---
 id: 20260126012026
 title: マキャベリズムは日本国憲法と相容れない
-aliases:
-  - "20260126012026"
+aliases: ["20260126012026"]
 created: 2026-01-26 01:20
-tags:
-  - permanent
+tags: [permanent]
 publish: true
 draft: false
 ---

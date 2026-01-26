@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260126012026-machiavellianism-and-constitution.md",
+                "file": "20260125115840-freedom-of-expression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260126012026-machiavellianism-and-constitution"
+              "title": "20260125115840-freedom-of-expression"
             }
           }
         ],
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260126012026-machiavellianism-and-constitution.md",
+                "file": "20260125115840-freedom-of-expression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260126012026-machiavellianism-and-constitution"
+              "title": "Outline of 20260125115840-freedom-of-expression"
             }
           },
           {
@@ -235,8 +235,11 @@
   },
   "active": "104b50180e75fe97",
   "lastOpenFiles": [
-    "system/dashboard.md",
+    "20260126125033-zettelkasten.md",
+    "20260126125936-zettelkasten.md",
+    "20260126011206-expand-depth-and-width-of-knowledge.md",
     "20260126012026-machiavellianism-and-constitution.md",
+    "system/dashboard.md",
     "20260124102738-meaning-of-constitution.md",
     "20260123091511-machiavellianism.md",
     "20260124104201-principle-of-constitution.md",
@@ -247,11 +250,8 @@
     "20260125110046-right-of-freedom.md",
     "20260123091535-just-world-hypothesis.md",
     "index.md",
-    "20260126125936-zettelkasten.md",
-    "20260126011206-expand-depth-and-width-of-knowledge.md",
     "20260124065658-lesson.md",
     "20260122085626-dont-leave-unknown.md",
-    "20260126125033-zettelkasten.md",
     "20260125100220-equal-under-law.md",
     "20260125091459-happiness-right.md",
     "20260124114841-scrum-is-decentralized.md",
