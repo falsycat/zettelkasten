@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260125110046-right-of-freedom.md",
+                "file": "20260123011144-administrative-scrivener.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260125110046-right-of-freedom"
+              "title": "20260123011144-administrative-scrivener"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260125110046-right-of-freedom.md",
+                "file": "20260123011144-administrative-scrivener.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260125110046-right-of-freedom"
+              "title": "Outline of 20260123011144-administrative-scrivener"
             }
           },
           {
@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,9 +176,9 @@
   },
   "active": "968fa27704dcfba2",
   "lastOpenFiles": [
+    "20260125110046-right-of-freedom.md",
     "20260127093544-low-battery-decreases-performance.md",
     "20260126011206-expand-depth-and-width-of-knowledge.md",
-    "20260125110046-right-of-freedom.md",
     "20260127093334-cursor-becomes-sloppy-by-discharge.md",
     "20260127093814-starving-lower-your-performance.md",
     "20260125115840-freedom-of-expression.md",
