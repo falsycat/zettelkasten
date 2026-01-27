@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260127093544-low-battery-decreases-performance.md",
+                "file": "20260125110046-right-of-freedom.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260127093544-low-battery-decreases-performance"
+              "title": "20260125110046-right-of-freedom"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260127093544-low-battery-decreases-performance.md",
+                "file": "20260125110046-right-of-freedom.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260127093544-low-battery-decreases-performance"
+              "title": "Outline of 20260125110046-right-of-freedom"
             }
           },
           {
@@ -176,13 +176,14 @@
   },
   "active": "968fa27704dcfba2",
   "lastOpenFiles": [
+    "20260127093544-low-battery-decreases-performance.md",
+    "20260126011206-expand-depth-and-width-of-knowledge.md",
+    "20260125110046-right-of-freedom.md",
     "20260127093334-cursor-becomes-sloppy-by-discharge.md",
     "20260127093814-starving-lower-your-performance.md",
-    "20260127093544-low-battery-decreases-performance.md",
     "20260125115840-freedom-of-expression.md",
     "20260124031357-secret-places.md",
     "20260127092646-yunokami-onsen.md",
-    "20260125110046-right-of-freedom.md",
     "20260126012026-machiavellianism-and-constitution.md",
     "20260125091459-happiness-right.md",
     "20260125105220-circumstantial-judgement.md",
@@ -191,7 +192,6 @@
     "20260125100220-equal-under-law.md",
     "20260126125033-zettelkasten.md",
     "20260126125936-zettelkasten.md",
-    "20260126011206-expand-depth-and-width-of-knowledge.md",
     "system/dashboard.md",
     "20260124102738-meaning-of-constitution.md",
     "20260123091511-machiavellianism.md",
