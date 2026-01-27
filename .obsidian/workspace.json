@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd4f100f4a8a0161",
+        "id": "882c10ae2be6ca97",
         "type": "tabs",
         "children": [
           {
-            "id": "1fda3657030d1f7c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "81f725a2834dbd46",
+            "id": "968fa27704dcfba2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260124031357-place-to-go.md",
+                "file": "20260127093544-low-battery-decreases-performance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260124031357-place-to-go"
-            }
-          },
-          {
-            "id": "104b50180e75fe97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260125115840-freedom-of-expression.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260125115840-freedom-of-expression"
+              "title": "20260127093544-low-battery-decreases-performance"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260124031357-place-to-go.md",
+                "file": "20260127093544-low-battery-decreases-performance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260124031357-place-to-go"
+              "title": "Outline of 20260127093544-low-battery-decreases-performance"
             }
           },
           {
@@ -209,11 +174,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81f725a2834dbd46",
+  "active": "968fa27704dcfba2",
   "lastOpenFiles": [
+    "20260127093334-cursor-becomes-sloppy-by-discharge.md",
+    "20260127093814-starving-lower-your-performance.md",
+    "20260127093544-low-battery-decreases-performance.md",
+    "20260125115840-freedom-of-expression.md",
+    "20260124031357-secret-places.md",
     "20260127092646-yunokami-onsen.md",
     "20260125110046-right-of-freedom.md",
-    "20260125115840-freedom-of-expression.md",
     "20260126012026-machiavellianism-and-constitution.md",
     "20260125091459-happiness-right.md",
     "20260125105220-circumstantial-judgement.md",
@@ -233,10 +202,6 @@
     "index.md",
     "20260124065658-lesson.md",
     "20260122085626-dont-leave-unknown.md",
-    "20260124114841-scrum-is-decentralized.md",
-    "20260124021316-fx-intervention.md",
-    "20260125012337-dont-give-market-confidence.md",
-    "20260124064228-chess-record.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",
