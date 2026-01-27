@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260125110046-right-of-freedom.md",
+                "file": "20260124031357-place-to-go.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260125110046-right-of-freedom"
+              "title": "20260124031357-place-to-go"
             }
           },
           {
@@ -173,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260125110046-right-of-freedom.md",
+                "file": "20260124031357-place-to-go.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260125110046-right-of-freedom"
+              "title": "Outline of 20260124031357-place-to-go"
             }
           },
           {
@@ -211,12 +211,13 @@
   },
   "active": "81f725a2834dbd46",
   "lastOpenFiles": [
+    "20260127092646-yunokami-onsen.md",
+    "20260125110046-right-of-freedom.md",
     "20260125115840-freedom-of-expression.md",
     "20260126012026-machiavellianism-and-constitution.md",
     "20260125091459-happiness-right.md",
     "20260125105220-circumstantial-judgement.md",
     "20260125112256-institutional-guarantee.md",
-    "20260125110046-right-of-freedom.md",
     "20260123011144-administrative-scrivener.md",
     "20260125100220-equal-under-law.md",
     "20260126125033-zettelkasten.md",
@@ -236,7 +237,6 @@
     "20260124021316-fx-intervention.md",
     "20260125012337-dont-give-market-confidence.md",
     "20260124064228-chess-record.md",
-    "20260125014012-new-permanent-note-draft_.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",
