@@ -18,7 +18,7 @@ draft: false
 	3. [[20260125091459-happiness-right|幸福追求権]]
 	4. [[20260125100220-equal-under-law|法の下の平等]]
 	5. [[20260125110046-right-of-freedom|自由権]]
-	6. 国務請求権
+	6. [[20260128102859-right-to-petition-the-state|国務請求権]]
 	7. 参政権
 	8. 社会権
 3. 統治
