@@ -6,7 +6,7 @@ created: 2026-01-22 08:02
 tags: [permanent]
 publish: true
 draft: false
-lastmod: 2026-01-28 22:33
+lastmod: 2026-01-28 11:20
 ---
 このサイトでは、falsycatの[[20260126125033-zettelkasten|zettelkasten]]の内容を公開しています。
 ## Who am I?
