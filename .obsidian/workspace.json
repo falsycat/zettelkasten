@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "20260123011144-administrative-scrivener"
             }
+          },
+          {
+            "id": "bcaa9e5801fb147a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "チェス",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +95,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260123011144-administrative-scrivener.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260123011144-administrative-scrivener"
+              "title": "Outline"
             }
           },
           {
@@ -174,8 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "968fa27704dcfba2",
+  "active": "bcaa9e5801fb147a",
   "lastOpenFiles": [
+    "20260128071723-attack-weak-point.md",
+    "20260124064904-chess.md",
+    "20260123011144-administrative-scrivener.md",
     "20260125110046-right-of-freedom.md",
     "20260127093544-low-battery-decreases-performance.md",
     "20260126011206-expand-depth-and-width-of-knowledge.md",
@@ -188,7 +202,6 @@
     "20260125091459-happiness-right.md",
     "20260125105220-circumstantial-judgement.md",
     "20260125112256-institutional-guarantee.md",
-    "20260123011144-administrative-scrivener.md",
     "20260125100220-equal-under-law.md",
     "20260126125033-zettelkasten.md",
     "20260126125936-zettelkasten.md",
@@ -200,8 +213,6 @@
     "20260125123247-limit-of-human-rights.md",
     "20260123091535-just-world-hypothesis.md",
     "index.md",
-    "20260124065658-lesson.md",
-    "20260122085626-dont-leave-unknown.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",
