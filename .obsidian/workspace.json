@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260128071723-attack-weak-point.md",
+                "file": "20260125115840-freedom-of-expression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260128071723-attack-weak-point"
+              "title": "20260125115840-freedom-of-expression"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "チェス",
+                "query": "税関検査",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260128071723-attack-weak-point.md",
+                "file": "20260125115840-freedom-of-expression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260128071723-attack-weak-point"
+              "title": "Outline of 20260125115840-freedom-of-expression"
             }
           },
           {
@@ -201,9 +202,9 @@
   },
   "active": "bcaa9e5801fb147a",
   "lastOpenFiles": [
+    "20260128071723-attack-weak-point.md",
     "20260124064904-chess.md",
     "20260128072618-smother-the-opponent.md",
-    "20260128071723-attack-weak-point.md",
     "20260123011144-administrative-scrivener.md",
     "20260125110046-right-of-freedom.md",
     "20260127093544-low-battery-decreases-performance.md",
