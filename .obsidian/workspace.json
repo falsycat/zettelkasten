@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260128102859-right-to-petition-the-state.md",
+                "file": "20260123011144-administrative-scrivener.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260128102859-right-to-petition-the-state"
+              "title": "20260123011144-administrative-scrivener"
             }
           }
         ],
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260128102859-right-to-petition-the-state.md",
+                "file": "20260123011144-administrative-scrivener.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260128102859-right-to-petition-the-state"
+              "title": "Outline of 20260123011144-administrative-scrivener"
             }
           },
           {
@@ -201,8 +201,9 @@
   },
   "active": "bcaa9e5801fb147a",
   "lastOpenFiles": [
-    "20260123011144-administrative-scrivener.md",
+    "20260128103643-political-rights.md",
     "20260128102859-right-to-petition-the-state.md",
+    "20260123011144-administrative-scrivener.md",
     "20260125110046-right-of-freedom.md",
     "index.md",
     "20260125115840-freedom-of-expression.md",
@@ -226,7 +227,6 @@
     "20260124102738-meaning-of-constitution.md",
     "20260123091511-machiavellianism.md",
     "20260124104201-principle-of-constitution.md",
-    "20260124105744-person-with-human-rights.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",
