@@ -6,6 +6,7 @@ created: 2026-01-24 11:01
 tags: [structure]
 publish: true
 draft: false
+lastmod: 2026-01-24 11:08
 ---
 - [[20260123091535-just-world-hypothesis|公正世界仮説]]
 - [[20260123091458-cynicism|冷笑主義]]

@@ -6,6 +6,7 @@ created: 2026-01-22 08:31
 tags: [reference/web]
 publish: true
 draft: false
+lastmod: 2026-01-24 11:24
 ---
 - クレジットカード
 - 基本ポイントは、ビックポイント0.5% + JREポイント0.5% = 1%

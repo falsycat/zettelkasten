@@ -6,6 +6,7 @@ created: 2026-01-24 11:40
 tags: [reference]
 publish: true
 draft: false
+lastmod: 2026-01-24 11:54
 ---
 - レトロでは、スクラムチームの運用自体を検査して、適応する
 	- 時間はスプリントの期間に比例する

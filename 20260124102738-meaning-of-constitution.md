@@ -6,6 +6,7 @@ created: 2026-01-24 22:27
 tags: [reference/book]
 publish: true
 draft: false
+lastmod: 2026-01-25 01:18
 ---
 ## 憲法とは
 - 憲法は、国民の権利や自由の保障を目的として、国家権力を制限するために作られた国の基本ルール

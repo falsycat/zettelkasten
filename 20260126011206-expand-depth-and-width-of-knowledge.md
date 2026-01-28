@@ -6,6 +6,7 @@ created: 2026-01-26 01:12
 tags: [permanent]
 publish: true
 draft: false
+lastmod: 2026-01-26 01:17
 ---
 - [[20260126125033-zettelkasten|zettelkasten]]の知識のネットワークという考え方を使えば、既存の知識を水平、垂直に広げることができる
 	- 水平: あるノートがあったとき、その内容と並列の関係にあるノートを作成する

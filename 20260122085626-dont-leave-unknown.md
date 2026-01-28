@@ -6,6 +6,7 @@ created: 2026-01-22 08:56
 tags: [permanent]
 publish: true
 draft: false
+lastmod: 2026-01-24 11:24
 ---
 - 問題の先送りにしかならないことが多い
 - 知らないことは、ネガティブな感情の元凶になりうる

@@ -6,6 +6,7 @@ created: 2026-01-22 08:41
 tags: [reference/web]
 publish: true
 draft: false
+lastmod: 2026-01-24 11:24
 ---
 - 対象店舗利用分のみの特典(コンビニ + 飲食店)
 	- Vポイントアッププログラムで還元率アップ

@@ -6,6 +6,7 @@ created: 2026-01-22 08:16
 tags: [reference]
 publish: false
 draft: false
+lastmod: 2026-01-24 10:45
 ---
 システム全体での動作を確認する工程。
 SWT: Software Testのあとに行われ、以下のフェーズに分かれる。

@@ -6,6 +6,7 @@ created: 2026-01-23 01:11
 tags: [structure]
 publish: true
 draft: false
+lastmod: 2026-01-28 22:50
 ---
 ## TAC 行政書士の教科書
 ### 憲法

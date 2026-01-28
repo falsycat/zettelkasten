@@ -10,4 +10,5 @@ created: <% tp.file.creation_date() %>
 tags: structure
 publish: false
 draft: true
+lastmod: 2026-01-24 10:34
 ---

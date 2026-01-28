@@ -6,6 +6,7 @@ created: 2026-01-25 01:23
 tags: [permanent]
 publish: true
 draft: false
+lastmod: 2026-01-25 01:36
 ---
 - 市場参加者の大多数が同じ確信を持った時、価格が急変動してしまう
 	- 急変動すれば翌朝の電車が止ってしまう。。。

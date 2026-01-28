@@ -6,6 +6,7 @@ created: 2026-01-27 21:33
 tags: [reference/experience]
 publish: true
 draft: false
+lastmod: 2026-01-27 21:42
 ---
 - 愛用しているワイヤレスマウスの電池が切れてきたみたい
 - 同じ速度でマウスを動かしてもカーソルの速度が不定になるので、地味にイライラしてしまう

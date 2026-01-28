@@ -6,6 +6,7 @@ created: 2026-01-22 08:43
 tags: [permanent]
 publish: true
 draft: false
+lastmod: 2026-01-24 11:24
 ---
 ## 準備するべきこと
 - マイペイスリボの設定

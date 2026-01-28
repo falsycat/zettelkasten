@@ -6,5 +6,6 @@ created: 2026-01-22 22:30
 tags: [structure]
 publish: true
 draft: false
+lastmod: 2026-01-24 10:45
 ---
 - [[20260122085409-civil-code|民法1 総則(1)]]

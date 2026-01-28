@@ -6,6 +6,7 @@ created: 2026-01-24 11:48
 tags: [permanent]
 publish: false
 draft: false
+lastmod: 2026-01-25 10:12
 ---
 - メンバーは並列の権限をもち、かつ、独立した個として扱われる
 	- [[20260124111826-sense-of-values-in-scrum|スクラムの価値基準]]より

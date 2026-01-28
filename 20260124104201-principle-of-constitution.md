@@ -6,6 +6,7 @@ created: 2026-01-24 22:42
 tags: [reference/book]
 publish: true
 draft: false
+lastmod: 2026-01-25 00:38
 ---
 ## 憲法の三大原理
 - 基本的人権の尊重: 人権は人間として生まれれば当然に有するものであり、国家はこれを侵害してはならないこと

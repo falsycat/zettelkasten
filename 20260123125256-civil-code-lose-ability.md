@@ -6,6 +6,7 @@ created: 2026-01-23 00:52
 tags: [reference/video]
 publish: true
 draft: false
+lastmod: 2026-01-24 14:00
 ---
 - 失踪した人物の相続を発生させるために、失踪宣告をすることができる
 - 失踪宣告により権利能力は消滅しない

@@ -6,6 +6,7 @@ created: 2026-01-28 22:36
 tags: [reference/book]
 publish: true
 draft: false
+lastmod: 2026-01-28 22:50
 ---
 ## 選挙権の保障
 - 憲法15条1項では、選挙権を保障する

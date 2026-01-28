@@ -6,6 +6,7 @@ created: 2026-01-24 12:01
 tags: [permanent]
 publish: true
 draft: false
+lastmod: 2026-01-24 12:04
 ---
 1. [[20260124115438-software-dev-team-kickoff|ソフト開発チーム立ち上げ時にやること]]をやる
 2. POが、プロダクトゴールとしてのユーザーストーリー（1passだけ）を作成する

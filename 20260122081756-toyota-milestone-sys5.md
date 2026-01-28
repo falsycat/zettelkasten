@@ -6,6 +6,7 @@ created: 2026-01-22 08:17
 tags: [reference]
 publish: false
 draft: false
+lastmod: 2026-01-24 10:45
 ---
 SystemTestの2つ目のフェーズ。
 複数機能を組み合わせた複合・統合評価。

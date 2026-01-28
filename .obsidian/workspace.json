@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260123011144-administrative-scrivener.md",
+                "file": "20260124120835-civil-code-expression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260123011144-administrative-scrivener"
+              "title": "20260124120835-civil-code-expression"
             }
           }
         ],
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260123011144-administrative-scrivener.md",
+                "file": "20260124120835-civil-code-expression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260123011144-administrative-scrivener"
+              "title": "Outline of 20260124120835-civil-code-expression"
             }
           },
           {
@@ -201,32 +201,34 @@
   },
   "active": "bcaa9e5801fb147a",
   "lastOpenFiles": [
+    "20260125110046-right-of-freedom.md",
+    "20260126125033-zettelkasten.md",
+    "20260124102738-meaning-of-constitution.md",
+    "20260124021316-fx-intervention.md",
+    "20260124120835-civil-code-expression.md",
+    "20260127093544-low-battery-decreases-performance.md",
+    "20260124112717-sprint-planning.md",
+    "20260122081756-toyota-milestone-sys5.md",
+    "20260124112436-events-of-scrum.md",
+    "20260122081646-toyota-development-milestone-st.md",
+    "20260122011111-sunk-cost.md",
+    "20260122085717-anxiety-fear-and-angry-comes-from-ignorant.md",
+    "add_lastmod_git.py",
+    "20260126125936-zettelkasten.md",
+    "20260124114020-sprint-retrospective.md",
+    "20260124114841-scrum-is-decentralized.md",
+    "20260123091511-machiavellianism.md",
+    "20260122085449-hesitated-to-tell-cancellation-of-examine-real-estate.md",
+    "20260122084309-credit-card-and-point-strategy.md",
+    "20260122082959-view-card.md",
+    "20260122081538-toyota-development-milestone-sys4.md",
+    "20260123011144-administrative-scrivener.md",
+    "add_lastmod.py",
     "20260128103643-political-rights.md",
     "20260128102859-right-to-petition-the-state.md",
-    "20260123011144-administrative-scrivener.md",
-    "20260125110046-right-of-freedom.md",
     "index.md",
     "20260125115840-freedom-of-expression.md",
     "20260128071723-attack-weak-point.md",
-    "20260124064904-chess.md",
-    "20260128072618-smother-the-opponent.md",
-    "20260127093544-low-battery-decreases-performance.md",
-    "20260126011206-expand-depth-and-width-of-knowledge.md",
-    "20260127093334-cursor-becomes-sloppy-by-discharge.md",
-    "20260127093814-starving-lower-your-performance.md",
-    "20260124031357-secret-places.md",
-    "20260127092646-yunokami-onsen.md",
-    "20260126012026-machiavellianism-and-constitution.md",
-    "20260125091459-happiness-right.md",
-    "20260125105220-circumstantial-judgement.md",
-    "20260125112256-institutional-guarantee.md",
-    "20260125100220-equal-under-law.md",
-    "20260126125033-zettelkasten.md",
-    "20260126125936-zettelkasten.md",
-    "system/dashboard.md",
-    "20260124102738-meaning-of-constitution.md",
-    "20260123091511-machiavellianism.md",
-    "20260124104201-principle-of-constitution.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",

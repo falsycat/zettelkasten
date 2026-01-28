@@ -6,6 +6,7 @@ created: 2026-01-24 18:52
 tags: [permanent]
 publish: true
 draft: false
+lastmod: 2026-01-24 18:56
 ---
 - 勝ちを確信した瞬間に、敗北が決定する
 	- 昔どこかでこのフレーズを聞いた覚えがある

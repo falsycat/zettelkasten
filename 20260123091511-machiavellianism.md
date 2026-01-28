@@ -6,6 +6,7 @@ created: 2026-01-23 21:15
 tags: [reference]
 publish: true
 draft: false
+lastmod: 2026-01-24 11:24
 ---
 - 国家の利益を増進させるのであれば、あらゆる行為（非道徳な行為も含む）が肯定されるという思想
 ---

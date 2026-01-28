@@ -6,6 +6,7 @@ created: 2026-01-27 21:38
 tags: [reference/experience]
 publish: true
 draft: false
+lastmod: 2026-01-27 21:42
 ---
 - 考えることだってエネルギーを消費する
 	- 最近夕方ごろにモチベが死ぬのは、朝ごはんにパン1枚しか食べてなかったのが原因だったんだろうな。。。

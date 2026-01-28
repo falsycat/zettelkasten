@@ -6,6 +6,7 @@ created: 2026-01-22 23:13
 tags: [reference/video]
 publish: true
 draft: false
+lastmod: 2026-01-24 11:24
 ---
 ## 能力の設計
 - 権利能力: 権利や義務の主体となる能力。

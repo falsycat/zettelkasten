@@ -6,6 +6,7 @@ created: 2026-01-22 08:54
 tags: [reference/experience]
 publish: true
 draft: false
+lastmod: 2026-01-24 11:24
 ---
 - 内覧計画まで進めた不動産購入を、私的事情でキャンセルする必要が出てきた
 - キャンセル連絡の手段、内容をだいぶ悩んだ

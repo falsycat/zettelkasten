@@ -6,6 +6,7 @@ created: 2026-01-24 11:15
 tags: [reference/book]
 publish: true
 draft: false
+lastmod: 2026-01-24 11:24
 ---
 - スクラムとは、人々、チーム、組織が価値を生み出すための軽量級フレームワークである
 - スクラムは、以下の流れで価値を生み出し続ける

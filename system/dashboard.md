@@ -1,3 +1,6 @@
+---
+lastmod: 2026-01-24 10:45
+---
 ## Draft Notes
 ```dataview
 TABLE WITHOUT ID

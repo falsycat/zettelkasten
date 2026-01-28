@@ -6,6 +6,7 @@ created: 2026-01-28 19:26
 tags: [reference]
 publish: true
 draft: false
+lastmod: 2026-01-28 19:34
 ---
 ## Chess Game Analysis: falsycat (W) vs robertrvp (B)
 [Play Chess Online for Free with Friends & Family - Chess.com](https://www.chess.com/game/148593426004)

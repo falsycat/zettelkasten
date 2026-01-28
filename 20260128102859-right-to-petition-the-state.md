@@ -6,6 +6,7 @@ created: 2026-01-28 22:28
 tags: [reference/book]
 publish: true
 draft: false
+lastmod: 2026-01-28 22:36
 ---
 ## 請願権
 - 憲法16条は、請願権の保障を規定する

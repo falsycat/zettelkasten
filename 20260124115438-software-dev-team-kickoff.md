@@ -6,6 +6,7 @@ created: 2026-01-24 11:54
 tags: [permanent]
 publish: true
 draft: false
+lastmod: 2026-01-24 12:04
 ---
 ソフト開発チームを立ち上げた際に、一般的に何をするべきかをまとめる。
 ## フェーズ1: 目的の明確化と基盤ツールの設定

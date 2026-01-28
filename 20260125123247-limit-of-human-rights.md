@@ -6,6 +6,7 @@ created: 2026-01-25 00:32
 tags: [reference/book]
 publish: true
 draft: false
+lastmod: 2026-01-25 00:48
 ---
 ## 公共の福祉
 - 憲法で保障された自由は、公共の福祉を理由に、国により規制される場合がある

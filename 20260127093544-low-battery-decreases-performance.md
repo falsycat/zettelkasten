@@ -6,6 +6,7 @@ created: 2026-01-27 21:35
 tags: [permanent]
 publish: true
 draft: false
+lastmod: 2026-01-28 11:11
 ---
 ## 事例
 - [[20260127093334-cursor-becomes-sloppy-by-discharge|マウスの電池がなくなるとカーソルの動きが鈍くなる]]

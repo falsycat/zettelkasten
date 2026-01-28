@@ -6,6 +6,7 @@ created: 2026-01-28 19:17
 tags: [reference/web]
 publish: true
 draft: false
+lastmod: 2026-01-28 19:19
 ---
 ## ♟️ チェス対局・実力評価レポート
 

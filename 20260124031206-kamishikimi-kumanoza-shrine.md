@@ -6,6 +6,7 @@ created: 2026-01-24 15:12
 tags: [reference/video]
 publish: true
 draft: false
+lastmod: 2026-01-24 15:15
 ---
 - かみしきみくまのざじんじゃ
 ---
