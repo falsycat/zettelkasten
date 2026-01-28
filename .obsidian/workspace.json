@@ -95,8 +95,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,8 +186,9 @@
   },
   "active": "bcaa9e5801fb147a",
   "lastOpenFiles": [
-    "20260128071723-attack-weak-point.md",
     "20260124064904-chess.md",
+    "20260128072618-smother-the-opponent.md",
+    "20260128071723-attack-weak-point.md",
     "20260123011144-administrative-scrivener.md",
     "20260125110046-right-of-freedom.md",
     "20260127093544-low-battery-decreases-performance.md",
@@ -212,7 +212,6 @@
     "20260124105744-person-with-human-rights.md",
     "20260125123247-limit-of-human-rights.md",
     "20260123091535-just-world-hypothesis.md",
-    "index.md",
     "cleanup_obsidian.py",
     "system/trash",
     "00_inbox",
