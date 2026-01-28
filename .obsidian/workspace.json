@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260128072618-smother-the-opponent.md",
+                "file": "20260128071723-attack-weak-point.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260128072618-smother-the-opponent"
+              "title": "20260128071723-attack-weak-point"
             }
           }
         ],
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260128072618-smother-the-opponent.md",
+                "file": "20260128071723-attack-weak-point.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260128072618-smother-the-opponent"
+              "title": "Outline of 20260128071723-attack-weak-point"
             }
           },
           {
@@ -183,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -199,11 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8a84b73aefbb679",
+  "active": "bcaa9e5801fb147a",
   "lastOpenFiles": [
-    "20260128071723-attack-weak-point.md",
-    "20260128072618-smother-the-opponent.md",
     "20260124064904-chess.md",
+    "20260128072618-smother-the-opponent.md",
+    "20260128071723-attack-weak-point.md",
     "20260123011144-administrative-scrivener.md",
     "20260125110046-right-of-freedom.md",
     "20260127093544-low-battery-decreases-performance.md",
