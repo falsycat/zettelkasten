@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260129080743-new-reference-note-draft_.md",
+                "file": "20260129103559-new-words.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260129080743-new-reference-note-draft_"
+              "title": "20260129103559-new-words"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "税関検査",
+                "query": "法理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260129080743-new-reference-note-draft_.md",
+                "file": "20260129103559-new-words.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260129080743-new-reference-note-draft_"
+              "title": "Outline of 20260129103559-new-words"
             }
           },
           {
@@ -176,12 +176,15 @@
   },
   "active": "968fa27704dcfba2",
   "lastOpenFiles": [
+    "system/dashboard.md",
+    "20260129103559-new-words.md",
+    "20260124110114-principle-and-philosophy.md",
+    "20260123091511-machiavellianism.md",
+    "20260129080743-ostracism.md",
     "20260125105220-circumstantial-judgement.md",
-    "20260129080743-new-reference-note-draft_.md",
     "20260123011144-administrative-scrivener.md",
     "20260124120835-civil-code-expression.md",
     "index.md",
-    "20260124110114-principle-and-philosophy.md",
     "20260124114841-scrum-is-decentralized.md",
     "20260122111311-civil-code-ability.md",
     "20260124064228-chess-record.md",
@@ -199,9 +202,6 @@
     "20260125115840-freedom-of-expression.md",
     "20260125110046-right-of-freedom.md",
     "20260126125033-zettelkasten.md",
-    "20260122081646-toyota-development-milestone-st.md",
-    "20260122011111-sunk-cost.md",
-    "20260122085717-anxiety-fear-and-angry-comes-from-ignorant.md",
     "add_lastmod_git.py",
     "add_lastmod.py",
     "cleanup_obsidian.py",
