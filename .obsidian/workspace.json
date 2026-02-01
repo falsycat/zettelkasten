@@ -35,10 +35,24 @@
             "id": "8613412ec9a97c3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "20260201095139-social-rights.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "20260201095139-social-rights"
             }
           }
         ],
@@ -95,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,6 +202,7 @@
   "active": "8613412ec9a97c3c",
   "lastOpenFiles": [
     "20260123011144-administrative-scrivener.md",
+    "20260201095139-social-rights.md",
     "20260122111311-civil-code-ability.md",
     "system/trash/20260122103021-administrative-scrivener.md",
     "20260124031357-secret-places.md",
@@ -215,7 +229,6 @@
     "20260125105220-circumstantial-judgement.md",
     "20260124114841-scrum-is-decentralized.md",
     "20260124064228-chess-record.md",
-    "20260124021316-fx-intervention.md",
     "add_lastmod_git.py",
     "add_lastmod.py",
     "cleanup_obsidian.py",
