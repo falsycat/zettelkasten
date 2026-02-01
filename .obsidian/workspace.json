@@ -11,13 +11,38 @@
             "id": "bc4978d1c0789bac",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260123011144-administrative-scrivener.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260123011144-administrative-scrivener"
+            }
+          },
+          {
+            "id": "8613412ec9a97c3c",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "行政",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +95,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,10 +186,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc4978d1c0789bac",
+  "active": "8613412ec9a97c3c",
   "lastOpenFiles": [
-    "20260201071321-ai-do-not-work-properly-without-proper-input.md",
+    "20260123011144-administrative-scrivener.md",
+    "20260122111311-civil-code-ability.md",
+    "system/trash/20260122103021-administrative-scrivener.md",
+    "20260124031357-secret-places.md",
     "system/dashboard.md",
+    "20260201094311-funayama-onsen.md",
+    "20260201071321-ai-do-not-work-properly-without-proper-input.md",
     "20260201031607-try-databricks.md",
     "20260127093544-low-battery-decreases-performance.md",
     "20260201064529-my-tries.md",
@@ -182,14 +213,9 @@
     "20260124110114-principle-and-philosophy.md",
     "20260123091511-machiavellianism.md",
     "20260125105220-circumstantial-judgement.md",
-    "20260123011144-administrative-scrivener.md",
     "20260124114841-scrum-is-decentralized.md",
-    "20260122111311-civil-code-ability.md",
     "20260124064228-chess-record.md",
     "20260124021316-fx-intervention.md",
-    "20260124102738-meaning-of-constitution.md",
-    "20260124114400-product-backlog.md",
-    "20260126125936-zettelkasten.md",
     "add_lastmod_git.py",
     "add_lastmod.py",
     "cleanup_obsidian.py",
