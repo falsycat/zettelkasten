@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260131012335-verbalize-leads-solution.md",
+                "file": "20260201031607-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260131012335-verbalize-leads-solution"
+              "title": "20260201031607-new-reference-note-draft_"
             }
           }
         ]
@@ -176,10 +176,12 @@
   },
   "active": "968fa27704dcfba2",
   "lastOpenFiles": [
+    "20260131012335-verbalize-leads-solution.md",
+    "20260201031607-new-reference-note-draft_.md",
+    "20260201031249-new-reference-note-draft_.md",
     "20260124104201-principle-of-constitution.md",
     "20260124115741-testing-strategy.md",
     "20260122083952-p-one-wiz-card.md",
-    "20260131012335-verbalize-leads-solution.md",
     "20260131011730-verbalize-anxiety.md",
     "20260124120835-civil-code-expression.md",
     "20260129080743-ostracism.md",
@@ -200,8 +202,6 @@
     "20260122081756-toyota-milestone-sys5.md",
     "20260124112846-daily-scrum.md",
     "20260124112436-events-of-scrum.md",
-    "20260127093544-low-battery-decreases-performance.md",
-    "20260124114020-sprint-retrospective.md",
     "add_lastmod_git.py",
     "add_lastmod.py",
     "cleanup_obsidian.py",
