@@ -55,8 +55,7 @@
               "title": "20260201095139-social-rights"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,16 +198,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8613412ec9a97c3c",
+  "active": "bc4978d1c0789bac",
   "lastOpenFiles": [
-    "20260123011144-administrative-scrivener.md",
     "20260201095139-social-rights.md",
+    "20260125115840-freedom-of-expression.md",
+    "20260201071321-ai-do-not-work-properly-without-proper-input.md",
+    "20260124031357-secret-places.md",
+    "20260123011144-administrative-scrivener.md",
     "20260122111311-civil-code-ability.md",
     "system/trash/20260122103021-administrative-scrivener.md",
-    "20260124031357-secret-places.md",
     "system/dashboard.md",
     "20260201094311-funayama-onsen.md",
-    "20260201071321-ai-do-not-work-properly-without-proper-input.md",
     "20260201031607-try-databricks.md",
     "20260127093544-low-battery-decreases-performance.md",
     "20260201064529-my-tries.md",
@@ -228,7 +228,6 @@
     "20260123091511-machiavellianism.md",
     "20260125105220-circumstantial-judgement.md",
     "20260124114841-scrum-is-decentralized.md",
-    "20260124064228-chess-record.md",
     "add_lastmod_git.py",
     "add_lastmod.py",
     "cleanup_obsidian.py",

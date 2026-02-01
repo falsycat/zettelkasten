@@ -21,7 +21,7 @@ lastmod: 2026-01-28 22:50
 	5. [[20260125110046-right-of-freedom|自由権]]
 	6. [[20260128102859-right-to-petition-the-state|国務請求権]]
 	7. [[20260128103643-political-rights|参政権]]
-	8. 社会権
+	8. [[20260201095139-social-rights|社会権]]
 3. 統治
 	1. 国会
 	2. 内閣
