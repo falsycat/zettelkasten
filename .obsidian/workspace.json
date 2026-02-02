@@ -11,24 +11,10 @@
             "id": "bc4978d1c0789bac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260124065658-lesson.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260124065658-lesson"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -108,8 +94,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,13 +186,15 @@
   },
   "active": "bc4978d1c0789bac",
   "lastOpenFiles": [
+    "20260202102834-too-much-is-too-bad.md",
+    "20260125105220-circumstantial-judgement.md",
+    "20260201095139-social-rights.md",
+    "20260124065658-lesson.md",
     "20260202103144-too-much-natto.md",
     "system/dashboard.md",
-    "20260202102834-too-much-is-too-bad.md",
     "20260202101931-electric-blanket-degrades-your-sleep.md",
     "20260202103737-new-reference-note-draft_.md",
     "20260123011144-administrative-scrivener.md",
-    "20260201095139-social-rights.md",
     "20260125115840-freedom-of-expression.md",
     "20260201071321-ai-do-not-work-properly-without-proper-input.md",
     "20260124031357-secret-places.md",
@@ -227,8 +214,6 @@
     "20260122083952-p-one-wiz-card.md",
     "20260124120835-civil-code-expression.md",
     "20260129080743-ostracism.md",
-    "20260129103559-new-words.md",
-    "index.md",
     "add_lastmod_git.py",
     "add_lastmod.py",
     "cleanup_obsidian.py",
