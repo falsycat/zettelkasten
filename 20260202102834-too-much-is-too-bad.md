@@ -1,13 +1,12 @@
 ---
 id: 20260202102834
 title: やりすぎは良くない
-aliases:
-  - "20260202102834"
+aliases: ["20260202102834"]
 created: 2026-02-02 22:28
-tags: permanent
+tags: [permanent]
 publish: true
 draft: false
-lastmod: 2026-01-24 10:34
+lastmod: 2026-02-02 22:45
 ---
 - 良いこと、嬉しいことであっても、やりすぎるとよくない結果をもたらすことが多い7
 - 過ぎたるは及ばざるが如し
