@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260202102834-too-much-is-too-bad.md",
+                "file": "20260205080342-the-diet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260202102834-too-much-is-too-bad"
+              "title": "20260205080342-the-diet"
             }
           },
           {
@@ -201,6 +201,7 @@
   "active": "bc4978d1c0789bac",
   "lastOpenFiles": [
     "20260202102834-too-much-is-too-bad.md",
+    "20260205080342-the-diet.md",
     "20260125105220-circumstantial-judgement.md",
     "20260201095139-social-rights.md",
     "20260124065658-lesson.md",
@@ -227,7 +228,6 @@
     "20260124115741-testing-strategy.md",
     "20260122083952-p-one-wiz-card.md",
     "20260124120835-civil-code-expression.md",
-    "20260129080743-ostracism.md",
     "add_lastmod_git.py",
     "add_lastmod.py",
     "cleanup_obsidian.py",
