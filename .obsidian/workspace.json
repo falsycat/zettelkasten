@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260201095139-social-rights.md",
+                "file": "20260123011144-administrative-scrivener.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260201095139-social-rights"
+              "title": "20260123011144-administrative-scrivener"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260205080342-the-diet.md",
+                "file": "20260123011144-administrative-scrivener.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260205080342-the-diet"
+              "title": "Outline of 20260123011144-administrative-scrivener"
             }
           },
           {
@@ -198,14 +199,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc4978d1c0789bac",
+  "active": "8613412ec9a97c3c",
   "lastOpenFiles": [
-    "system/dashboard.md",
+    "20260201095139-social-rights.md",
     "20260205080342-the-diet.md",
     "20260123011144-administrative-scrivener.md",
+    "system/dashboard.md",
     "20260202102834-too-much-is-too-bad.md",
     "20260125105220-circumstantial-judgement.md",
-    "20260201095139-social-rights.md",
     "20260124065658-lesson.md",
     "20260202103144-too-much-natto.md",
     "20260202101931-electric-blanket-degrades-your-sleep.md",
