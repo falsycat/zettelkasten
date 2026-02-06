@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260207123640-info-should-be-saved-in-one-place.md",
+                "file": "20260129103559-new-words.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260207123640-info-should-be-saved-in-one-place"
+              "title": "20260129103559-new-words"
             }
           }
         ],
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260207123640-info-should-be-saved-in-one-place.md",
+                "file": "20260129103559-new-words.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260207123640-info-should-be-saved-in-one-place"
+              "title": "Outline of 20260129103559-new-words"
             }
           },
           {
@@ -187,21 +187,21 @@
   },
   "active": "8f5610af8b877b19",
   "lastOpenFiles": [
-    "system/dashboard.md",
+    "20260207121010-medallion-architecture.md",
+    "20260205080342-the-diet.md",
+    "20260207120858-new-reference-note-draft_.md",
     "20260207120908-lakehouse.md",
     "20260207122637-zettelkasten-is-lakehouse.md",
+    "20260124065658-lesson.md",
     "20260207123640-info-should-be-saved-in-one-place.md",
-    "20260207121010-medallion-architecture.md",
+    "20260202102834-too-much-is-too-bad.md",
+    "system/dashboard.md",
     "20260126125033-zettelkasten.md",
     "20260126011206-expand-depth-and-width-of-knowledge.md",
     "20260207122632-new-reference-note-draft_.md",
-    "20260207120858-new-reference-note-draft_.md",
     "20260123011144-administrative-scrivener.md",
-    "20260202102834-too-much-is-too-bad.md",
     "20260201095139-social-rights.md",
-    "20260205080342-the-diet.md",
     "20260125105220-circumstantial-judgement.md",
-    "20260124065658-lesson.md",
     "20260202103144-too-much-natto.md",
     "20260202101931-electric-blanket-degrades-your-sleep.md",
     "20260202103737-new-reference-note-draft_.md",
