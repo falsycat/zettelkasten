@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-path:system  ",
+  "collapse-filter": false,
+  "search": "zette",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -40,5 +40,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.4251772704059493,
-  "close": true
+  "close": false
 }
