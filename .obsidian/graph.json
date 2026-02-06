@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "zette",
+  "collapse-filter": true,
+  "search": "-path:system  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260207122637-new-permanent-note-draft_.md",
+                "file": "20260207121010-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260207122637-new-permanent-note-draft_"
+              "title": "20260207121010-new-reference-note-draft_"
+            }
+          },
+          {
+            "id": "8f5610af8b877b19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260126125033-zettelkasten.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260126125033-zettelkasten"
             }
           }
         ]
@@ -63,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "教訓",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260207122637-new-permanent-note-draft_.md",
+                "file": "20260207121010-new-reference-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260207122637-new-permanent-note-draft_"
+              "title": "Outline of 20260207121010-new-reference-note-draft_"
             }
           },
           {
@@ -176,12 +200,13 @@
   },
   "active": "8613412ec9a97c3c",
   "lastOpenFiles": [
-    "20260207120908-lakehouse.md",
-    "20260207122637-new-permanent-note-draft_.md",
-    "20260126011206-expand-depth-and-width-of-knowledge.md",
+    "20260207123640-info-should-be-saved-in-one-place.md",
     "20260126125033-zettelkasten.md",
-    "20260207122632-new-reference-note-draft_.md",
+    "20260207120908-lakehouse.md",
+    "20260207122637-zettelkasten-is-lakehouse.md",
     "20260207121010-new-reference-note-draft_.md",
+    "20260126011206-expand-depth-and-width-of-knowledge.md",
+    "20260207122632-new-reference-note-draft_.md",
     "20260207120858-new-reference-note-draft_.md",
     "20260123011144-administrative-scrivener.md",
     "20260202102834-too-much-is-too-bad.md",
@@ -201,7 +226,6 @@
     "20260201094311-funayama-onsen.md",
     "20260201031607-try-databricks.md",
     "20260127093544-low-battery-decreases-performance.md",
-    "20260201064529-my-tries.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
