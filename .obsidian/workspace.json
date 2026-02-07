@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260208122922-the-cabinet.md",
+                "file": "20260124065658-lesson.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260208122922-the-cabinet"
+              "title": "20260124065658-lesson"
             }
           }
         ],
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "深",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260208122922-the-cabinet.md",
+                "file": "20260124065658-lesson.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260208122922-the-cabinet"
+              "title": "Outline of 20260124065658-lesson"
             }
           },
           {
@@ -187,8 +187,12 @@
   },
   "active": "8f5610af8b877b19",
   "lastOpenFiles": [
-    "20260205080342-the-diet.md",
+    "20260208011924-decrease-and-control-uncertainty.md",
+    "20260126011206-expand-depth-and-width-of-knowledge.md",
+    "20260122085626-dont-leave-unknown.md",
+    "20260124115741-testing-strategy.md",
     "20260208122922-the-cabinet.md",
+    "20260205080342-the-diet.md",
     "20260129103559-new-words.md",
     "20260207120858-idempotency.md",
     "system/dashboard.md",
@@ -199,7 +203,6 @@
     "20260207122637-zettelkasten-is-lakehouse.md",
     "20260202102834-too-much-is-too-bad.md",
     "20260126125033-zettelkasten.md",
-    "20260126011206-expand-depth-and-width-of-knowledge.md",
     "20260207122632-new-reference-note-draft_.md",
     "20260123011144-administrative-scrivener.md",
     "20260201095139-social-rights.md",
@@ -210,9 +213,6 @@
     "20260125115840-freedom-of-expression.md",
     "20260201071321-ai-do-not-work-properly-without-proper-input.md",
     "20260124031357-secret-places.md",
-    "20260122111311-civil-code-ability.md",
-    "system/trash/20260122103021-administrative-scrivener.md",
-    "20260201094311-funayama-onsen.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
