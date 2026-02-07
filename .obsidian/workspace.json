@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260124065658-lesson.md",
+                "file": "20260123011144-administrative-scrivener.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260124065658-lesson"
+              "title": "20260123011144-administrative-scrivener"
             }
           }
         ],
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260124065658-lesson.md",
+                "file": "20260123011144-administrative-scrivener.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260124065658-lesson"
+              "title": "Outline of 20260123011144-administrative-scrivener"
             }
           },
           {
@@ -187,6 +187,7 @@
   },
   "active": "8f5610af8b877b19",
   "lastOpenFiles": [
+    "20260124065658-lesson.md",
     "20260208011924-decrease-and-control-uncertainty.md",
     "20260126011206-expand-depth-and-width-of-knowledge.md",
     "20260122085626-dont-leave-unknown.md",
@@ -197,7 +198,6 @@
     "20260207120858-idempotency.md",
     "system/dashboard.md",
     "20260207121010-medallion-architecture.md",
-    "20260124065658-lesson.md",
     "20260207123640-info-should-be-saved-in-one-place.md",
     "20260207120908-lakehouse.md",
     "20260207122637-zettelkasten-is-lakehouse.md",
