@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260129103559-new-words.md",
+                "file": "20260208122922-the-cabinet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260129103559-new-words"
+              "title": "20260208122922-the-cabinet"
             }
           }
         ],
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260129103559-new-words.md",
+                "file": "20260208122922-the-cabinet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260129103559-new-words"
+              "title": "Outline of 20260208122922-the-cabinet"
             }
           },
           {
@@ -187,12 +187,13 @@
   },
   "active": "8f5610af8b877b19",
   "lastOpenFiles": [
+    "20260129103559-new-words.md",
+    "20260208122922-the-cabinet.md",
     "20260207120858-idempotency.md",
     "system/dashboard.md",
     "20260207121010-medallion-architecture.md",
     "20260124065658-lesson.md",
     "20260207123640-info-should-be-saved-in-one-place.md",
-    "20260129103559-new-words.md",
     "20260205080342-the-diet.md",
     "20260207120908-lakehouse.md",
     "20260207122637-zettelkasten-is-lakehouse.md",
@@ -212,7 +213,6 @@
     "20260122111311-civil-code-ability.md",
     "system/trash/20260122103021-administrative-scrivener.md",
     "20260201094311-funayama-onsen.md",
-    "20260201031607-try-databricks.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
