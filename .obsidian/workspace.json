@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260207120858-new-reference-note-draft_.md",
+                "file": "20260129103559-new-words.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260207120858-new-reference-note-draft_"
+              "title": "20260129103559-new-words"
             }
           }
         ],
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260207120858-new-reference-note-draft_.md",
+                "file": "20260129103559-new-words.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260207120858-new-reference-note-draft_"
+              "title": "Outline of 20260129103559-new-words"
             }
           },
           {
@@ -187,13 +187,13 @@
   },
   "active": "8f5610af8b877b19",
   "lastOpenFiles": [
+    "20260207120858-idempotency.md",
     "system/dashboard.md",
     "20260207121010-medallion-architecture.md",
     "20260124065658-lesson.md",
     "20260207123640-info-should-be-saved-in-one-place.md",
     "20260129103559-new-words.md",
     "20260205080342-the-diet.md",
-    "20260207120858-new-reference-note-draft_.md",
     "20260207120908-lakehouse.md",
     "20260207122637-zettelkasten-is-lakehouse.md",
     "20260202102834-too-much-is-too-bad.md",
