@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260209120022-the-court.md",
+                "file": "20260210123854-new-permanent-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260209120022-the-court"
+              "title": "20260210123854-new-permanent-note-draft_"
             }
           }
         ],
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260209120022-the-court.md",
+                "file": "20260210123854-new-permanent-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260209120022-the-court"
+              "title": "Outline of 20260210123854-new-permanent-note-draft_"
             }
           },
           {
@@ -187,8 +187,10 @@
   },
   "active": "8f5610af8b877b19",
   "lastOpenFiles": [
-    "20260208122922-the-cabinet.md",
+    "20260210123343-new-reference-note-draft_.md",
+    "20260210123854-new-permanent-note-draft_.md",
     "20260209120022-the-court.md",
+    "20260208122922-the-cabinet.md",
     "20260123011144-administrative-scrivener.md",
     "20260124065658-lesson.md",
     "20260208011924-decrease-and-control-uncertainty.md",
@@ -211,8 +213,6 @@
     "20260202103144-too-much-natto.md",
     "20260202101931-electric-blanket-degrades-your-sleep.md",
     "20260202103737-new-reference-note-draft_.md",
-    "20260125115840-freedom-of-expression.md",
-    "20260201071321-ai-do-not-work-properly-without-proper-input.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
