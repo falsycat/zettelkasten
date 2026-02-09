@@ -1,10 +1,12 @@
 ---
 id: 20260124114841
 title: スクラムはdecentralized的である
-aliases: ["20260124114841"]
+aliases:
+  - "20260124114841"
 created: 2026-01-24 11:48
-tags: [permanent]
-publish: false
+tags:
+  - permanent
+publish: true
 draft: false
 lastmod: 2026-01-25 10:12
 ---

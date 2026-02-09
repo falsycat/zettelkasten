@@ -9,6 +9,14 @@ FROM !"system"
 WHERE draft = true OR endswith(file.name, "-draft_")
 LIMIT 30
 ```
+## Unpublished
+```dataview
+TABLE WITHOUT ID
+  link(file.link, title) AS "Note"
+FROM !"system"
+WHERE publish = false
+LIMIT 30
+```
 ## Weak Reference Notes
 ```dataview
 TABLE WITHOUT ID
