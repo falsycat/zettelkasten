@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260124114841-scrum-is-decentralized.md",
+                "file": "20260209120022-the-court.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260124114841-scrum-is-decentralized"
+              "title": "20260209120022-the-court"
             }
           }
         ],
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260124114841-scrum-is-decentralized.md",
+                "file": "20260209120022-the-court.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260124114841-scrum-is-decentralized"
+              "title": "Outline of 20260209120022-the-court"
             }
           },
           {
@@ -187,9 +187,9 @@
   },
   "active": "8f5610af8b877b19",
   "lastOpenFiles": [
+    "20260124114841-scrum-is-decentralized.md",
     "20260209120022-the-court.md",
     "system/dashboard.md",
-    "20260124114841-scrum-is-decentralized.md",
     "20260210123854-two-thirds-not-dictatorship.md",
     "20260210123343-ldp-won-two-third.md",
     "20260129103559-new-words.md",
