@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260212115949-new-reference-note-draft_.md",
+                "file": "20260213120541-new-permanent-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260212115949-new-reference-note-draft_"
+              "title": "20260213120541-new-permanent-note-draft_"
             }
           }
         ],
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "深",
+                "query": "戦略",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260212115949-new-reference-note-draft_.md",
+                "file": "20260213120541-new-permanent-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260212115949-new-reference-note-draft_"
+              "title": "Outline of 20260213120541-new-permanent-note-draft_"
             }
           },
           {
@@ -187,8 +188,10 @@
   },
   "active": "8f5610af8b877b19",
   "lastOpenFiles": [
+    "20260122084309-credit-card-and-point-strategy.md",
+    "20260213120541-new-permanent-note-draft_.md",
+    "20260212115949-revo-payments-unit.md",
     "20260209120022-the-court.md",
-    "20260212115949-new-reference-note-draft_.md",
     "20260124114841-scrum-is-decentralized.md",
     "system/dashboard.md",
     "20260210123854-two-thirds-not-dictatorship.md",
@@ -211,8 +214,6 @@
     "20260207122637-zettelkasten-is-lakehouse.md",
     "20260202102834-too-much-is-too-bad.md",
     "20260126125033-zettelkasten.md",
-    "20260207122632-new-reference-note-draft_.md",
-    "20260201095139-social-rights.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
