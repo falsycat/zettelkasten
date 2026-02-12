@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260123011144-administrative-scrivener.md",
+                "file": "20260209120022-the-court.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260123011144-administrative-scrivener"
+              "title": "20260209120022-the-court"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260123011144-administrative-scrivener.md",
+                "file": "20260209120022-the-court.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260123011144-administrative-scrivener"
+              "title": "Outline of 20260209120022-the-court"
             }
           },
           {
@@ -174,16 +174,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b90e996a8e6fd23",
+  "active": "8613412ec9a97c3c",
   "lastOpenFiles": [
-    "20260123011144-administrative-scrivener.md",
-    "20260208011924-decrease-and-control-uncertainty.md",
-    "20260129103559-new-words.md",
+    "20260124065658-lesson.md",
     "20260122082145-toyota-terms.md",
+    "20260129103559-new-words.md",
+    "20260213122429-check-revo-payments-unit.md",
+    "20260208011924-decrease-and-control-uncertainty.md",
+    "20260123011144-administrative-scrivener.md",
     "20260212115949-revo-payments-unit.md",
     "20260209120022-the-court.md",
     "20260213120541-my-pace-revo-hacking-is-unreasonable.md",
-    "20260213122429-check-revo-payments-unit.md",
     "system/dashboard.md",
     "20260122084309-credit-card-and-point-strategy.md",
     "20260124114841-scrum-is-decentralized.md",
@@ -193,7 +194,6 @@
     "20260126012026-machiavellianism-and-constitution.md",
     "20260205080342-the-diet.md",
     "20260208122922-the-cabinet.md",
-    "20260124065658-lesson.md",
     "20260126011206-expand-depth-and-width-of-knowledge.md",
     "20260122085626-dont-leave-unknown.md",
     "20260124115741-testing-strategy.md",
