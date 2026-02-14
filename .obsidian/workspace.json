@@ -11,10 +11,24 @@
             "id": "8875588162ce5bde",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "20260215020331-pioneer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260215020331-pioneer"
             }
           }
         ]
@@ -124,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "20260215020331-pioneer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 20260215020331-pioneer"
             }
           },
           {
@@ -161,8 +176,10 @@
   },
   "active": "8875588162ce5bde",
   "lastOpenFiles": [
-    "20260215012339-sns-ruins-democracy.md",
+    "20260215020556-memorable-music.md",
+    "20260215020331-pioneer.md",
     "20260129103559-new-words.md",
+    "20260215012339-sns-ruins-democracy.md",
     "20260215011922-echo-chamber.md",
     "20260215013733-online-abuse-in-elections.md",
     "system/dashboard.md",
@@ -185,8 +202,6 @@
     "20260214025711-quartz-disable-og-image.md",
     "20260214015230-administrative-scrivener-quiz-constitution.md",
     "20260125110046-right-of-freedom.md",
-    "20260124102738-meaning-of-constitution.md",
-    "20260213011925-ratification.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
