@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260214011146-finance.md",
+                "file": "system/dashboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260214011146-finance"
+              "title": "dashboard"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260214011146-finance.md",
+                "file": "system/dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260214011146-finance"
+              "title": "Outline of dashboard"
             }
           },
           {
@@ -176,24 +176,24 @@
   },
   "active": "8875588162ce5bde",
   "lastOpenFiles": [
-    "system/dashboard.md",
-    "20260214071239-its-already-settled.md",
-    "20260214073907-memorable-quotes.md",
-    "20260214073708-be-happy-without-me.md",
-    "20260129103559-new-words.md",
-    "20260214074118-im-sorry-it-had-to-be-this-way.md",
-    "20260214073235-serenade.md",
+    "20260214011146-finance.md",
     "20260214072142-action-needs-motivation.md",
+    "20260123011144-administrative-scrivener.md",
+    "20260214074118-im-sorry-it-had-to-be-this-way.md",
+    "20260214071239-its-already-settled.md",
+    "20260214073708-be-happy-without-me.md",
+    "system/dashboard.md",
+    "20260214073907-memorable-quotes.md",
+    "20260129103559-new-words.md",
+    "20260214073235-serenade.md",
     "20260124065658-lesson.md",
     "20260214030513-time-is-valuable.md",
     "20260202102834-too-much-is-too-bad.md",
     "20260214025711-quartz-disable-og-image.md",
-    "20260123011144-administrative-scrivener.md",
     "20260214015230-administrative-scrivener-quiz-constitution.md",
     "20260125110046-right-of-freedom.md",
     "20260124102738-meaning-of-constitution.md",
     "20260213011925-ratification.md",
-    "20260214011146-finance.md",
     "20260213011128-the-emperor.md",
     "20260209120022-the-court.md",
     "20260213010804-new-reference-note-draft_.md",
