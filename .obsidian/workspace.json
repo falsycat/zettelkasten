@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260214095221-principal-of-civil-law.md",
+                "file": "20260214100702-ability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260214095221-principal-of-civil-law"
+              "title": "20260214100702-ability"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260214095221-principal-of-civil-law.md",
+                "file": "20260214100702-ability.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260214095221-principal-of-civil-law"
+              "title": "Outline of 20260214100702-ability"
             }
           },
           {
@@ -176,12 +176,13 @@
   },
   "active": "8875588162ce5bde",
   "lastOpenFiles": [
-    "20260129080743-ostracism.md",
-    "20260214095221-principal-of-civil-law.md",
-    "system/dashboard.md",
-    "20260214011146-finance.md",
-    "20260214072142-action-needs-motivation.md",
     "20260123011144-administrative-scrivener.md",
+    "20260214100702-ability.md",
+    "20260214095221-principal-of-civil-law.md",
+    "20260214011146-finance.md",
+    "20260129080743-ostracism.md",
+    "system/dashboard.md",
+    "20260214072142-action-needs-motivation.md",
     "20260214074118-im-sorry-it-had-to-be-this-way.md",
     "20260214071239-its-already-settled.md",
     "20260214073708-be-happy-without-me.md",
@@ -201,7 +202,6 @@
     "20260213010804-new-reference-note-draft_.md",
     "20260208011924-decrease-and-control-uncertainty.md",
     "20260208122922-the-cabinet.md",
-    "20260122082145-toyota-terms.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
