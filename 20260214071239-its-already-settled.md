@@ -1,11 +1,13 @@
 ---
 id: 20260214071239
 title: 「もう良いんだった」
-aliases: ["20260214071239"]
+aliases:
+  - "20260214071239"
 created: 2026-02-14 19:12
-tags: [reference/novel]
+tags:
+  - reference/novel
 publish: true
-draft: true
+draft: false
 lastmod: 2026-02-14 19:20
 ---
 - 主人公は、復讐の対象者である自身の父親が既に死亡したと誤認し、父親の身元を究明する取り組みをやめた
