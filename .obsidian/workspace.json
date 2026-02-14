@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260215020331-pioneer.md",
+                "file": "system/dashboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260215020331-pioneer"
+              "title": "dashboard"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260215020331-pioneer.md",
+                "file": "system/dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260215020331-pioneer"
+              "title": "Outline of dashboard"
             }
           },
           {
@@ -176,9 +176,9 @@
   },
   "active": "8875588162ce5bde",
   "lastOpenFiles": [
-    "20260215020556-memorable-music.md",
     "20260215020331-pioneer.md",
     "20260129103559-new-words.md",
+    "20260215020556-memorable-music.md",
     "20260215012339-sns-ruins-democracy.md",
     "20260215011922-echo-chamber.md",
     "20260215013733-online-abuse-in-elections.md",
