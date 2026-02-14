@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260123011144-administrative-scrivener.md",
+                "file": "20260214015230-administrative-scrivener-quiz-constitution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260123011144-administrative-scrivener"
+              "title": "20260214015230-administrative-scrivener-quiz-constitution"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260123011144-administrative-scrivener.md",
+                "file": "20260214015230-administrative-scrivener-quiz-constitution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260123011144-administrative-scrivener"
+              "title": "Outline of 20260214015230-administrative-scrivener-quiz-constitution"
             }
           },
           {
@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -174,10 +174,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8613412ec9a97c3c",
+  "active": "a8a84b73aefbb679",
   "lastOpenFiles": [
-    "20260214015230-.md",
     "20260123011144-administrative-scrivener.md",
+    "20260124102738-meaning-of-constitution.md",
+    "20260214015230-administrative-scrivener-quiz-constitution.md",
     "20260213011925-ratification.md",
     "20260214011146-new-reference-note-draft_.md",
     "20260213011128-the-emperor.md",
@@ -201,7 +202,6 @@
     "20260205080342-the-diet.md",
     "20260126011206-expand-depth-and-width-of-knowledge.md",
     "20260122085626-dont-leave-unknown.md",
-    "20260124115741-testing-strategy.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
