@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260213010804-new-reference-note-draft_.md",
+                "file": "20260214011146-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260213010804-new-reference-note-draft_"
+              "title": "20260214011146-new-reference-note-draft_"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260213010804-new-reference-note-draft_.md",
+                "file": "20260214011146-new-reference-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260213010804-new-reference-note-draft_"
+              "title": "Outline of 20260214011146-new-reference-note-draft_"
             }
           },
           {
@@ -176,13 +176,14 @@
   },
   "active": "8613412ec9a97c3c",
   "lastOpenFiles": [
-    "system/dashboard.md",
     "20260123011144-administrative-scrivener.md",
-    "20260208011924-decrease-and-control-uncertainty.md",
+    "20260214011146-new-reference-note-draft_.md",
     "20260213011925-ratification.md",
     "20260213011128-the-emperor.md",
     "20260209120022-the-court.md",
     "20260213010804-new-reference-note-draft_.md",
+    "system/dashboard.md",
+    "20260208011924-decrease-and-control-uncertainty.md",
     "20260208122922-the-cabinet.md",
     "20260124065658-lesson.md",
     "20260122082145-toyota-terms.md",
@@ -201,7 +202,6 @@
     "20260122085626-dont-leave-unknown.md",
     "20260124115741-testing-strategy.md",
     "20260207120858-idempotency.md",
-    "20260207121010-medallion-architecture.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
