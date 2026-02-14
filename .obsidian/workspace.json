@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/dashboard.md",
+                "file": "20260129080743-ostracism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dashboard"
+              "title": "20260129080743-ostracism"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/dashboard.md",
+                "file": "20260129080743-ostracism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dashboard"
+              "title": "Outline of 20260129080743-ostracism"
             }
           },
           {
@@ -176,13 +176,13 @@
   },
   "active": "8875588162ce5bde",
   "lastOpenFiles": [
+    "system/dashboard.md",
     "20260214011146-finance.md",
     "20260214072142-action-needs-motivation.md",
     "20260123011144-administrative-scrivener.md",
     "20260214074118-im-sorry-it-had-to-be-this-way.md",
     "20260214071239-its-already-settled.md",
     "20260214073708-be-happy-without-me.md",
-    "system/dashboard.md",
     "20260214073907-memorable-quotes.md",
     "20260129103559-new-words.md",
     "20260214073235-serenade.md",
