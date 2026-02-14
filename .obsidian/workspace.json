@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260123011144-administrative-scrivener.md",
+                "file": "20260214030513-time-is-valuable.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260123011144-administrative-scrivener"
+              "title": "20260214030513-time-is-valuable"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260123011144-administrative-scrivener.md",
+                "file": "20260214030513-time-is-valuable.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260123011144-administrative-scrivener"
+              "title": "Outline of 20260214030513-time-is-valuable"
             }
           },
           {
@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,8 +176,13 @@
   },
   "active": "8875588162ce5bde",
   "lastOpenFiles": [
-    "20260214015230-administrative-scrivener-quiz-constitution.md",
+    "20260202102834-too-much-is-too-bad.md",
+    "20260214030513-time-is-valuable.md",
+    "20260124065658-lesson.md",
+    "20260214025711-quartz-disable-og-image.md",
+    "system/dashboard.md",
     "20260123011144-administrative-scrivener.md",
+    "20260214015230-administrative-scrivener-quiz-constitution.md",
     "20260125110046-right-of-freedom.md",
     "20260124102738-meaning-of-constitution.md",
     "20260213011925-ratification.md",
@@ -185,10 +190,8 @@
     "20260213011128-the-emperor.md",
     "20260209120022-the-court.md",
     "20260213010804-new-reference-note-draft_.md",
-    "system/dashboard.md",
     "20260208011924-decrease-and-control-uncertainty.md",
     "20260208122922-the-cabinet.md",
-    "20260124065658-lesson.md",
     "20260122082145-toyota-terms.md",
     "20260129103559-new-words.md",
     "20260213122429-check-revo-payments-unit.md",
@@ -199,9 +202,6 @@
     "20260210123854-two-thirds-not-dictatorship.md",
     "20260210123343-ldp-won-two-third.md",
     "20260123091511-machiavellianism.md",
-    "20260126012026-machiavellianism-and-constitution.md",
-    "20260205080342-the-diet.md",
-    "20260126011206-expand-depth-and-width-of-knowledge.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
