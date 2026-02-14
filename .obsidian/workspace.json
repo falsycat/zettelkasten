@@ -11,24 +11,10 @@
             "id": "8875588162ce5bde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260215012339-sns-ruins-democracy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260215012339-sns-ruins-democracy"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -138,13 +124,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260215012339-sns-ruins-democracy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260215012339-sns-ruins-democracy"
+              "title": "Outline"
             }
           },
           {
@@ -176,13 +161,15 @@
   },
   "active": "8875588162ce5bde",
   "lastOpenFiles": [
-    "20260215011922-echo-chamber.md",
     "20260215012339-sns-ruins-democracy.md",
+    "20260129103559-new-words.md",
+    "20260215011922-echo-chamber.md",
+    "20260215013733-online-abuse-in-elections.md",
+    "system/dashboard.md",
     "20260215125642-decl-of-death.md",
     "20260123011144-administrative-scrivener.md",
     "20260214100702-ability.md",
     "20260214073708-be-happy-without-me.md",
-    "system/dashboard.md",
     "20260214095221-principal-of-civil-law.md",
     "20260122111311-civil-code-ability.md",
     "20260214011146-finance.md",
@@ -191,7 +178,6 @@
     "20260214074118-im-sorry-it-had-to-be-this-way.md",
     "20260214071239-its-already-settled.md",
     "20260214073907-memorable-quotes.md",
-    "20260129103559-new-words.md",
     "20260214073235-serenade.md",
     "20260124065658-lesson.md",
     "20260214030513-time-is-valuable.md",
@@ -201,7 +187,6 @@
     "20260125110046-right-of-freedom.md",
     "20260124102738-meaning-of-constitution.md",
     "20260213011925-ratification.md",
-    "20260213011128-the-emperor.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
