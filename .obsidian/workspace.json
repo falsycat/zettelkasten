@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260214071239-new-reference-note-draft_.md",
+                "file": "20260214072142-action-needs-motivation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260214071239-new-reference-note-draft_"
+              "title": "20260214072142-action-needs-motivation"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260214071239-new-reference-note-draft_.md",
+                "file": "20260214072142-action-needs-motivation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260214071239-new-reference-note-draft_"
+              "title": "Outline of 20260214072142-action-needs-motivation"
             }
           },
           {
@@ -176,12 +176,13 @@
   },
   "active": "8875588162ce5bde",
   "lastOpenFiles": [
+    "20260214071239-its-already-settled.md",
+    "20260214072142-action-needs-motivation.md",
+    "system/dashboard.md",
     "20260214030513-time-is-valuable.md",
-    "20260214071239-new-reference-note-draft_.md",
     "20260202102834-too-much-is-too-bad.md",
     "20260124065658-lesson.md",
     "20260214025711-quartz-disable-og-image.md",
-    "system/dashboard.md",
     "20260123011144-administrative-scrivener.md",
     "20260214015230-administrative-scrivener-quiz-constitution.md",
     "20260125110046-right-of-freedom.md",
@@ -201,7 +202,6 @@
     "20260122084309-credit-card-and-point-strategy.md",
     "20260124114841-scrum-is-decentralized.md",
     "20260210123854-two-thirds-not-dictatorship.md",
-    "20260210123343-ldp-won-two-third.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
