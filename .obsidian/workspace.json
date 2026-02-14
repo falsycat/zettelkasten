@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8613412ec9a97c3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260214015230-administrative-scrivener-quiz-constitution.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260214015230-administrative-scrivener-quiz-constitution"
-            }
-          },
-          {
             "id": "8875588162ce5bde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260125110046-right-of-freedom.md",
+                "file": "20260123011144-administrative-scrivener.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260125110046-right-of-freedom"
+              "title": "20260123011144-administrative-scrivener"
             }
           }
         ]
@@ -108,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260214015230-administrative-scrivener-quiz-constitution.md",
+                "file": "20260123011144-administrative-scrivener.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260214015230-administrative-scrivener-quiz-constitution"
+              "title": "Outline of 20260123011144-administrative-scrivener"
             }
           },
           {
@@ -199,11 +174,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8613412ec9a97c3c",
+  "active": "8875588162ce5bde",
   "lastOpenFiles": [
-    "20260125110046-right-of-freedom.md",
     "20260214015230-administrative-scrivener-quiz-constitution.md",
     "20260123011144-administrative-scrivener.md",
+    "20260125110046-right-of-freedom.md",
     "20260124102738-meaning-of-constitution.md",
     "20260213011925-ratification.md",
     "20260214011146-new-reference-note-draft_.md",
