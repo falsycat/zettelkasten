@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260216100359-how-to-fix-anomaly.md",
+                "file": "20260216104735-framework.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260216100359-how-to-fix-anomaly"
+              "title": "20260216104735-framework"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "積極目的",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,8 +108,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260216100359-how-to-fix-anomaly.md",
+                "file": "20260216104735-framework.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260216100359-how-to-fix-anomaly"
+              "title": "Outline of 20260216104735-framework"
             }
           },
           {
@@ -201,8 +200,9 @@
   },
   "active": "8875588162ce5bde",
   "lastOpenFiles": [
-    "20260125110046-right-of-freedom.md",
     "20260216100359-how-to-fix-anomaly.md",
+    "20260216104735-framework.md",
+    "20260125110046-right-of-freedom.md",
     "20260123011144-administrative-scrivener.md",
     "20260216100026-railroad-crossing-disfunction.md",
     "20260216074712-decl-of-intent.md",
@@ -226,7 +226,6 @@
     "20260214072142-action-needs-motivation.md",
     "20260214074118-im-sorry-it-had-to-be-this-way.md",
     "20260214071239-its-already-settled.md",
-    "20260214073907-memorable-quotes.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
