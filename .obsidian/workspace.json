@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260219012641-new-permanent-note-draft_.md",
+                "file": "20260219012641-its-difficult-to-sing-serenade.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260219012641-new-permanent-note-draft_"
+              "title": "20260219012641-its-difficult-to-sing-serenade"
             }
           },
           {
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260219012641-new-permanent-note-draft_.md",
+                "file": "20260219012641-its-difficult-to-sing-serenade.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260219012641-new-permanent-note-draft_"
+              "title": "Outline of 20260219012641-its-difficult-to-sing-serenade"
             }
           },
           {
@@ -198,10 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8875588162ce5bde",
+  "active": "0b90e996a8e6fd23",
   "lastOpenFiles": [
     "20260219012313-serenade-karaoke.md",
-    "20260219012641-new-permanent-note-draft_.md",
+    "20260219012641-its-difficult-to-sing-serenade.md",
     "20260216100026-railroad-crossing-disfunction.md",
     "20260216100359-how-to-fix-anomaly.md",
     "20260216104735-framework.md",
