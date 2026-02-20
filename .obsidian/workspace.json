@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260220053155-new-reference-note-draft_.md",
+                "file": "20260213010804-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260220053155-new-reference-note-draft_"
-            }
-          },
-          {
-            "id": "7a34ffb44a12f8d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260125110046-right-of-freedom.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260125110046-right-of-freedom"
+              "title": "20260213010804-new-reference-note-draft_"
             }
           }
         ]
@@ -162,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260220053155-new-reference-note-draft_.md",
+                "file": "20260213010804-new-reference-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260220053155-new-reference-note-draft_"
+              "title": "Outline of 20260213010804-new-reference-note-draft_"
             }
           },
           {
@@ -200,8 +176,12 @@
   },
   "active": "8875588162ce5bde",
   "lastOpenFiles": [
+    "20260213011128-the-emperor.md",
+    "20260213010804-new-reference-note-draft_.md",
+    "20260125100220-equal-under-law.md",
+    "20260125091459-happiness-right.md",
+    "20260220053155-security-act-ruled-unconstitutional.md",
     "20260219012641-its-difficult-to-sing-serenade.md",
-    "20260220053155-new-reference-note-draft_.md",
     "20260219012313-serenade-karaoke.md",
     "20260216100026-railroad-crossing-disfunction.md",
     "20260216100359-how-to-fix-anomaly.md",
@@ -222,10 +202,6 @@
     "20260215125642-decl-of-death.md",
     "20260214100702-ability.md",
     "20260214073708-be-happy-without-me.md",
-    "20260214095221-principal-of-civil-law.md",
-    "20260122111311-civil-code-ability.md",
-    "20260214011146-finance.md",
-    "20260129080743-ostracism.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
