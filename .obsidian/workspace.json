@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260213010804-new-reference-note-draft_.md",
+                "file": "20260216074712-decl-of-intent.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260213010804-new-reference-note-draft_"
+              "title": "20260216074712-decl-of-intent"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260213010804-new-reference-note-draft_.md",
+                "file": "20260216074712-decl-of-intent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260213010804-new-reference-note-draft_"
+              "title": "Outline of 20260216074712-decl-of-intent"
             }
           },
           {
@@ -176,8 +176,9 @@
   },
   "active": "8875588162ce5bde",
   "lastOpenFiles": [
+    "system/dashboard.md",
+    "20260213010804-unconstitution.md",
     "20260213011128-the-emperor.md",
-    "20260213010804-new-reference-note-draft_.md",
     "20260125100220-equal-under-law.md",
     "20260125091459-happiness-right.md",
     "20260220053155-security-act-ruled-unconstitutional.md",
@@ -193,7 +194,6 @@
     "20260215020556-memorable-music.md",
     "20260215100646-what-was-lost.md",
     "20260215100835-darksouls3-main-theme.md",
-    "system/dashboard.md",
     "20260215020331-pioneer.md",
     "20260129103559-new-words.md",
     "20260215012339-sns-ruins-democracy.md",
