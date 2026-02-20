@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260220115803-quartz-recent-notes-in-sidebar.md",
+                "file": "20260216074712-decl-of-intent.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260220115803-quartz-recent-notes-in-sidebar"
+              "title": "20260216074712-decl-of-intent"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260220115803-quartz-recent-notes-in-sidebar.md",
+                "file": "20260216074712-decl-of-intent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260220115803-quartz-recent-notes-in-sidebar"
+              "title": "Outline of 20260216074712-decl-of-intent"
             }
           },
           {
@@ -176,8 +176,8 @@
   },
   "active": "8875588162ce5bde",
   "lastOpenFiles": [
-    "20260201064529-my-tries.md",
     "20260220115803-quartz-recent-notes-in-sidebar.md",
+    "20260201064529-my-tries.md",
     "20260221120454-new-reference-note-draft_.md",
     "20260127093544-low-battery-decreases-performance.md",
     "20260219012641-its-difficult-to-sing-serenade.md",
