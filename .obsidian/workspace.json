@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260216074712-decl-of-intent.md",
+                "file": "20260213122429-check-revo-payments-unit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260216074712-decl-of-intent"
+              "title": "20260213122429-check-revo-payments-unit"
+            }
+          },
+          {
+            "id": "ba38271b3a283cad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260208011924-decrease-and-control-uncertainty.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260208011924-decrease-and-control-uncertainty"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260216074712-decl-of-intent.md",
+                "file": "20260208011924-decrease-and-control-uncertainty.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260216074712-decl-of-intent"
+              "title": "Outline of 20260208011924-decrease-and-control-uncertainty"
             }
           },
           {
@@ -174,10 +199,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8875588162ce5bde",
+  "active": "ba38271b3a283cad",
   "lastOpenFiles": [
-    "20260216100359-how-to-fix-anomaly.md",
+    "20260213122429-check-revo-payments-unit.md",
+    "20260213120541-my-pace-revo-hacking-is-unreasonable.md",
+    "20260124065658-lesson.md",
+    "20260214072142-action-needs-motivation.md",
+    "all_permanent.txt",
+    "linked_notes.txt",
+    "20260214073235-serenade.md",
     "20260216074712-decl-of-intent.md",
+    "20260216100359-how-to-fix-anomaly.md",
     "system/dashboard.md",
     "20260213010804-unconstitution.md",
     "20260213011128-the-emperor.md",
@@ -197,11 +229,6 @@
     "20260215020331-pioneer.md",
     "20260129103559-new-words.md",
     "20260215012339-sns-ruins-democracy.md",
-    "20260215011922-echo-chamber.md",
-    "20260215013733-online-abuse-in-elections.md",
-    "20260215125642-decl-of-death.md",
-    "20260214100702-ability.md",
-    "20260214073708-be-happy-without-me.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
