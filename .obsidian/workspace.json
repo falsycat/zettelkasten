@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260213122429-check-revo-payments-unit.md",
+                "file": "20260127093544-low-battery-decreases-performance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260213122429-check-revo-payments-unit"
-            }
-          },
-          {
-            "id": "ba38271b3a283cad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260208011924-decrease-and-control-uncertainty.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260208011924-decrease-and-control-uncertainty"
+              "title": "20260127093544-low-battery-decreases-performance"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260208011924-decrease-and-control-uncertainty.md",
+                "file": "20260127093544-low-battery-decreases-performance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260208011924-decrease-and-control-uncertainty"
+              "title": "Outline of 20260127093544-low-battery-decreases-performance"
             }
           },
           {
@@ -199,16 +174,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba38271b3a283cad",
+  "active": "8875588162ce5bde",
   "lastOpenFiles": [
+    "20260201064529-my-tries.md",
+    "20260219012641-its-difficult-to-sing-serenade.md",
+    "20260216074712-decl-of-intent.md",
+    "20260216104735-framework.md",
+    "20260208011924-decrease-and-control-uncertainty.md",
+    "20260124065658-lesson.md",
     "20260213122429-check-revo-payments-unit.md",
     "20260213120541-my-pace-revo-hacking-is-unreasonable.md",
-    "20260124065658-lesson.md",
     "20260214072142-action-needs-motivation.md",
     "all_permanent.txt",
     "linked_notes.txt",
     "20260214073235-serenade.md",
-    "20260216074712-decl-of-intent.md",
     "20260216100359-how-to-fix-anomaly.md",
     "system/dashboard.md",
     "20260213010804-unconstitution.md",
@@ -216,10 +195,8 @@
     "20260125100220-equal-under-law.md",
     "20260125091459-happiness-right.md",
     "20260220053155-security-act-ruled-unconstitutional.md",
-    "20260219012641-its-difficult-to-sing-serenade.md",
     "20260219012313-serenade-karaoke.md",
     "20260216100026-railroad-crossing-disfunction.md",
-    "20260216104735-framework.md",
     "20260125110046-right-of-freedom.md",
     "20260123011144-administrative-scrivener.md",
     "20260124120835-civil-code-expression.md",
@@ -227,8 +204,6 @@
     "20260215100646-what-was-lost.md",
     "20260215100835-darksouls3-main-theme.md",
     "20260215020331-pioneer.md",
-    "20260129103559-new-words.md",
-    "20260215012339-sns-ruins-democracy.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
