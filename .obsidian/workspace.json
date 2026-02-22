@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "20260216074712-decl-of-intent"
             }
+          },
+          {
+            "id": "4dffdeebeaecea0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260215125642-decl-of-death.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260215125642-decl-of-death"
+            }
           }
         ]
       }
@@ -158,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -176,10 +200,12 @@
   },
   "active": "4c3fc94fadbf51fc",
   "lastOpenFiles": [
+    "system/dashboard.md",
+    "20260216074712-decl-of-intent.md",
+    "20260123011144-administrative-scrivener.md",
+    "20260215125642-decl-of-death.md",
     "20260222030012-image-rotation-fix-by-imagemagick.md",
     "index.md",
-    "system/dashboard.md",
-    "20260123011144-administrative-scrivener.md",
     "20260222033234-likes.md",
     "20260214073907-memorable-quotes.md",
     "20260207123640-info-should-be-saved-in-one-place.md",
@@ -197,11 +223,9 @@
     "20260122082959-view-card.md",
     "20260122083122-biccamera-suica-card.md",
     "20260122084309-credit-card-and-point-strategy.md",
-    "20260216074712-decl-of-intent.md",
     "20260221120454-new-reference-note-draft_.md",
     "20260127093544-low-battery-decreases-performance.md",
     "20260219012641-its-difficult-to-sing-serenade.md",
-    "20260213122429-check-revo-payments-unit.md",
     "all_permanent.txt",
     "linked_notes.txt",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
