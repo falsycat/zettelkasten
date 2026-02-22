@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260216074712-decl-of-intent.md",
+                "file": "20260122082959-view-card.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260216074712-decl-of-intent"
+              "title": "20260122082959-view-card"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "クレカ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260216074712-decl-of-intent.md",
+                "file": "20260122082959-view-card.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260216074712-decl-of-intent"
+              "title": "Outline of 20260122082959-view-card"
             }
           },
           {
@@ -176,12 +177,14 @@
   },
   "active": "8875588162ce5bde",
   "lastOpenFiles": [
+    "20260122083122-biccamera-suica-card.md",
+    "20260122084309-credit-card-and-point-strategy.md",
+    "20260216074712-decl-of-intent.md",
     "20260220115803-quartz-recent-notes-in-sidebar.md",
     "20260201064529-my-tries.md",
     "20260221120454-new-reference-note-draft_.md",
     "20260127093544-low-battery-decreases-performance.md",
     "20260219012641-its-difficult-to-sing-serenade.md",
-    "20260216074712-decl-of-intent.md",
     "20260216104735-framework.md",
     "20260208011924-decrease-and-control-uncertainty.md",
     "20260124065658-lesson.md",
@@ -202,8 +205,6 @@
     "20260216100026-railroad-crossing-disfunction.md",
     "20260125110046-right-of-freedom.md",
     "20260123011144-administrative-scrivener.md",
-    "20260124120835-civil-code-expression.md",
-    "20260215020556-memorable-music.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
