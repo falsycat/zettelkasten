@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260222090300-agency.md",
+                "file": "20260223124648-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260222090300-agency"
+              "title": "20260223124648-new-reference-note-draft_"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260222090300-agency.md",
+                "file": "20260223124648-new-reference-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260222090300-agency"
+              "title": "Outline of 20260223124648-new-reference-note-draft_"
             }
           },
           {
@@ -174,11 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b90e996a8e6fd23",
+  "active": "4c3fc94fadbf51fc",
   "lastOpenFiles": [
+    "20260222090300-agency.md",
+    "20260223124648-new-reference-note-draft_.md",
     "20260216074712-decl-of-intent.md",
     "20260123011144-administrative-scrivener.md",
-    "20260222090300-agency.md",
     "20260222030012-image-rotation-fix-by-imagemagick.md",
     "system/dashboard.md",
     "20260215125642-decl-of-death.md",
@@ -201,7 +202,6 @@
     "20260122083122-biccamera-suica-card.md",
     "20260122084309-credit-card-and-point-strategy.md",
     "20260221120454-new-reference-note-draft_.md",
-    "20260127093544-low-battery-decreases-performance.md",
     "all_permanent.txt",
     "linked_notes.txt",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
