@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c3fc94fadbf51fc",
+  "active": "0b90e996a8e6fd23",
   "lastOpenFiles": [
     "20260216074712-decl-of-intent.md",
     "20260123011144-administrative-scrivener.md",
