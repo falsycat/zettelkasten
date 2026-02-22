@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260222030012-image-rotation-fix-by-imagemagick.md",
+                "file": "20260208011924-decrease-and-control-uncertainty.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260222030012-image-rotation-fix-by-imagemagick"
+              "title": "20260208011924-decrease-and-control-uncertainty"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260222030012-image-rotation-fix-by-imagemagick.md",
+                "file": "20260208011924-decrease-and-control-uncertainty.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260222030012-image-rotation-fix-by-imagemagick"
+              "title": "Outline of 20260208011924-decrease-and-control-uncertainty"
             }
           },
           {
@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -176,19 +176,24 @@
   },
   "active": "8875588162ce5bde",
   "lastOpenFiles": [
-    "20260220115803-quartz-recent-notes-in-sidebar.md",
+    "20260125012337-dont-give-confidence.md",
     "20260222030012-image-rotation-fix-by-imagemagick.md",
+    "20260126125936-zettelkasten.md",
+    "system/dashboard.md",
+    "20260122081350-toyota-development-milestones.md",
+    "20260201064529-my-tries.md",
+    "20260124065658-lesson.md",
+    "20260216104735-framework.md",
+    "20260208011924-decrease-and-control-uncertainty.md",
+    "20260220115803-quartz-recent-notes-in-sidebar.md",
+    "20260222031324-new-structure-note-draft_.md",
     "20260122082959-view-card.md",
     "20260122083122-biccamera-suica-card.md",
     "20260122084309-credit-card-and-point-strategy.md",
     "20260216074712-decl-of-intent.md",
-    "20260201064529-my-tries.md",
     "20260221120454-new-reference-note-draft_.md",
     "20260127093544-low-battery-decreases-performance.md",
     "20260219012641-its-difficult-to-sing-serenade.md",
-    "20260216104735-framework.md",
-    "20260208011924-decrease-and-control-uncertainty.md",
-    "20260124065658-lesson.md",
     "20260213122429-check-revo-payments-unit.md",
     "20260213120541-my-pace-revo-hacking-is-unreasonable.md",
     "20260214072142-action-needs-motivation.md",
@@ -196,14 +201,9 @@
     "linked_notes.txt",
     "20260214073235-serenade.md",
     "20260216100359-how-to-fix-anomaly.md",
-    "system/dashboard.md",
     "20260213010804-unconstitution.md",
     "20260213011128-the-emperor.md",
     "20260125100220-equal-under-law.md",
-    "20260125091459-happiness-right.md",
-    "20260220053155-security-act-ruled-unconstitutional.md",
-    "20260219012313-serenade-karaoke.md",
-    "20260216100026-railroad-crossing-disfunction.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
