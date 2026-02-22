@@ -14,8 +14,9 @@ lastmod: 2026-02-07 00:55
 	- 品質による情報の分類の方法は[[20260207121010-medallion-architecture|メダリオンアーキテクチャ]]を参照
 ## 関連
 - [[20260126125033-zettelkasten|zettelkasten]]
-	- 情報をまとめて第2の脳を構築する手法
-	- [[20260207122637-zettelkasten-is-lakehouse|zettelkastenはある意味Lakehouseである]]
+	- 情報をまとめて第2の脳を構築するzettelkastenは、[[20260207120908-lakehouse|Lakehouse]]の一種であると思った
+		- [[20260126125033-zettelkasten|zettelkasten]]では、出典、引用という外部から採れた生データと、自身が思考した内容とを、どちらもカードにまとめた上でカード同士を繋げることで第2の脳を構築する
+	- 生データと加工後のデータを、区別しながらも一緒のシステム上で扱うという点に非常に近しいものを感じる
 - [[20260201031607-try-databricks|Databricksを使ってみた]]
 	- Databricksは[[20260207120908-lakehouse|Lakehouse]]を最初に提唱したプロダクト
 	- 保存だけでなく、処理・可視化までできちゃう

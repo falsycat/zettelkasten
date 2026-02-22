@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a2e2959ff88e520b",
+        "id": "d2004483c47413af",
         "type": "tabs",
         "children": [
           {
-            "id": "8875588162ce5bde",
+            "id": "cb69483f926581f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260208011924-decrease-and-control-uncertainty.md",
+                "file": "system/dashboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260208011924-decrease-and-control-uncertainty"
+              "title": "dashboard"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260208011924-decrease-and-control-uncertainty.md",
+                "file": "system/dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260208011924-decrease-and-control-uncertainty"
+              "title": "Outline of dashboard"
             }
           },
           {
@@ -174,17 +174,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8875588162ce5bde",
+  "active": "cb69483f926581f5",
   "lastOpenFiles": [
+    "20260123011144-administrative-scrivener.md",
+    "system/dashboard.md",
+    "20260222033234-likes.md",
+    "20260214073907-memorable-quotes.md",
+    "20260207123640-info-should-be-saved-in-one-place.md",
+    "20260207122637-zettelkasten-is-lakehouse.md",
+    "20260208011924-decrease-and-control-uncertainty.md",
+    "20260216100359-how-to-fix-anomaly.md",
     "20260125012337-dont-give-confidence.md",
     "20260222030012-image-rotation-fix-by-imagemagick.md",
     "20260126125936-zettelkasten.md",
-    "system/dashboard.md",
     "20260122081350-toyota-development-milestones.md",
     "20260201064529-my-tries.md",
     "20260124065658-lesson.md",
     "20260216104735-framework.md",
-    "20260208011924-decrease-and-control-uncertainty.md",
     "20260220115803-quartz-recent-notes-in-sidebar.md",
     "20260222031324-new-structure-note-draft_.md",
     "20260122082959-view-card.md",
@@ -196,14 +202,8 @@
     "20260219012641-its-difficult-to-sing-serenade.md",
     "20260213122429-check-revo-payments-unit.md",
     "20260213120541-my-pace-revo-hacking-is-unreasonable.md",
-    "20260214072142-action-needs-motivation.md",
     "all_permanent.txt",
     "linked_notes.txt",
-    "20260214073235-serenade.md",
-    "20260216100359-how-to-fix-anomaly.md",
-    "20260213010804-unconstitution.md",
-    "20260213011128-the-emperor.md",
-    "20260125100220-equal-under-law.md",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
     "system/assets",
     "add_lastmod_git.py",
