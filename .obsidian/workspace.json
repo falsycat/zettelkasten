@@ -11,10 +11,24 @@
             "id": "4c3fc94fadbf51fc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "20260207123640-info-should-be-saved-in-one-place.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260207123640-info-should-be-saved-in-one-place"
             }
           }
         ]
@@ -124,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "20260207123640-info-should-be-saved-in-one-place.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 20260207123640-info-should-be-saved-in-one-place"
             }
           },
           {
@@ -161,19 +176,19 @@
   },
   "active": "4c3fc94fadbf51fc",
   "lastOpenFiles": [
+    "20260223124648-colorful-graph-in-quartz.md",
     "20260126125936-zettelkasten.md",
-    "20260223124648-new-reference-note-draft_.md",
+    "system/dashboard.md",
+    "20260207123640-info-should-be-saved-in-one-place.md",
     "20260201064529-my-tries.md",
     "20260222030012-image-rotation-fix-by-imagemagick.md",
     "20260222090300-agency.md",
     "20260216074712-decl-of-intent.md",
     "20260123011144-administrative-scrivener.md",
-    "system/dashboard.md",
     "20260215125642-decl-of-death.md",
     "index.md",
     "20260222033234-likes.md",
     "20260214073907-memorable-quotes.md",
-    "20260207123640-info-should-be-saved-in-one-place.md",
     "20260207122637-zettelkasten-is-lakehouse.md",
     "20260208011924-decrease-and-control-uncertainty.md",
     "20260216100359-how-to-fix-anomaly.md",
