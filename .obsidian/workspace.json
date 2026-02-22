@@ -11,10 +11,24 @@
             "id": "4c3fc94fadbf51fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "20260222030012-image-rotation-fix-by-imagemagick.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "20260222030012-image-rotation-fix-by-imagemagick"
             }
           }
         ]
@@ -70,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "20260222030012-image-rotation-fix-by-imagemagick.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 20260222030012-image-rotation-fix-by-imagemagick"
             }
           },
           {

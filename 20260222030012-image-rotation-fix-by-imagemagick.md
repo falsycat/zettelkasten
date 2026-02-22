@@ -29,4 +29,4 @@ convert src.jpg -auto-orient dst.jpg
 ---
 ## Ref
 2026/02/22
-- [写真の向きの補正(convert -auto-orient) #ImageMagick - Qiita](https://qiita.com/mdew150/items/8d5cf5b1b42a7116ed29)
+- [写真の向きの補正(convert -auto-orient) ImageMagick - Qiita](https://qiita.com/mdew150/items/8d5cf5b1b42a7116ed29)
