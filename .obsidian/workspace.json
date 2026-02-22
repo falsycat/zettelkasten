@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8875588162ce5bde",
+  "active": "88d09244cf5f6a73",
   "lastOpenFiles": [
     "20260122083122-biccamera-suica-card.md",
     "20260122084309-credit-card-and-point-strategy.md",
