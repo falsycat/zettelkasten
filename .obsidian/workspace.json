@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260123011144-administrative-scrivener.md",
+                "file": "20260222090300-agency.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260123011144-administrative-scrivener"
+              "title": "20260222090300-agency"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260123011144-administrative-scrivener.md",
+                "file": "20260222090300-agency.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260123011144-administrative-scrivener"
+              "title": "Outline of 20260222090300-agency"
             }
           },
           {
@@ -176,11 +176,11 @@
   },
   "active": "4c3fc94fadbf51fc",
   "lastOpenFiles": [
+    "20260123011144-administrative-scrivener.md",
     "20260222090300-agency.md",
     "20260216074712-decl-of-intent.md",
     "20260222030012-image-rotation-fix-by-imagemagick.md",
     "system/dashboard.md",
-    "20260123011144-administrative-scrivener.md",
     "20260215125642-decl-of-death.md",
     "index.md",
     "20260222033234-likes.md",
