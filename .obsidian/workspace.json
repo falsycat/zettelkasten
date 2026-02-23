@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/dashboard.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dashboard"
+              "title": "index"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/dashboard.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dashboard"
+              "title": "Outline of index"
             }
           },
           {
@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -176,13 +176,13 @@
   },
   "active": "4c3fc94fadbf51fc",
   "lastOpenFiles": [
-    "20260207123640-info-should-be-saved-in-one-place.md",
-    "20260223111721-condition-deadline.md",
-    "20260222090300-agency.md",
     "20260123011144-administrative-scrivener.md",
+    "20260223111721-condition-deadline.md",
+    "system/dashboard.md",
+    "20260207123640-info-should-be-saved-in-one-place.md",
+    "20260222090300-agency.md",
     "20260126125936-zettelkasten.md",
     "20260223124648-colorful-graph-in-quartz.md",
-    "system/dashboard.md",
     "20260201064529-my-tries.md",
     "20260222030012-image-rotation-fix-by-imagemagick.md",
     "20260216074712-decl-of-intent.md",

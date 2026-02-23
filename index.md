@@ -10,7 +10,7 @@ lastmod: 2026-01-28 11:20
 ---
 このサイトでは、falsycatの[[20260126125033-zettelkasten|zettelkasten]]の内容を公開しています。
 ## Who am I?
-- 名前: faslycat
+- 名前: falsycat
 - 本名: tamaki-yonemaru
 - 職業: ソフトウェアエンジニア？ (C/C++, Rust, React, etc…)
 - 生息地: 東京都
