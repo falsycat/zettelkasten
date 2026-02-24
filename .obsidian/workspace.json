@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260224120718-new-reference-note-draft_.md",
+                "file": "system/trash/MEMO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260224120718-new-reference-note-draft_"
+              "title": "MEMO"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260224120718-new-reference-note-draft_.md",
+                "file": "system/trash/MEMO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260224120718-new-reference-note-draft_"
+              "title": "Outline of MEMO"
             }
           },
           {
@@ -176,8 +176,12 @@
   },
   "active": "4c3fc94fadbf51fc",
   "lastOpenFiles": [
-    "20260224120748-new-permanent-note-draft_.md",
+    "system/trash/20260122085409-civil-code.md",
+    "system/trash/MEMO.md",
     "20260224120718-new-reference-note-draft_.md",
+    "20260224033712-new-reference-note-draft_.md",
+    "20260224120748-new-permanent-note-draft_.md",
+    "system/Untitled.md",
     "index.md",
     "20260123011144-administrative-scrivener.md",
     "20260223111721-condition-deadline.md",
@@ -198,10 +202,6 @@
     "20260125012337-dont-give-confidence.md",
     "20260122081350-toyota-development-milestones.md",
     "20260124065658-lesson.md",
-    "20260216104735-framework.md",
-    "20260220115803-quartz-recent-notes-in-sidebar.md",
-    "20260222031324-new-structure-note-draft_.md",
-    "20260122082959-view-card.md",
     "all_permanent.txt",
     "linked_notes.txt",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
