@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260224120718-new-reference-note-draft_.md",
+                "file": "20260224085437-prescription.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260224120718-new-reference-note-draft_"
+              "title": "20260224085437-prescription"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260224120718-new-reference-note-draft_.md",
+                "file": "20260224085437-prescription.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260224120718-new-reference-note-draft_"
+              "title": "Outline of 20260224085437-prescription"
             }
           },
           {
@@ -176,11 +176,12 @@
   },
   "active": "4c3fc94fadbf51fc",
   "lastOpenFiles": [
+    "20260224120718-new-reference-note-draft_.md",
+    "20260224085437-prescription.md",
     "20260224120748-new-permanent-note-draft_.md",
     "system/dashboard.md",
     "system/trash/MEMO.md",
     "system/trash/20260122085409-civil-code.md",
-    "20260224120718-new-reference-note-draft_.md",
     "20260224033712-new-reference-note-draft_.md",
     "system/Untitled.md",
     "index.md",
@@ -201,7 +202,6 @@
     "20260216100359-how-to-fix-anomaly.md",
     "20260125012337-dont-give-confidence.md",
     "20260122081350-toyota-development-milestones.md",
-    "20260124065658-lesson.md",
     "all_permanent.txt",
     "linked_notes.txt",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
