@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "20260224120718-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "20260224120718-new-reference-note-draft_"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "20260224120718-new-reference-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of 20260224120718-new-reference-note-draft_"
             }
           },
           {
@@ -176,6 +176,9 @@
   },
   "active": "4c3fc94fadbf51fc",
   "lastOpenFiles": [
+    "20260224120748-new-permanent-note-draft_.md",
+    "20260224120718-new-reference-note-draft_.md",
+    "index.md",
     "20260123011144-administrative-scrivener.md",
     "20260223111721-condition-deadline.md",
     "system/dashboard.md",
@@ -187,7 +190,6 @@
     "20260222030012-image-rotation-fix-by-imagemagick.md",
     "20260216074712-decl-of-intent.md",
     "20260215125642-decl-of-death.md",
-    "index.md",
     "20260222033234-likes.md",
     "20260214073907-memorable-quotes.md",
     "20260207122637-zettelkasten-is-lakehouse.md",
@@ -200,8 +202,6 @@
     "20260220115803-quartz-recent-notes-in-sidebar.md",
     "20260222031324-new-structure-note-draft_.md",
     "20260122082959-view-card.md",
-    "20260122083122-biccamera-suica-card.md",
-    "20260122084309-credit-card-and-point-strategy.md",
     "all_permanent.txt",
     "linked_notes.txt",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
