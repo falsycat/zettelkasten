@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3039b44950e8f12c",
+        "id": "795184a7bb3de437",
         "type": "tabs",
         "children": [
           {
-            "id": "6a17f0aa5613dbfc",
+            "id": "a138b8d135c7d9d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260124065658-lesson.md",
+                "file": "20260226125638-increase-sns-follower.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260124065658-lesson"
-            }
-          },
-          {
-            "id": "3e4643d7c44034e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260226121448-antigravity-quota-limit.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260226121448-antigravity-quota-limit"
-            }
-          },
-          {
-            "id": "49d4932a1941009d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260202102834-too-much-is-too-bad.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260202102834-too-much-is-too-bad"
+              "title": "20260226125638-increase-sns-follower"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260226121448-antigravity-quota-limit.md",
+                "file": "20260226125638-increase-sns-follower.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260226121448-antigravity-quota-limit"
+              "title": "Outline of 20260226125638-increase-sns-follower"
             }
           },
           {
@@ -223,12 +174,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e4643d7c44034e8",
+  "active": "a138b8d135c7d9d1",
   "lastOpenFiles": [
+    "20260226125638-increase-sns-follower.md",
+    "20260226121448-antigravity-quota-limit.md",
     "20260129103559-new-words.md",
     "20260202102834-too-much-is-too-bad.md",
     "20260225115111-dicthotomous-thinking.md",
-    "20260226121448-antigravity-quota-limit.md",
     "20260225113331-how-to-use-ai.md",
     "system/dashboard.md",
     "20260225114941-avoid-dicthotomous-thinking.md",
@@ -251,7 +203,6 @@
     "20260223124648-colorful-graph-in-quartz.md",
     "20260201064529-my-tries.md",
     "20260222030012-image-rotation-fix-by-imagemagick.md",
-    "20260216074712-decl-of-intent.md",
     "all_permanent.txt",
     "linked_notes.txt",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
