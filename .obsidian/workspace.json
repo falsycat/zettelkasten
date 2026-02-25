@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260225105114-property-rights.md",
+                "file": "20260224120718-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260225105114-property-rights"
+              "title": "20260224120718-new-reference-note-draft_"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260225105114-property-rights.md",
+                "file": "20260224120718-new-reference-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260225105114-property-rights"
+              "title": "Outline of 20260224120718-new-reference-note-draft_"
             }
           },
           {
@@ -176,9 +176,9 @@
   },
   "active": "6a17f0aa5613dbfc",
   "lastOpenFiles": [
-    "20260123011144-administrative-scrivener.md",
-    "20260225105114-property-rights.md",
     "system/dashboard.md",
+    "20260225105114-property-rights.md",
+    "20260123011144-administrative-scrivener.md",
     "20260224085437-prescription.md",
     "20260223111721-condition-deadline.md",
     "20260224120718-new-reference-note-draft_.md",
