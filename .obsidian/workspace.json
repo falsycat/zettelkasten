@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7764df261f9be2b4",
+        "id": "3039b44950e8f12c",
         "type": "tabs",
         "children": [
           {
-            "id": "4c3fc94fadbf51fc",
+            "id": "6a17f0aa5613dbfc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "20260225105114-property-rights.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260225105114-property-rights"
             }
           }
         ]
@@ -124,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "20260225105114-property-rights.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 20260225105114-property-rights"
             }
           },
           {
@@ -159,14 +174,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c3fc94fadbf51fc",
+  "active": "6a17f0aa5613dbfc",
   "lastOpenFiles": [
     "20260123011144-administrative-scrivener.md",
+    "20260225105114-property-rights.md",
+    "system/dashboard.md",
     "20260224085437-prescription.md",
     "20260223111721-condition-deadline.md",
     "20260224120718-new-reference-note-draft_.md",
     "20260224120748-new-permanent-note-draft_.md",
-    "system/dashboard.md",
     "system/trash/MEMO.md",
     "system/trash/20260122085409-civil-code.md",
     "20260224033712-new-reference-note-draft_.md",
@@ -186,7 +202,6 @@
     "20260208011924-decrease-and-control-uncertainty.md",
     "20260216100359-how-to-fix-anomaly.md",
     "20260125012337-dont-give-confidence.md",
-    "20260122081350-toyota-development-milestones.md",
     "all_permanent.txt",
     "linked_notes.txt",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
