@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system/dashboard.md",
+                "file": "20260225114941-avoid-dicthotomous-thinking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dashboard"
+              "title": "20260225114941-avoid-dicthotomous-thinking"
             }
           }
         ],
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/dashboard.md",
+                "file": "20260225114941-avoid-dicthotomous-thinking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dashboard"
+              "title": "Outline of 20260225114941-avoid-dicthotomous-thinking"
             }
           },
           {
@@ -201,13 +201,14 @@
   },
   "active": "3e4643d7c44034e8",
   "lastOpenFiles": [
+    "20260225113331-how-to-use-ai.md",
+    "20260226121448-new-reference-note-draft_.md",
+    "system/dashboard.md",
     "20260124065658-lesson.md",
     "20260225114941-avoid-dicthotomous-thinking.md",
     "20260207123640-info-should-be-saved-in-one-place.md",
     "20260224120718-chatgpt-vs-claude-vs-gemini.md",
-    "system/dashboard.md",
     "20260225115111-dicthotomous-thinking.md",
-    "20260225113331-how-to-use-ai.md",
     "20260224120748-new-permanent-note-draft_.md",
     "20260225105114-property-rights.md",
     "20260123011144-administrative-scrivener.md",
@@ -226,7 +227,6 @@
     "20260216074712-decl-of-intent.md",
     "20260215125642-decl-of-death.md",
     "20260222033234-likes.md",
-    "20260214073907-memorable-quotes.md",
     "all_permanent.txt",
     "linked_notes.txt",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
