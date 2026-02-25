@@ -11,24 +11,10 @@
             "id": "4c3fc94fadbf51fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260224085437-prescription.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260224085437-prescription"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -138,13 +124,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260224085437-prescription.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260224085437-prescription"
+              "title": "Outline"
             }
           },
           {
@@ -176,8 +161,10 @@
   },
   "active": "4c3fc94fadbf51fc",
   "lastOpenFiles": [
-    "20260224120718-new-reference-note-draft_.md",
+    "20260123011144-administrative-scrivener.md",
     "20260224085437-prescription.md",
+    "20260223111721-condition-deadline.md",
+    "20260224120718-new-reference-note-draft_.md",
     "20260224120748-new-permanent-note-draft_.md",
     "system/dashboard.md",
     "system/trash/MEMO.md",
@@ -185,8 +172,6 @@
     "20260224033712-new-reference-note-draft_.md",
     "system/Untitled.md",
     "index.md",
-    "20260123011144-administrative-scrivener.md",
-    "20260223111721-condition-deadline.md",
     "20260207123640-info-should-be-saved-in-one-place.md",
     "20260222090300-agency.md",
     "20260126125936-zettelkasten.md",
