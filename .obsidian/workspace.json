@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260226085524-chess-rapid-rate-1700.md",
+                "file": "20260124064904-chess.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260226085524-chess-rapid-rate-1700"
+              "title": "20260124064904-chess"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Home",
+                "query": "chess",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260226085524-chess-rapid-rate-1700.md",
+                "file": "20260124064904-chess.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260226085524-chess-rapid-rate-1700"
+              "title": "Outline of 20260124064904-chess"
             }
           },
           {
@@ -176,8 +177,8 @@
   },
   "active": "a138b8d135c7d9d1",
   "lastOpenFiles": [
-    "20260226083337-real-property-rights.md",
     "20260226085524-chess-rapid-rate-1700.md",
+    "20260226083337-real-property-rights.md",
     "20260123011144-administrative-scrivener.md",
     "20260226125638-increase-sns-follower.md",
     "20260226121448-antigravity-quota-limit.md",
