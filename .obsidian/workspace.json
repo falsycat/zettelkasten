@@ -11,10 +11,24 @@
             "id": "a138b8d135c7d9d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "system/dashboard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "dashboard"
             }
           }
         ]
@@ -70,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "system/dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of dashboard"
             }
           },
           {
@@ -163,6 +177,7 @@
   "active": "a138b8d135c7d9d1",
   "lastOpenFiles": [
     "20260226083337-real-property-rights.md",
+    "system/dashboard.md",
     "20260123011144-administrative-scrivener.md",
     "20260225105114-property-rights.md",
     "20260226085524-chess-rapid-rate-1700.md",
@@ -173,7 +188,6 @@
     "20260202102834-too-much-is-too-bad.md",
     "20260225115111-dicthotomous-thinking.md",
     "20260225113331-how-to-use-ai.md",
-    "system/dashboard.md",
     "20260225114941-avoid-dicthotomous-thinking.md",
     "system/assets/Pasted image 20260226003310.png",
     "20260124065658-lesson.md",

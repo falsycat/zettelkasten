@@ -1,11 +1,13 @@
 ---
 id: 20260226083337
 title: 不動産物権変動と登記
-aliases: ["20260226083337"]
+aliases:
+  - "20260226083337"
 created: 2026-02-26 08:33
-tags: [reference/book]
+tags:
+  - reference/book
 publish: true
-draft: true
+draft: false
 lastmod: 2026-02-26 08:46
 ---
 ## 不動産物権変動
