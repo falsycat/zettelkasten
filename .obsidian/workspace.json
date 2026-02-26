@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260226083337-real-property-rights.md",
+                "file": "20260226085524-chess-rapid-rate-1700.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260226083337-real-property-rights"
+              "title": "20260226085524-chess-rapid-rate-1700"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260226083337-real-property-rights.md",
+                "file": "20260226085524-chess-rapid-rate-1700.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260226083337-real-property-rights"
+              "title": "Outline of 20260226085524-chess-rapid-rate-1700"
             }
           },
           {
@@ -176,8 +176,9 @@
   },
   "active": "a138b8d135c7d9d1",
   "lastOpenFiles": [
-    "20260123011144-administrative-scrivener.md",
     "20260226083337-real-property-rights.md",
+    "20260226085524-chess-rapid-rate-1700.md",
+    "20260123011144-administrative-scrivener.md",
     "20260226125638-increase-sns-follower.md",
     "20260226121448-antigravity-quota-limit.md",
     "20260129103559-new-words.md",
@@ -202,7 +203,6 @@
     "20260222090300-agency.md",
     "20260126125936-zettelkasten.md",
     "20260223124648-colorful-graph-in-quartz.md",
-    "20260201064529-my-tries.md",
     "all_permanent.txt",
     "linked_notes.txt",
     "system/assets/Screenshot 2026-02-01 at 18.41.04.png",
