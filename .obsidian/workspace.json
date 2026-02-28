@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260301122348-mate-in-7.md",
+                "file": "20260124065200-do-not-be-careless-until-win.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260301122348-mate-in-7"
+              "title": "20260124065200-do-not-be-careless-until-win"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "信義",
+                "query": "勝ち",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260301122348-mate-in-7.md",
+                "file": "20260124065200-do-not-be-careless-until-win.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260301122348-mate-in-7"
+              "title": "Outline of 20260124065200-do-not-be-careless-until-win"
             }
           },
           {
@@ -175,10 +176,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a138b8d135c7d9d1",
+  "active": "0b90e996a8e6fd23",
   "lastOpenFiles": [
-    "20260123011144-tac-gyoseishoshi-text.md",
+    "20260124064904-chess.md",
     "20260301122348-mate-in-7.md",
+    "20260123011144-tac-gyoseishoshi-text.md",
     "20260228035236-immediate-acquisition.md",
     "20260214100702-ability.md",
     "20260222090300-agency.md",
@@ -195,7 +197,6 @@
     "20260228034349-new-permanent-note-draft_.md",
     "20260225105114-property-rights.md",
     "20260226085524-chess-rapid-rate-1700.md",
-    "20260124064904-chess.md",
     "20260226125638-increase-sns-follower.md",
     "20260226121448-antigravity-quota-limit.md",
     "20260129103559-new-words.md",
