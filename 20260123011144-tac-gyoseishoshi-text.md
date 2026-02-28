@@ -40,7 +40,7 @@ lastmod: 2026-02-28 15:48
 	1. [[20260225105114-property-rights|物権]]
 	2. [[20260226083337-real-property-rights|不動産物権変動と登記]]
 	3. [[20260228030404-possessary-right|占有権]]
-	4. 即時取得
+	4. [[20260228035236-immediate-acquisition|即時取得]]
 	5. 所有権
 	6. 用益物権
 	7. 担保物権
