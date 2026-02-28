@@ -4,34 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "795184a7bb3de437",
-        "type": "tabs",
+        "id": "d83cf517437e4dde",
+        "type": "split",
         "children": [
           {
-            "id": "a138b8d135c7d9d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system/dashboard.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "795184a7bb3de437",
+            "type": "tabs",
+            "dimension": 69.33333333333334,
+            "children": [
+              {
+                "id": "a138b8d135c7d9d1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "system/dashboard.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "dashboard"
                 }
-              },
-              "icon": "lucide-file",
-              "title": "dashboard"
-            }
+              }
+            ]
+          },
+          {
+            "id": "403cb820e42d22b7",
+            "type": "tabs",
+            "dimension": 30.666666666666664,
+            "children": [
+              {
+                "id": "ebd13710c4d2f143",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/falsycat/Documents/zettelkasten",
+                      "focus": false,
+                      "profile": {
+                        "args": [
+                          "--login"
+                        ],
+                        "executable": "/bin/zsh",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: ✳ Claude Code"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -138,13 +195,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dashboard"
+              "title": "Outline"
             }
           },
           {
@@ -162,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,13 +227,14 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "a138b8d135c7d9d1",
+  "active": "ebd13710c4d2f143",
   "lastOpenFiles": [
-    "20260226083337-real-property-rights.md",
     "system/dashboard.md",
+    "20260226083337-real-property-rights.md",
     "20260123011144-administrative-scrivener.md",
     "20260225105114-property-rights.md",
     "20260226085524-chess-rapid-rate-1700.md",
