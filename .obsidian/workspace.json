@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260228035236-new-reference-note-draft_.md",
+                "file": "20260228035236-immediate-acquisition.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260228035236-new-reference-note-draft_"
+              "title": "20260228035236-immediate-acquisition"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260228035236-new-reference-note-draft_.md",
+                "file": "20260228035236-immediate-acquisition.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260228035236-new-reference-note-draft_"
+              "title": "Outline of 20260228035236-immediate-acquisition"
             }
           },
           {
@@ -178,7 +178,7 @@
   "active": "a138b8d135c7d9d1",
   "lastOpenFiles": [
     "20260228034445-gyoseishoshi-study.md",
-    "20260228035236-new-reference-note-draft_.md",
+    "20260228035236-immediate-acquisition.md",
     "20260228030404-possessary-right.md",
     "20260123011144-tac-gyoseishoshi-text.md",
     "20260228033943-basis-vs-circumstances.md",
