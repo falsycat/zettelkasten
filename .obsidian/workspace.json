@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260228035236-immediate-acquisition.md",
+                "file": "20260123011144-tac-gyoseishoshi-text.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260228035236-immediate-acquisition"
+              "title": "20260123011144-tac-gyoseishoshi-text"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260228035236-immediate-acquisition.md",
+                "file": "20260123011144-tac-gyoseishoshi-text.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260228035236-immediate-acquisition"
+              "title": "Outline of 20260123011144-tac-gyoseishoshi-text"
             }
           },
           {
@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,13 +175,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a138b8d135c7d9d1",
+  "active": "0b90e996a8e6fd23",
   "lastOpenFiles": [
+    "20260228035236-immediate-acquisition.md",
     "20260214100702-ability.md",
     "20260123011144-tac-gyoseishoshi-text.md",
     "20260222090300-agency.md",
     "20260216074712-decl-of-intent.md",
-    "20260228035236-immediate-acquisition.md",
     "20260228034445-gyoseishoshi-study.md",
     "20260226083337-real-property-rights.md",
     "20260228033943-basis-vs-circumstances.md",
