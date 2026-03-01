@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260124065200-do-not-be-careless-until-win.md",
+                "file": "20260301122629-ownership.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260124065200-do-not-be-careless-until-win"
+              "title": "20260301122629-ownership"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260124065200-do-not-be-careless-until-win.md",
+                "file": "20260301122629-ownership.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260124065200-do-not-be-careless-until-win"
+              "title": "Outline of 20260301122629-ownership"
             }
           },
           {
@@ -176,8 +175,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0b90e996a8e6fd23",
+  "active": "a138b8d135c7d9d1",
   "lastOpenFiles": [
+    "20260124065200-do-not-be-careless-until-win.md",
+    "20260301122629-ownership.md",
     "20260124064904-chess.md",
     "20260301122348-mate-in-7.md",
     "20260123011144-tac-gyoseishoshi-text.md",
@@ -202,8 +203,6 @@
     "20260129103559-new-words.md",
     "20260202102834-too-much-is-too-bad.md",
     "20260225115111-dicthotomous-thinking.md",
-    "20260225113331-how-to-use-ai.md",
-    "20260225114941-avoid-dicthotomous-thinking.md",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
     "linked_notes.txt",
