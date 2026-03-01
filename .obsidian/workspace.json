@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260301122629-ownership.md",
+                "file": "20260123011144-tac-gyoseishoshi-text.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260301122629-ownership"
+              "title": "20260123011144-tac-gyoseishoshi-text"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260301122629-ownership.md",
+                "file": "20260123011144-tac-gyoseishoshi-text.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260301122629-ownership"
+              "title": "Outline of 20260123011144-tac-gyoseishoshi-text"
             }
           },
           {
@@ -177,12 +177,12 @@
   },
   "active": "a138b8d135c7d9d1",
   "lastOpenFiles": [
-    "20260124065200-do-not-be-careless-until-win.md",
     "20260301122629-ownership.md",
+    "20260228035236-immediate-acquisition.md",
+    "20260124065200-do-not-be-careless-until-win.md",
     "20260124064904-chess.md",
     "20260301122348-mate-in-7.md",
     "20260123011144-tac-gyoseishoshi-text.md",
-    "20260228035236-immediate-acquisition.md",
     "20260214100702-ability.md",
     "20260222090300-agency.md",
     "20260216074712-decl-of-intent.md",
