@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260123011144-tac-gyoseishoshi-text.md",
+                "file": "20260301122629-ownership.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260123011144-tac-gyoseishoshi-text"
+              "title": "20260301122629-ownership"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260123011144-tac-gyoseishoshi-text.md",
+                "file": "20260301122629-ownership.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260123011144-tac-gyoseishoshi-text"
+              "title": "Outline of 20260301122629-ownership"
             }
           },
           {
@@ -177,8 +177,9 @@
   },
   "active": "09b61e484824db8c",
   "lastOpenFiles": [
-    "20260225105114-property-rights.md",
+    "system/dashboard.md",
     "20260123011144-tac-gyoseishoshi-text.md",
+    "20260225105114-property-rights.md",
     "20260301122629-ownership.md",
     "20260228035236-immediate-acquisition.md",
     "20260124065200-do-not-be-careless-until-win.md",
@@ -191,7 +192,6 @@
     "20260226083337-real-property-rights.md",
     "20260228033943-basis-vs-circumstances.md",
     "20260228030404-possessary-right.md",
-    "system/dashboard.md",
     "20260124120835-civil-code-expression.md",
     "20260123125256-civil-code-lose-ability.md",
     "20260122111311-civil-code-ability.md",
