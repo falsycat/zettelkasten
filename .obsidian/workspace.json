@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260123011144-tac-gyoseishoshi-text.md",
+                "file": "20260302103742-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260123011144-tac-gyoseishoshi-text"
+              "title": "20260302103742-new-reference-note-draft_"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260123011144-tac-gyoseishoshi-text.md",
+                "file": "20260302103742-new-reference-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260123011144-tac-gyoseishoshi-text"
+              "title": "Outline of 20260302103742-new-reference-note-draft_"
             }
           },
           {
@@ -177,8 +177,9 @@
   },
   "active": "09b61e484824db8c",
   "lastOpenFiles": [
-    "20260302100524-unsufruct.md",
     "20260123011144-tac-gyoseishoshi-text.md",
+    "20260302103742-new-reference-note-draft_.md",
+    "20260302100524-unsufruct.md",
     "20260301122629-ownership.md",
     "system/dashboard.md",
     "20260225105114-property-rights.md",
@@ -202,7 +203,6 @@
     "20260226125638-increase-sns-follower.md",
     "20260226121448-antigravity-quota-limit.md",
     "20260129103559-new-words.md",
-    "20260202102834-too-much-is-too-bad.md",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
     "linked_notes.txt",
