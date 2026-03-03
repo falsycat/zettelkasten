@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260123011144-tac-gyoseishoshi-text.md",
+                "file": "20260302103742-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260123011144-tac-gyoseishoshi-text"
+              "title": "20260302103742-new-reference-note-draft_"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260123011144-tac-gyoseishoshi-text.md",
+                "file": "20260302103742-new-reference-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260123011144-tac-gyoseishoshi-text"
+              "title": "Outline of 20260302103742-new-reference-note-draft_"
             }
           },
           {
@@ -175,8 +175,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0b90e996a8e6fd23",
+  "active": "88d09244cf5f6a73",
   "lastOpenFiles": [
+    "20260304124506-new-reference-note-draft_.md",
     "20260302103742-new-reference-note-draft_.md",
     "20260123011144-tac-gyoseishoshi-text.md",
     "20260302100524-unsufruct.md",
@@ -202,7 +203,6 @@
     "20260226085524-chess-rapid-rate-1700.md",
     "20260226125638-increase-sns-follower.md",
     "20260226121448-antigravity-quota-limit.md",
-    "20260129103559-new-words.md",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
     "linked_notes.txt",
