@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260302103742-new-reference-note-draft_.md",
+                "file": "20260123011144-tac-gyoseishoshi-text.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260302103742-new-reference-note-draft_"
+              "title": "20260123011144-tac-gyoseishoshi-text"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260302103742-new-reference-note-draft_.md",
+                "file": "20260123011144-tac-gyoseishoshi-text.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260302103742-new-reference-note-draft_"
+              "title": "Outline of 20260123011144-tac-gyoseishoshi-text"
             }
           },
           {
@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,12 +175,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a8a84b73aefbb679",
+  "active": "09b61e484824db8c",
   "lastOpenFiles": [
-    "20260304124506-new-reference-note-draft_.md",
-    "20260302103742-new-reference-note-draft_.md",
+    "20260302103742-security-interest.md",
     "20260123011144-tac-gyoseishoshi-text.md",
     "20260302100524-unsufruct.md",
+    "20260304124506-new-reference-note-draft_.md",
     "20260301122629-ownership.md",
     "system/dashboard.md",
     "20260225105114-property-rights.md",
