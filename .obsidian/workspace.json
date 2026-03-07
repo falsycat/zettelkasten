@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260305084551-debtor-creditor-relationship.md",
+                "file": "20260307033816-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260305084551-debtor-creditor-relationship"
+              "title": "20260307033816-new-reference-note-draft_"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260305084551-debtor-creditor-relationship.md",
+                "file": "20260307033816-new-reference-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260305084551-debtor-creditor-relationship"
+              "title": "Outline of 20260307033816-new-reference-note-draft_"
             }
           },
           {
@@ -177,8 +177,9 @@
   },
   "active": "09b61e484824db8c",
   "lastOpenFiles": [
-    "system/dashboard.md",
     "20260305084551-debtor-creditor-relationship.md",
+    "20260307033816-new-reference-note-draft_.md",
+    "system/dashboard.md",
     "20260123011144-tac-gyoseishoshi-text.md",
     "20260302103742-security-interest.md",
     "20260302100524-unsufruct.md",
@@ -202,7 +203,6 @@
     "20260214015230-administrative-scrivener-quiz-constitution.md",
     "20260228034349-new-permanent-note-draft_.md",
     "20260226085524-chess-rapid-rate-1700.md",
-    "20260226125638-increase-sns-follower.md",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
     "linked_notes.txt",
