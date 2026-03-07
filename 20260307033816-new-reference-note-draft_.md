@@ -21,6 +21,7 @@ lastmod: 2026-03-07 15:43
 #### architecture.md
 - 実現のためのAWSアーキを、Gemini Flashと会話しながら作成
 - Claudeにレビュー、清書してもらう
+- 詳細仕様を確定
 ### 2. コンポ間IFの確定
 - 
 
