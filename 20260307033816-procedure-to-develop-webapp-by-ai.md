@@ -4,9 +4,9 @@ title: AIでウェブアプリを開発した時の手順
 aliases: ["20260307033816"]
 created: 2026-03-07 15:38
 tags: [reference/experience]
-publish: false
-draft: true
-lastmod: 2026-03-09 00:04
+publish: true
+draft: false
+lastmod: 2026-03-09 00:09
 ---
 ## 手順
 ### 1. 骨格の作成
@@ -35,8 +35,7 @@ lastmod: 2026-03-09 00:04
 - デプロイ用のスクリプトをGeminiに生成してもらう
 - デプロイ手順をドキュメント化してもらう
 
-
 ---
 ## Ref
 2026/03/07
-- 
+- 経験より
