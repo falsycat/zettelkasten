@@ -5,8 +5,8 @@ aliases: ["20260305084551"]
 created: 2026-03-05 08:45
 tags: [reference/book]
 publish: true
-draft: true
-lastmod: 2026-03-05 08:55
+draft: false
+lastmod: 2026-03-10 00:09
 ---
 ## 債権と債務
 - 双務契約: 双方が債務を負う契約 (売買契約など)
