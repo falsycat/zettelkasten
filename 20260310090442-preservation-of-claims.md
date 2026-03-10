@@ -1,11 +1,13 @@
 ---
 id: 20260310090442
 title: 債権の保全
-aliases: ["20260310090442"]
+aliases:
+  - "20260310090442"
 created: 2026-03-10 21:04
-tags: [reference]
-publish: false
-draft: true
+tags:
+  - reference/book
+publish: true
+draft: false
 lastmod: 2026-03-10 21:12
 ---
 ## 債権者代位権
