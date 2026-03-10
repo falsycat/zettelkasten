@@ -47,7 +47,7 @@ lastmod: 2026-02-28 15:48
 3. 債権
 	1. [[20260305084551-debtor-creditor-relationship|債権債務関係]]
 	2. [[20260310090442-preservation-of-claims|債権の保全]]
-	3. 債権譲渡・債務引き受け
+	3. [[20260310115041-assign-claim-assume-debt|債権譲渡・債務引受]]
 	4. 債権の消滅
 	5. 多数当事者の債権責務関係
 	6. 契約総論
