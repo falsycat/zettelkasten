@@ -1,9 +1,11 @@
 ---
 id: 20260316061413
 title: トリクルダウン/アップ
-aliases: ["20260316061413"]
+aliases:
+  - "20260316061413"
 created: 2026-03-16 06:14
-tags: [reference/video]
+tags:
+  - reference/video
 publish: true
 draft: true
 lastmod: 2026-03-16 06:15

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "708b8e2585544fc5",
+        "id": "3e07406681a3aa40",
         "type": "tabs",
         "children": [
           {
-            "id": "09b61e484824db8c",
+            "id": "6a169c464a4c62a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,13 +175,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "09b61e484824db8c",
+  "active": "6a169c464a4c62a8",
   "lastOpenFiles": [
     "20260316061413-new-reference-note-draft_.md",
-    "20260315021909-new-reference-note-draft_.md",
-    "20260312122301-extinguishment-of-claims.md",
-    "20260123011144-tac-gyoseishoshi-text.md",
     "20260310115041-assign-claim-assume-debt.md",
+    "20260312122301-extinguishment-of-claims.md",
+    "conflict-files-obsidian-git.md",
+    "20260315021909-new-reference-note-draft_.md",
+    "20260123011144-tac-gyoseishoshi-text.md",
     "20260310090442-preservation-of-claims.md",
     "20260305084551-debtor-creditor-relationship.md",
     "20260309121009-ai-dev-needs-tech-and-management.md",
@@ -202,7 +203,6 @@
     "20260214100702-ability.md",
     "20260222090300-agency.md",
     "20260216074712-decl-of-intent.md",
-    "20260228034445-gyoseishoshi-study.md",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
     "linked_notes.txt",
