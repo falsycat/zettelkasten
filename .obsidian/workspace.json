@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260319112255-new-reference-note-draft_.md",
+                "file": "20260320122719-constructivism-vs-ecological-approach.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260319112255-new-reference-note-draft_"
+              "title": "20260320122719-constructivism-vs-ecological-approach"
             }
           },
           {
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260319112255-new-reference-note-draft_.md",
+                "file": "20260320122719-constructivism-vs-ecological-approach.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260319112255-new-reference-note-draft_"
+              "title": "Outline of 20260320122719-constructivism-vs-ecological-approach"
             }
           },
           {
@@ -226,12 +226,14 @@
   },
   "active": "276c4955ffb01bf8",
   "lastOpenFiles": [
-    "20260228034445-gyoseishoshi-study.md",
-    "20260320123849-law-of-pragnantz.md",
-    "20260319112255-new-reference-note-draft_.md",
-    "20260320124306-constancy.md",
+    "20260319112255-cognitive-psychology.md",
     "20260320122719-constructivism-vs-ecological-approach.md",
     "20260320123530-new-reference-note-draft_.md",
+    "20260320010738-perception.md",
+    "20260320123849-law-of-pragnantz.md",
+    "20260320124306-constancy.md",
+    "system/assets/Pasted image 20260320005752.png",
+    "20260228034445-gyoseishoshi-study.md",
     "20260320122315-ecological-approach.md",
     "20260320122046-constructivism.md",
     "20260317111234-multi-party-creditor-debtor-relationships.md",
@@ -251,7 +253,6 @@
     "20260201071321-ai-do-not-work-properly-without-proper-input.md",
     "20260309121004-new-reference-note-draft_.md",
     "20260302100524-unsufruct.md",
-    "20260304124506-new-reference-note-draft_.md",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
     "linked_notes.txt",
