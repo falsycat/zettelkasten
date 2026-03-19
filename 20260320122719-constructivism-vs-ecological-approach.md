@@ -3,14 +3,11 @@ id: 20260320122719
 title: 構成主義 vs 生態学的アプローチ
 aliases: ["20260320122719"]
 created: 2026-03-20 00:27
-tags: [permanent, reference/ai]
+tags: [reference/ai]
 publish: true
-draft: true
+draft: false
 lastmod: 2026-03-20 01:11
 ---
-- 結局どっちとも両極端な意見なので、時と場合によってどちらかを選んで使い分けるのが最も実用的
-	- 環境がある程度の情報を教えてくれるし、脳がその情報をある程度推論した上で知覚している
-## 2つの対比
 [[20260320122046-constructivism|構成主義]]と[[20260320122315-ecological-approach|生態学的アプローチ]]の立場は下表の通り。
 
 |           | 構成主義            | 生態学的アプローチ       |

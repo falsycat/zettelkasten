@@ -10,10 +10,11 @@
           {
             "id": "6a169c464a4c62a8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260228034445-gyoseishoshi-study.md",
+                "file": "system/dashboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -27,17 +28,18 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "20260228034445-gyoseishoshi-study"
+              "title": "dashboard"
             }
           },
           {
-            "id": "276c4955ffb01bf8",
+            "id": "2b059d40b305bf7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260320122719-constructivism-vs-ecological-approach.md",
+                "file": "20260315021909-key-press-wont-work-on-mac-vscode-with-vim.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260320122719-constructivism-vs-ecological-approach"
-            }
-          },
-          {
-            "id": "a8fcaefb3879d7f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260320123849-law-of-pragnantz.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260320123849-law-of-pragnantz"
+              "title": "20260315021909-key-press-wont-work-on-mac-vscode-with-vim"
             }
           }
         ],
@@ -112,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "勝ち",
+                "query": "極端",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260320122719-constructivism-vs-ecological-approach.md",
+                "file": "20260315021909-key-press-wont-work-on-mac-vscode-with-vim.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260320122719-constructivism-vs-ecological-approach"
+              "title": "Outline of 20260315021909-key-press-wont-work-on-mac-vscode-with-vim"
             }
           },
           {
@@ -224,35 +202,35 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "276c4955ffb01bf8",
+  "active": "2b059d40b305bf7d",
   "lastOpenFiles": [
-    "20260319112255-cognitive-psychology.md",
-    "20260320122719-constructivism-vs-ecological-approach.md",
-    "20260320123530-new-reference-note-draft_.md",
+    "20260316061413-trickle-down-trickle-up.md",
+    "system/dashboard.md",
+    "20260315021909-key-press-wont-work-on-mac-vscode-with-vim.md",
     "20260320010738-perception.md",
+    "20260319112255-cognitive-psychology.md",
+    "20260123011144-tac-gyoseishoshi-text.md",
+    "20260228034445-gyoseishoshi-study.md",
     "20260320123849-law-of-pragnantz.md",
+    "20260320122719-constructivism-vs-ecological-approach.md",
+    "20260225114941-avoid-dicthotomous-thinking.md",
+    "20260320123530-new-reference-note-draft_.md",
     "20260320124306-constancy.md",
     "system/assets/Pasted image 20260320005752.png",
-    "20260228034445-gyoseishoshi-study.md",
     "20260320122315-ecological-approach.md",
     "20260320122046-constructivism.md",
     "20260317111234-multi-party-creditor-debtor-relationships.md",
     "20260312122301-extinguishment-of-claims.md",
-    "20260123011144-tac-gyoseishoshi-text.md",
     "20260310115041-assign-claim-assume-debt.md",
-    "20260316061413-new-reference-note-draft_.md",
     "conflict-files-obsidian-git.md",
-    "20260315021909-new-reference-note-draft_.md",
     "20260310090442-preservation-of-claims.md",
     "20260305084551-debtor-creditor-relationship.md",
     "20260309121009-ai-dev-needs-tech-and-management.md",
-    "system/dashboard.md",
     "20260124120118-scrum-team-kickoff.md",
     "20260302103742-security-interest.md",
     "20260307033816-procedure-to-develop-webapp-by-ai.md",
     "20260201071321-ai-do-not-work-properly-without-proper-input.md",
     "20260309121004-new-reference-note-draft_.md",
-    "20260302100524-unsufruct.md",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
     "linked_notes.txt",
