@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260320122315-ecological-approach.md",
+                "file": "20260319112255-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260320122315-ecological-approach"
+              "title": "20260319112255-new-reference-note-draft_"
             }
           }
         ],
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260320122315-ecological-approach.md",
+                "file": "20260319112255-new-reference-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260320122315-ecological-approach"
+              "title": "Outline of 20260319112255-new-reference-note-draft_"
             }
           },
           {
@@ -202,9 +202,12 @@
   },
   "active": "276c4955ffb01bf8",
   "lastOpenFiles": [
-    "20260320122046-constructivism.md",
-    "20260320122315-ecological-approach.md",
+    "20260320122719-constructivism-vs-ecological-approach.md",
+    "20260320123849-new-reference-note-draft_.md",
     "20260319112255-new-reference-note-draft_.md",
+    "20260320123530-new-reference-note-draft_.md",
+    "20260320122315-ecological-approach.md",
+    "20260320122046-constructivism.md",
     "20260228034445-gyoseishoshi-study.md",
     "20260317111234-multi-party-creditor-debtor-relationships.md",
     "20260312122301-extinguishment-of-claims.md",
@@ -225,9 +228,6 @@
     "20260302100524-unsufruct.md",
     "20260304124506-new-reference-note-draft_.md",
     "20260301122629-ownership.md",
-    "20260225105114-property-rights.md",
-    "20260228035236-immediate-acquisition.md",
-    "20260124065200-do-not-be-careless-until-win.md",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
     "linked_notes.txt",
