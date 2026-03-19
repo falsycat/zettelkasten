@@ -54,6 +54,30 @@
               "icon": "lucide-file",
               "title": "20260319112255-new-reference-note-draft_"
             }
+          },
+          {
+            "id": "a8fcaefb3879d7f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260320123849-law-of-pragnantz.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260320123849-law-of-pragnantz"
+            }
           }
         ],
         "currentTab": 1
@@ -202,13 +226,14 @@
   },
   "active": "276c4955ffb01bf8",
   "lastOpenFiles": [
-    "20260320122719-constructivism-vs-ecological-approach.md",
-    "20260320123849-new-reference-note-draft_.md",
+    "20260228034445-gyoseishoshi-study.md",
+    "20260320123849-law-of-pragnantz.md",
     "20260319112255-new-reference-note-draft_.md",
+    "20260320124306-constancy.md",
+    "20260320122719-constructivism-vs-ecological-approach.md",
     "20260320123530-new-reference-note-draft_.md",
     "20260320122315-ecological-approach.md",
     "20260320122046-constructivism.md",
-    "20260228034445-gyoseishoshi-study.md",
     "20260317111234-multi-party-creditor-debtor-relationships.md",
     "20260312122301-extinguishment-of-claims.md",
     "20260123011144-tac-gyoseishoshi-text.md",
@@ -227,7 +252,6 @@
     "20260309121004-new-reference-note-draft_.md",
     "20260302100524-unsufruct.md",
     "20260304124506-new-reference-note-draft_.md",
-    "20260301122629-ownership.md",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
     "linked_notes.txt",
