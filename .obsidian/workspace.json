@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260319112255-new-reference-note-draft_.md",
+                "file": "20260320122315-ecological-approach.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260319112255-new-reference-note-draft_"
+              "title": "20260320122315-ecological-approach"
             }
           }
         ],
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260319112255-new-reference-note-draft_.md",
+                "file": "20260320122315-ecological-approach.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260319112255-new-reference-note-draft_"
+              "title": "Outline of 20260320122315-ecological-approach"
             }
           },
           {
@@ -202,11 +202,13 @@
   },
   "active": "276c4955ffb01bf8",
   "lastOpenFiles": [
-    "20260317111234-multi-party-creditor-debtor-relationships.md",
+    "20260320122046-constructivism.md",
+    "20260320122315-ecological-approach.md",
     "20260319112255-new-reference-note-draft_.md",
+    "20260228034445-gyoseishoshi-study.md",
+    "20260317111234-multi-party-creditor-debtor-relationships.md",
     "20260312122301-extinguishment-of-claims.md",
     "20260123011144-tac-gyoseishoshi-text.md",
-    "20260228034445-gyoseishoshi-study.md",
     "20260310115041-assign-claim-assume-debt.md",
     "20260316061413-new-reference-note-draft_.md",
     "conflict-files-obsidian-git.md",
@@ -226,8 +228,6 @@
     "20260225105114-property-rights.md",
     "20260228035236-immediate-acquisition.md",
     "20260124065200-do-not-be-careless-until-win.md",
-    "20260124064904-chess.md",
-    "20260301122348-mate-in-7.md",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
     "linked_notes.txt",
