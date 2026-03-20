@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260320010738-perception.md",
+                "file": "20260320101704-attention.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260320010738-perception"
+              "title": "20260320101704-attention"
             }
           }
         ],
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260320010738-perception.md",
+                "file": "20260320101704-attention.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260320010738-perception"
+              "title": "Outline of 20260320101704-attention"
             }
           },
           {
@@ -204,13 +204,15 @@
   },
   "active": "7f4e7dad24af7ce3",
   "lastOpenFiles": [
-    "20260320122046-constructivism.md",
-    "20260129103559-new-words.md",
+    "20260320114019-attention-filter-model.md",
     "20260320101704-attention.md",
+    "20260320113647-central-capacity-theory.md",
+    "20260320122046-constructivism.md",
+    "20260320010738-perception.md",
+    "20260129103559-new-words.md",
     "20260207120858-idempotency.md",
     "20260317111234-multi-party-creditor-debtor-relationships.md",
     "system/dashboard.md",
-    "20260320010738-perception.md",
     "20260320111708-inattentional-blindness.md",
     "20260320112254-cocktail-party-vs-inattentional-blindness.md",
     "20260320112805-new-reference-note-draft_.md",
@@ -228,8 +230,6 @@
     "20260201064529-my-tries.md",
     "20260222030012-image-rotation-fix-by-imagemagick.md",
     "20260228034445-gyoseishoshi-study.md",
-    "20260320123530-new-reference-note-draft_.md",
-    "20260320124306-constancy.md",
     "system/assets/Pasted image 20260320005752.png",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
