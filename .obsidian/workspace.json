@@ -57,8 +57,7 @@
               "title": "20260321010552-contracts"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260321010552-contracts.md",
+                "file": "system/dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260321010552-contracts"
+              "title": "Outline of dashboard"
             }
           },
           {
@@ -202,10 +201,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "5b729d4984f59be2",
+  "active": "6a169c464a4c62a8",
   "lastOpenFiles": [
-    "system/dashboard.md",
     "20260321010552-contracts.md",
+    "system/dashboard.md",
     "20260320114019-attention-filter-model.md",
     "20260319112255-cognitive-psychology.md",
     "20260320123849-law-of-pragnantz.md",
