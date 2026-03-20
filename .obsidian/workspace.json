@@ -111,8 +111,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,7 +202,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "69a48da83e0caf77",
+  "active": "88d09244cf5f6a73",
   "lastOpenFiles": [
     "20260319112255-cognitive-psychology.md",
     "20260320123849-law-of-pragnantz.md",
