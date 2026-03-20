@@ -1,11 +1,13 @@
 ---
 id: 20260317111234
 title: 多数当事者の債権債務関係
-aliases: ["20260317111234"]
+aliases:
+  - "20260317111234"
 created: 2026-03-17 23:12
-tags: [reference/book]
+tags:
+  - reference/book
 publish: true
-draft: true
+draft: false
 lastmod: 2026-03-17 23:15
 ---
 ## 不可分債権・債務

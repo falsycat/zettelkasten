@@ -34,36 +34,12 @@
             }
           },
           {
-            "id": "6c7eba54e8ab00d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260320101704-attention.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260320101704-attention"
-            }
-          },
-          {
             "id": "7f4e7dad24af7ce3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260320111708-new-reference-note-draft_.md",
+                "file": "20260320010738-perception.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260320111708-new-reference-note-draft_"
+              "title": "20260320010738-perception"
             }
           }
         ],
@@ -189,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260320101704-attention.md",
+                "file": "20260320010738-perception.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260320101704-attention"
+              "title": "Outline of 20260320010738-perception"
             }
           },
           {
@@ -226,16 +202,22 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6c7eba54e8ab00d1",
+  "active": "7f4e7dad24af7ce3",
   "lastOpenFiles": [
-    "20260320110901-homunculus-problem.md",
-    "20260320111708-new-reference-note-draft_.md",
+    "20260320122046-constructivism.md",
+    "20260129103559-new-words.md",
     "20260320101704-attention.md",
+    "20260207120858-idempotency.md",
+    "20260317111234-multi-party-creditor-debtor-relationships.md",
     "system/dashboard.md",
     "20260320010738-perception.md",
+    "20260320111708-inattentional-blindness.md",
+    "20260320112254-cocktail-party-vs-inattentional-blindness.md",
+    "20260320112805-new-reference-note-draft_.md",
+    "20260320110901-homunculus-problem.md",
+    "20260320111901-cocktail-party-effect.md",
     "20260319112255-cognitive-psychology.md",
     "20260123011144-tac-gyoseishoshi-text.md",
-    "20260317111234-multi-party-creditor-debtor-relationships.md",
     "20260312122301-extinguishment-of-claims.md",
     "20260315021909-key-press-wont-work-on-mac-vscode-with-vim.md",
     "20260316061413-trickle-down-trickle-up.md",
@@ -244,17 +226,11 @@
     "20260225114941-avoid-dicthotomous-thinking.md",
     "20260320123849-law-of-pragnantz.md",
     "20260201064529-my-tries.md",
-    "20260129103559-new-words.md",
     "20260222030012-image-rotation-fix-by-imagemagick.md",
     "20260228034445-gyoseishoshi-study.md",
     "20260320123530-new-reference-note-draft_.md",
     "20260320124306-constancy.md",
     "system/assets/Pasted image 20260320005752.png",
-    "20260320122315-ecological-approach.md",
-    "20260320122046-constructivism.md",
-    "20260310115041-assign-claim-assume-debt.md",
-    "conflict-files-obsidian-git.md",
-    "20260310090442-preservation-of-claims.md",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
     "linked_notes.txt",
