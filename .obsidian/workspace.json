@@ -56,6 +56,30 @@
               "icon": "lucide-file",
               "title": "20260320101704-attention"
             }
+          },
+          {
+            "id": "7f4e7dad24af7ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260320111708-new-reference-note-draft_.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260320111708-new-reference-note-draft_"
+            }
           }
         ],
         "currentTab": 1
@@ -204,11 +228,13 @@
   },
   "active": "6c7eba54e8ab00d1",
   "lastOpenFiles": [
-    "20260320010738-perception.md",
+    "20260320110901-homunculus-problem.md",
+    "20260320111708-new-reference-note-draft_.md",
     "20260320101704-attention.md",
+    "system/dashboard.md",
+    "20260320010738-perception.md",
     "20260319112255-cognitive-psychology.md",
     "20260123011144-tac-gyoseishoshi-text.md",
-    "system/dashboard.md",
     "20260317111234-multi-party-creditor-debtor-relationships.md",
     "20260312122301-extinguishment-of-claims.md",
     "20260315021909-key-press-wont-work-on-mac-vscode-with-vim.md",
@@ -229,8 +255,6 @@
     "20260310115041-assign-claim-assume-debt.md",
     "conflict-files-obsidian-git.md",
     "20260310090442-preservation-of-claims.md",
-    "20260305084551-debtor-creditor-relationship.md",
-    "20260309121009-ai-dev-needs-tech-and-management.md",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
     "linked_notes.txt",
