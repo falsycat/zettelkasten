@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "7f4e7dad24af7ce3",
+            "id": "5b729d4984f59be2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260320114019-attention-filter-model.md",
+                "file": "20260321010552-contracts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260320114019-attention-filter-model"
+              "title": "20260321010552-contracts"
             }
           }
         ],
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260320114019-attention-filter-model.md",
+                "file": "20260321010552-contracts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260320114019-attention-filter-model"
+              "title": "Outline of 20260321010552-contracts"
             }
           },
           {
@@ -202,13 +202,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "88d09244cf5f6a73",
+  "active": "5b729d4984f59be2",
   "lastOpenFiles": [
+    "system/dashboard.md",
+    "20260321010552-contracts.md",
+    "20260320114019-attention-filter-model.md",
     "20260319112255-cognitive-psychology.md",
     "20260320123849-law-of-pragnantz.md",
     "20260320101704-attention.md",
-    "20260320114019-attention-filter-model.md",
-    "system/dashboard.md",
     "20260320113647-central-capacity-theory.md",
     "20260320122046-constructivism.md",
     "20260320010738-perception.md",
@@ -229,7 +230,6 @@
     "20260225114941-avoid-dicthotomous-thinking.md",
     "20260201064529-my-tries.md",
     "20260222030012-image-rotation-fix-by-imagemagick.md",
-    "20260228034445-gyoseishoshi-study.md",
     "system/assets/Pasted image 20260320005752.png",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
