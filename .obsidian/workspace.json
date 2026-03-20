@@ -56,8 +56,33 @@
               "icon": "lucide-file",
               "title": "20260321010552-contracts"
             }
+          },
+          {
+            "id": "80fe64c1564067cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260320101704-attention.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260320101704-attention"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "system/dashboard.md",
+                "file": "20260320101704-attention.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dashboard"
+              "title": "Outline of 20260320101704-attention"
             }
           },
           {
@@ -201,15 +226,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6a169c464a4c62a8",
+  "active": "80fe64c1564067cc",
   "lastOpenFiles": [
-    "20260321010552-contracts.md",
+    "20260320113647-central-capacity-theory.md",
     "system/dashboard.md",
+    "20260321010552-contracts.md",
     "20260320114019-attention-filter-model.md",
     "20260319112255-cognitive-psychology.md",
     "20260320123849-law-of-pragnantz.md",
     "20260320101704-attention.md",
-    "20260320113647-central-capacity-theory.md",
     "20260320122046-constructivism.md",
     "20260320010738-perception.md",
     "20260129103559-new-words.md",
