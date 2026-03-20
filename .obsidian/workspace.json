@@ -185,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -202,7 +202,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6c7eba54e8ab00d1",
+  "active": "a8a84b73aefbb679",
   "lastOpenFiles": [
     "20260320012416-troubleshooting.md",
     "20260320010738-perception.md",
