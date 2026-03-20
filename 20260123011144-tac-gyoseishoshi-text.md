@@ -49,7 +49,7 @@ lastmod: 2026-02-28 15:48
 	2. [[20260310090442-preservation-of-claims|債権の保全]]
 	3. [[20260310115041-assign-claim-assume-debt|債権譲渡・債務引受]]
 	4. [[20260312122301-extinguishment-of-claims|債権の消滅]]
-	5. 多数当事者の債権責務関係
+	5. [[20260317111234-multi-party-creditor-debtor-relationships|多数当事者の債権債務関係]]
 	6. 契約総論
 	7. 契約各論
 	8. 契約以外の債権発生原因

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260317111234-multi-party-creditor-debtor-relationships.md",
+                "file": "20260123011144-tac-gyoseishoshi-text.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260317111234-multi-party-creditor-debtor-relationships"
+              "title": "20260123011144-tac-gyoseishoshi-text"
             }
           }
         ],
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260317111234-multi-party-creditor-debtor-relationships.md",
+                "file": "20260123011144-tac-gyoseishoshi-text.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260317111234-multi-party-creditor-debtor-relationships"
+              "title": "Outline of 20260123011144-tac-gyoseishoshi-text"
             }
           },
           {
@@ -202,8 +202,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a8a84b73aefbb679",
+  "active": "6c7eba54e8ab00d1",
   "lastOpenFiles": [
+    "20260317111234-multi-party-creditor-debtor-relationships.md",
+    "20260312122301-extinguishment-of-claims.md",
+    "20260315021909-key-press-wont-work-on-mac-vscode-with-vim.md",
+    "20260316061413-trickle-down-trickle-up.md",
     "20260320012416-troubleshooting.md",
     "20260320010738-perception.md",
     "system/dashboard.md",
@@ -211,8 +215,6 @@
     "20260320122719-constructivism-vs-ecological-approach.md",
     "20260225114941-avoid-dicthotomous-thinking.md",
     "20260320123849-law-of-pragnantz.md",
-    "20260315021909-key-press-wont-work-on-mac-vscode-with-vim.md",
-    "20260316061413-trickle-down-trickle-up.md",
     "20260201064529-my-tries.md",
     "20260129103559-new-words.md",
     "20260222030012-image-rotation-fix-by-imagemagick.md",
@@ -223,8 +225,6 @@
     "system/assets/Pasted image 20260320005752.png",
     "20260320122315-ecological-approach.md",
     "20260320122046-constructivism.md",
-    "20260317111234-multi-party-creditor-debtor-relationships.md",
-    "20260312122301-extinguishment-of-claims.md",
     "20260310115041-assign-claim-assume-debt.md",
     "conflict-files-obsidian-git.md",
     "20260310090442-preservation-of-claims.md",
