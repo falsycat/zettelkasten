@@ -61,24 +61,10 @@
             "id": "80fe64c1564067cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260320101704-attention.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260320101704-attention"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -228,20 +214,20 @@
   },
   "active": "80fe64c1564067cc",
   "lastOpenFiles": [
+    "20260320112254-cocktail-party-vs-inattentional-blindness.md",
+    "20260320101704-attention.md",
     "20260320113647-central-capacity-theory.md",
     "system/dashboard.md",
     "20260321010552-contracts.md",
     "20260320114019-attention-filter-model.md",
     "20260319112255-cognitive-psychology.md",
     "20260320123849-law-of-pragnantz.md",
-    "20260320101704-attention.md",
     "20260320122046-constructivism.md",
     "20260320010738-perception.md",
     "20260129103559-new-words.md",
     "20260207120858-idempotency.md",
     "20260317111234-multi-party-creditor-debtor-relationships.md",
     "20260320111708-inattentional-blindness.md",
-    "20260320112254-cocktail-party-vs-inattentional-blindness.md",
     "20260320112805-new-reference-note-draft_.md",
     "20260320110901-homunculus-problem.md",
     "20260320111901-cocktail-party-effect.md",
