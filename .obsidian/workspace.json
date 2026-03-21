@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260321010552-contracts.md",
+                "file": "20260321025612-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,21 +54,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260321010552-contracts"
-            }
-          },
-          {
-            "id": "80fe64c1564067cc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "20260321025612-new-reference-note-draft_"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,13 +202,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "80fe64c1564067cc",
+  "active": "5b729d4984f59be2",
   "lastOpenFiles": [
+    "20260321010552-contracts.md",
+    "20260321025612-new-reference-note-draft_.md",
     "20260320112254-cocktail-party-vs-inattentional-blindness.md",
     "20260320101704-attention.md",
     "20260320113647-central-capacity-theory.md",
     "system/dashboard.md",
-    "20260321010552-contracts.md",
     "20260320114019-attention-filter-model.md",
     "20260319112255-cognitive-psychology.md",
     "20260320123849-law-of-pragnantz.md",
@@ -239,7 +230,6 @@
     "20260320122719-constructivism-vs-ecological-approach.md",
     "20260225114941-avoid-dicthotomous-thinking.md",
     "20260201064529-my-tries.md",
-    "20260222030012-image-rotation-fix-by-imagemagick.md",
     "system/assets/Pasted image 20260320005752.png",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
