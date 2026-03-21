@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "5b729d4984f59be2",
+            "id": "a4c48e3286890606",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260321010552-contracts.md",
+                "file": "20260123011144-tac-gyoseishoshi-text.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260321010552-contracts"
+              "title": "20260123011144-tac-gyoseishoshi-text"
             }
           }
         ],
@@ -202,15 +202,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "5b729d4984f59be2",
+  "active": "a4c48e3286890606",
   "lastOpenFiles": [
+    "system/dashboard.md",
+    "20260321010552-contracts.md",
+    "20260317111234-multi-party-creditor-debtor-relationships.md",
     "20260321025612-new-reference-note-draft_.md",
     "20260321095539-new-reference-note-draft_.md",
-    "20260321010552-contracts.md",
     "20260320112254-cocktail-party-vs-inattentional-blindness.md",
     "20260320101704-attention.md",
     "20260320113647-central-capacity-theory.md",
-    "system/dashboard.md",
     "20260320114019-attention-filter-model.md",
     "20260319112255-cognitive-psychology.md",
     "20260320123849-law-of-pragnantz.md",
@@ -218,7 +219,6 @@
     "20260320010738-perception.md",
     "20260129103559-new-words.md",
     "20260207120858-idempotency.md",
-    "20260317111234-multi-party-creditor-debtor-relationships.md",
     "20260320111708-inattentional-blindness.md",
     "20260320112805-new-reference-note-draft_.md",
     "20260320110901-homunculus-problem.md",
