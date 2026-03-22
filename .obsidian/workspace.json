@@ -57,8 +57,7 @@
               "title": "20260123011144-tac-gyoseishoshi-text"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,8 +201,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a4c48e3286890606",
+  "active": "6a169c464a4c62a8",
   "lastOpenFiles": [
+    "20260123011144-tac-gyoseishoshi-text.md",
     "system/dashboard.md",
     "20260321010552-contracts.md",
     "20260317111234-multi-party-creditor-debtor-relationships.md",
@@ -223,7 +223,6 @@
     "20260320112805-new-reference-note-draft_.md",
     "20260320110901-homunculus-problem.md",
     "20260320111901-cocktail-party-effect.md",
-    "20260123011144-tac-gyoseishoshi-text.md",
     "20260312122301-extinguishment-of-claims.md",
     "20260315021909-key-press-wont-work-on-mac-vscode-with-vim.md",
     "20260316061413-trickle-down-trickle-up.md",
