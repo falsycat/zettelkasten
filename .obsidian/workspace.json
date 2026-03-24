@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260320101704-attention.md",
+                "file": "20260322110631-specific-issue-of-contract.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260320101704-attention"
+              "title": "Outline of 20260322110631-specific-issue-of-contract"
             }
           },
           {
@@ -209,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -226,7 +226,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ff7d5b31dfd77d40",
+  "active": "a8a84b73aefbb679",
   "lastOpenFiles": [
     "20260123011144-tac-gyoseishoshi-text.md",
     "20260322110631-specific-issue-of-contract.md",
