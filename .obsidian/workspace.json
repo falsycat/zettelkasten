@@ -185,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -202,7 +202,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a4c48e3286890606",
+  "active": "0b90e996a8e6fd23",
   "lastOpenFiles": [
     "20260322110631-specific-issue-of-contract.md",
     "20260123011144-tac-gyoseishoshi-text.md",
