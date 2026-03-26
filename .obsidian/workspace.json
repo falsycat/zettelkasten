@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260123011144-tac-gyoseishoshi-text.md",
+                "file": "20260326092856-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260123011144-tac-gyoseishoshi-text"
+              "title": "20260326092856-new-reference-note-draft_"
             }
           }
         ],
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260123011144-tac-gyoseishoshi-text.md",
+                "file": "20260326092856-new-reference-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260123011144-tac-gyoseishoshi-text"
+              "title": "Outline of 20260326092856-new-reference-note-draft_"
             }
           },
           {
@@ -204,11 +204,12 @@
   },
   "active": "a4c48e3286890606",
   "lastOpenFiles": [
-    "20260326122402-new-reference-note-draft_.md",
     "20260123011144-tac-gyoseishoshi-text.md",
+    "20260326092856-new-reference-note-draft_.md",
     "20260322110631-specific-issue-of-contract.md",
-    "20260321010552-contracts.md",
     "system/dashboard.md",
+    "20260326122402-new-reference-note-draft_.md",
+    "20260321010552-contracts.md",
     "20260317111234-multi-party-creditor-debtor-relationships.md",
     "20260321025612-new-reference-note-draft_.md",
     "20260321095539-new-reference-note-draft_.md",
@@ -229,7 +230,6 @@
     "20260312122301-extinguishment-of-claims.md",
     "20260315021909-key-press-wont-work-on-mac-vscode-with-vim.md",
     "20260316061413-trickle-down-trickle-up.md",
-    "20260320012416-troubleshooting.md",
     "system/assets/Pasted image 20260320005752.png",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",

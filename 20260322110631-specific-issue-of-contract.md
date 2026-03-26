@@ -1,11 +1,13 @@
 ---
 id: 20260322110631
 title: 契約各論
-aliases: ["20260322110631"]
+aliases:
+  - "20260322110631"
 created: 2026-03-22 23:06
-tags: [reference/ai]
+tags:
+  - reference/ai
 publish: true
-draft: true
+draft: false
 lastmod: 2026-03-22 23:15
 ---
 ## 贈与契約
