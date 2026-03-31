@@ -57,8 +57,7 @@
               "title": "20260326092856-new-reference-note-draft_"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260326092856-new-reference-note-draft_.md",
+                "file": "system/dashboard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260326092856-new-reference-note-draft_"
+              "title": "Outline of dashboard"
             }
           },
           {
@@ -202,14 +201,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a4c48e3286890606",
+  "active": "6a169c464a4c62a8",
   "lastOpenFiles": [
+    "20260326092856-new-reference-note-draft_.md",
+    "system/dashboard.md",
     "20260129103559-new-words.md",
     "20260328033141-clean-hands.md",
     "20260123011144-tac-gyoseishoshi-text.md",
     "20260322110631-specific-issue-of-contract.md",
-    "20260326092856-new-reference-note-draft_.md",
-    "system/dashboard.md",
     "20260326122402-new-reference-note-draft_.md",
     "20260321010552-contracts.md",
     "20260317111234-multi-party-creditor-debtor-relationships.md",
