@@ -209,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -226,7 +226,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2e755145eb063470",
+  "active": "a8a84b73aefbb679",
   "lastOpenFiles": [
     "system/dashboard.md",
     "20260326092856-new-reference-note-draft_.md",
