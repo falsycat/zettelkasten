@@ -52,7 +52,7 @@ lastmod: 2026-02-28 15:48
 	5. [[20260317111234-multi-party-creditor-debtor-relationships|多数当事者の債権債務関係]]
 	6. [[20260321010552-contracts|契約総論]]
 	7. [[20260322110631-specific-issue-of-contract|契約各論]]
-	8. 契約以外の債権発生原因
+	8. [[20260326092856-non-contractual-sources-of-obligations|契約以外の債権発生原因]]
 4. 親族・相続
 	1. 親族
 	2. 相続
