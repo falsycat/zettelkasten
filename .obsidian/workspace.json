@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260123011144-tac-gyoseishoshi-text.md",
+                "file": "20260402100045-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260123011144-tac-gyoseishoshi-text"
+              "title": "20260402100045-new-reference-note-draft_"
             }
           }
         ],
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260123011144-tac-gyoseishoshi-text.md",
+                "file": "20260402100045-new-reference-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260123011144-tac-gyoseishoshi-text"
+              "title": "Outline of 20260402100045-new-reference-note-draft_"
             }
           },
           {
@@ -228,12 +228,13 @@
   },
   "active": "2e755145eb063470",
   "lastOpenFiles": [
+    "20260123011144-tac-gyoseishoshi-text.md",
+    "20260402100045-new-reference-note-draft_.md",
     "20260326092856-non-contractual-sources-of-obligations.md",
     "20260322110631-specific-issue-of-contract.md",
     "system/dashboard.md",
     "20260129103559-new-words.md",
     "20260328033141-clean-hands.md",
-    "20260123011144-tac-gyoseishoshi-text.md",
     "20260326122402-new-reference-note-draft_.md",
     "20260321010552-contracts.md",
     "20260317111234-multi-party-creditor-debtor-relationships.md",
@@ -253,7 +254,6 @@
     "20260320110901-homunculus-problem.md",
     "20260320111901-cocktail-party-effect.md",
     "20260312122301-extinguishment-of-claims.md",
-    "20260315021909-key-press-wont-work-on-mac-vscode-with-vim.md",
     "system/assets/Pasted image 20260320005752.png",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
