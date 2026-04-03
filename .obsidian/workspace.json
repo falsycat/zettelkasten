@@ -80,6 +80,30 @@
               "icon": "lucide-file",
               "title": "20260404124552-sns-ruins-diversity"
             }
+          },
+          {
+            "id": "7bf3eae0c7f168d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260404125643-minato-district-girls-doppelganger.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260404125643-minato-district-girls-doppelganger"
+            }
           }
         ],
         "currentTab": 2
@@ -228,9 +252,11 @@
   },
   "active": "2e755145eb063470",
   "lastOpenFiles": [
-    "20260326092856-non-contractual-sources-of-obligations.md",
+    "20260404125643-minato-district-girls-doppelganger.md",
     "20260404124552-sns-ruins-diversity.md",
     "20260215012339-sns-ruins-democracy.md",
+    "20260210123854-two-thirds-not-dictatorship.md",
+    "20260326092856-non-contractual-sources-of-obligations.md",
     "20260404122820-mate-guarding.md",
     "20260129103559-new-words.md",
     "system/dashboard.md",
@@ -252,8 +278,6 @@
     "20260320114019-attention-filter-model.md",
     "20260319112255-cognitive-psychology.md",
     "20260320123849-law-of-pragnantz.md",
-    "20260320122046-constructivism.md",
-    "20260320010738-perception.md",
     "system/assets/Pasted image 20260320005752.png",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
