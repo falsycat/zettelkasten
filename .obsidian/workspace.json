@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SNS",
+                "query": "sns-ruins",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +159,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -250,13 +251,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2e755145eb063470",
+  "active": "b7c9ab03587b3df2",
   "lastOpenFiles": [
+    "20260326092856-non-contractual-sources-of-obligations.md",
     "20260404125643-minato-district-girls-doppelganger.md",
     "20260404124552-sns-ruins-diversity.md",
     "20260215012339-sns-ruins-democracy.md",
     "20260210123854-two-thirds-not-dictatorship.md",
-    "20260326092856-non-contractual-sources-of-obligations.md",
     "20260404122820-mate-guarding.md",
     "20260129103559-new-words.md",
     "system/dashboard.md",
