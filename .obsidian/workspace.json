@@ -61,24 +61,10 @@
             "id": "2e755145eb063470",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260404124552-sns-ruins-diversity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260404124552-sns-ruins-diversity"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -87,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260404125643-minato-district-girls-doppelganger.md",
+                "file": "20260404084001-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -102,11 +88,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260404125643-minato-district-girls-doppelganger"
+              "title": "20260404084001-new-reference-note-draft_"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sns-ruins",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260404124552-sns-ruins-diversity.md",
+                "file": "20260404084001-new-reference-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260404124552-sns-ruins-diversity"
+              "title": "Outline of 20260404084001-new-reference-note-draft_"
             }
           },
           {
@@ -251,16 +237,17 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b7c9ab03587b3df2",
+  "active": "7bf3eae0c7f168d1",
   "lastOpenFiles": [
-    "20260326092856-non-contractual-sources-of-obligations.md",
-    "20260404125643-minato-district-girls-doppelganger.md",
     "20260404124552-sns-ruins-diversity.md",
-    "20260215012339-sns-ruins-democracy.md",
+    "20260404084001-new-reference-note-draft_.md",
     "20260210123854-two-thirds-not-dictatorship.md",
+    "20260404125643-minato-district-girls-doppelganger.md",
+    "20260326092856-non-contractual-sources-of-obligations.md",
+    "system/dashboard.md",
+    "20260215012339-sns-ruins-democracy.md",
     "20260404122820-mate-guarding.md",
     "20260129103559-new-words.md",
-    "system/dashboard.md",
     "20260404123812-information-cascade.md",
     "20260215011922-echo-chamber.md",
     "20260125012337-dont-give-confidence.md",
@@ -278,7 +265,6 @@
     "20260320113647-central-capacity-theory.md",
     "20260320114019-attention-filter-model.md",
     "20260319112255-cognitive-psychology.md",
-    "20260320123849-law-of-pragnantz.md",
     "system/assets/Pasted image 20260320005752.png",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
