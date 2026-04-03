@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260404123812-information-cascade.md",
+                "file": "20260404124552-sns-ruins-diversity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260404123812-information-cascade"
+              "title": "20260404124552-sns-ruins-diversity"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "初めて",
+                "query": "SNS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260404123812-information-cascade.md",
+                "file": "20260404124552-sns-ruins-diversity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260404123812-information-cascade"
+              "title": "Outline of 20260404124552-sns-ruins-diversity"
             }
           },
           {
@@ -209,11 +209,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,14 +228,18 @@
   },
   "active": "2e755145eb063470",
   "lastOpenFiles": [
+    "20260326092856-non-contractual-sources-of-obligations.md",
+    "20260404124552-sns-ruins-diversity.md",
+    "20260215012339-sns-ruins-democracy.md",
     "20260404122820-mate-guarding.md",
-    "20260404123812-information-cascade.md",
     "20260129103559-new-words.md",
+    "system/dashboard.md",
+    "20260404123812-information-cascade.md",
+    "20260215011922-echo-chamber.md",
+    "20260125012337-dont-give-confidence.md",
     "20260402100045-new-reference-note-draft_.md",
     "20260123011144-tac-gyoseishoshi-text.md",
-    "20260326092856-non-contractual-sources-of-obligations.md",
     "20260322110631-specific-issue-of-contract.md",
-    "system/dashboard.md",
     "20260328033141-clean-hands.md",
     "20260326122402-new-reference-note-draft_.md",
     "20260321010552-contracts.md",
@@ -250,10 +254,6 @@
     "20260320123849-law-of-pragnantz.md",
     "20260320122046-constructivism.md",
     "20260320010738-perception.md",
-    "20260207120858-idempotency.md",
-    "20260320111708-inattentional-blindness.md",
-    "20260320112805-new-reference-note-draft_.md",
-    "20260320110901-homunculus-problem.md",
     "system/assets/Pasted image 20260320005752.png",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
