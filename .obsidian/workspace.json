@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260402100045-new-reference-note-draft_.md",
+                "file": "20260404123812-information-cascade.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260402100045-new-reference-note-draft_"
+              "title": "20260404123812-information-cascade"
             }
           }
         ],
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260402100045-new-reference-note-draft_.md",
+                "file": "20260404123812-information-cascade.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260402100045-new-reference-note-draft_"
+              "title": "Outline of 20260404123812-information-cascade"
             }
           },
           {
@@ -228,12 +228,14 @@
   },
   "active": "2e755145eb063470",
   "lastOpenFiles": [
-    "20260123011144-tac-gyoseishoshi-text.md",
+    "20260404122820-mate-guarding.md",
+    "20260404123812-information-cascade.md",
+    "20260129103559-new-words.md",
     "20260402100045-new-reference-note-draft_.md",
+    "20260123011144-tac-gyoseishoshi-text.md",
     "20260326092856-non-contractual-sources-of-obligations.md",
     "20260322110631-specific-issue-of-contract.md",
     "system/dashboard.md",
-    "20260129103559-new-words.md",
     "20260328033141-clean-hands.md",
     "20260326122402-new-reference-note-draft_.md",
     "20260321010552-contracts.md",
@@ -252,8 +254,6 @@
     "20260320111708-inattentional-blindness.md",
     "20260320112805-new-reference-note-draft_.md",
     "20260320110901-homunculus-problem.md",
-    "20260320111901-cocktail-party-effect.md",
-    "20260312122301-extinguishment-of-claims.md",
     "system/assets/Pasted image 20260320005752.png",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
