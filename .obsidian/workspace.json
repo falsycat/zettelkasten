@@ -34,41 +34,7 @@
             }
           },
           {
-            "id": "a4c48e3286890606",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260326092856-non-contractual-sources-of-obligations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260326092856-non-contractual-sources-of-obligations"
-            }
-          },
-          {
-            "id": "2e755145eb063470",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "7bf3eae0c7f168d1",
+            "id": "5ead832fb6ec04bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,8 +111,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,18 +202,18 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7bf3eae0c7f168d1",
+  "active": "5ead832fb6ec04bf",
   "lastOpenFiles": [
-    "20260404124552-sns-ruins-diversity.md",
-    "20260404084001-matthew-effect.md",
-    "20260210123854-two-thirds-not-dictatorship.md",
-    "20260404125643-minato-district-girls-doppelganger.md",
-    "20260326092856-non-contractual-sources-of-obligations.md",
     "system/dashboard.md",
-    "20260215012339-sns-ruins-democracy.md",
-    "20260404122820-mate-guarding.md",
     "20260129103559-new-words.md",
+    "20260404084001-matthew-effect.md",
+    "20260404124552-sns-ruins-diversity.md",
+    "20260326092856-non-contractual-sources-of-obligations.md",
+    "20260215012339-sns-ruins-democracy.md",
+    "20260404125643-minato-district-girls-doppelganger.md",
     "20260404123812-information-cascade.md",
+    "20260210123854-two-thirds-not-dictatorship.md",
+    "20260404122820-mate-guarding.md",
     "20260215011922-echo-chamber.md",
     "20260125012337-dont-give-confidence.md",
     "20260402100045-new-reference-note-draft_.md",
