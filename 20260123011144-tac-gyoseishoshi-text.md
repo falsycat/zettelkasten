@@ -54,8 +54,8 @@ lastmod: 2026-02-28 15:48
 	7. [[20260322110631-specific-issue-of-contract|契約各論]]
 	8. [[20260326092856-non-contractual-sources-of-obligations|契約以外の債権発生原因]]
 4. 親族・相続
-	1. [[20260402100045-new-reference-note-draft_|親族]]
-	2. 相続
+	1. [[20260402100045-relatives|親族]]
+	2. [[20260405113013-inheritance|相続]]
 ## 行政法
 
 ## 商法

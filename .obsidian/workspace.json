@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "60d80a9373e891de",
+            "id": "95bae1fa6562c16b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260405113013-inheritance.md",
+                "file": "20260321025612-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,11 +54,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260405113013-inheritance"
+              "title": "20260321025612-new-reference-note-draft_"
+            }
+          },
+          {
+            "id": "822ce6129512f150",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,13 +175,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260405113013-inheritance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260405113013-inheritance"
+              "title": "Outline"
             }
           },
           {
@@ -202,13 +211,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "60d80a9373e891de",
+  "active": "822ce6129512f150",
   "lastOpenFiles": [
-    "20260123011144-tac-gyoseishoshi-text.md",
-    "20260405113013-inheritance.md",
-    "20260402100045-new-reference-note-draft_.md",
-    "20260326092856-non-contractual-sources-of-obligations.md",
     "system/dashboard.md",
+    "20260321025612-new-reference-note-draft_.md",
+    "20260226125638-increase-sns-follower.md",
+    "20260402100045-relatives.md",
+    "20260405113013-inheritance.md",
+    "20260123011144-tac-gyoseishoshi-text.md",
+    "20260326092856-non-contractual-sources-of-obligations.md",
     "20260129103559-new-words.md",
     "20260404041127-self-enhancement-loop.md",
     "20260316061413-trickle-down-trickle-up.md",
@@ -227,9 +238,7 @@
     "20260326122402-new-reference-note-draft_.md",
     "20260321010552-contracts.md",
     "20260317111234-multi-party-creditor-debtor-relationships.md",
-    "20260321025612-new-reference-note-draft_.md",
     "20260321095539-new-reference-note-draft_.md",
-    "20260320112254-cocktail-party-vs-inattentional-blindness.md",
     "system/assets/Pasted image 20260320005752.png",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
