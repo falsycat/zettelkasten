@@ -1,9 +1,11 @@
 ---
 id: 20260123011144
-title: TAC 行政書士の教科書
-aliases: ["20260123011144"]
+title: TAC2026 行政書士の教科書
+aliases:
+  - "20260123011144"
 created: 2026-01-23 01:11
-tags: [structure]
+tags:
+  - structure
 publish: true
 draft: false
 lastmod: 2026-02-28 15:48

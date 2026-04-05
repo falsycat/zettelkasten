@@ -1,12 +1,12 @@
 ---
 id: 20260405032624
-title: TAC 行政書士の教科書 憲法
+title: TAC2026 行政書士の教科書 憲法
 aliases: ["20260405032624"]
 created: 2026-04-05 15:26
 tags: [structure]
 publish: true
 draft: false
-lastmod: 2026-04-05 15:27
+lastmod: 2026-04-05 22:14
 ---
 ## 総論
 1. [[20260124102738-meaning-of-constitution|憲法の意味]]
