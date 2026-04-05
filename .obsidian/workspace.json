@@ -56,9 +56,33 @@
               "icon": "lucide-file",
               "title": "20260405101646-principles-of-administrative-law"
             }
+          },
+          {
+            "id": "7433a6a8d0d08d5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260405101646-principles-of-administrative-law.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260405101646-principles-of-administrative-law"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,15 +226,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d5b35fbce19081bd",
+  "active": "7433a6a8d0d08d5e",
   "lastOpenFiles": [
-    "20260405101304-tac-administrative-law.md",
+    "system/dashboard.md",
     "20260405101646-principles-of-administrative-law.md",
+    "20260402100045-relatives.md",
+    "20260405101304-tac-administrative-law.md",
     "20260405032624-tac-constitution.md",
     "20260123011144-tac-gyoseishoshi-text.md",
     "20260405032745-tac-civil-code.md",
     "20260405042049-.md",
-    "system/dashboard.md",
     "20260129103559-new-words.md",
     "20260328033141-clean-hands.md",
     "20260405031438-law-covers-various-edge-cases.md",
@@ -219,7 +244,6 @@
     "20260124102738-meaning-of-constitution.md",
     "20260201095139-social-rights.md",
     "20260216074712-decl-of-intent.md",
-    "20260402100045-relatives.md",
     "20260321025612-new-reference-note-draft_.md",
     "20260226125638-increase-sns-follower.md",
     "20260405113013-inheritance.md",
