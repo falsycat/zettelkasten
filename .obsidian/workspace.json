@@ -34,13 +34,27 @@
             }
           },
           {
-            "id": "eb988621a9b576ea",
+            "id": "d5b35fbce19081bd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "20260405042049-.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260405042049-"
             }
           }
         ],
@@ -151,12 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "20260405042049-.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 20260405042049-"
             }
           },
           {
@@ -187,8 +202,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "eb988621a9b576ea",
+  "active": "d5b35fbce19081bd",
   "lastOpenFiles": [
+    "20260405042049-.md",
     "system/dashboard.md",
     "20260129103559-new-words.md",
     "20260328033141-clean-hands.md",
@@ -214,7 +230,6 @@
     "20260404122820-mate-guarding.md",
     "20260404125643-minato-district-girls-doppelganger.md",
     "20260404123812-information-cascade.md",
-    "20260215012339-sns-ruins-democracy.md",
     "system/assets/Pasted image 20260320005752.png",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
