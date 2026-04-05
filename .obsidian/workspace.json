@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260405101646-principles-of-administrative-law.md",
+                "file": "20260405101304-tac-administrative-law.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260405101646-principles-of-administrative-law"
+              "title": "20260405101304-tac-administrative-law"
             }
           }
         ],
@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260405101646-principles-of-administrative-law.md",
+                "file": "20260405101304-tac-administrative-law.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260405101646-principles-of-administrative-law"
+              "title": "Outline of 20260405101304-tac-administrative-law"
             }
           },
           {
@@ -228,8 +228,8 @@
   },
   "active": "7433a6a8d0d08d5e",
   "lastOpenFiles": [
-    "system/dashboard.md",
     "20260405101646-principles-of-administrative-law.md",
+    "system/dashboard.md",
     "20260402100045-relatives.md",
     "20260405101304-tac-administrative-law.md",
     "20260405032624-tac-constitution.md",
