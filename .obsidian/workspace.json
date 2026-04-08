@@ -34,36 +34,12 @@
             }
           },
           {
-            "id": "d5b35fbce19081bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260405101646-principles-of-administrative-law.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260405101646-principles-of-administrative-law"
-            }
-          },
-          {
             "id": "7433a6a8d0d08d5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260123011144-tac-gyoseishoshi-text.md",
+                "file": "20260408102311-new-reference-note-draft_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,11 +54,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260123011144-tac-gyoseishoshi-text"
+              "title": "20260408102311-new-reference-note-draft_"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260123011144-tac-gyoseishoshi-text.md",
+                "file": "20260408102311-new-reference-note-draft_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260123011144-tac-gyoseishoshi-text"
+              "title": "Outline of 20260408102311-new-reference-note-draft_"
             }
           },
           {
@@ -229,11 +205,12 @@
   "active": "7433a6a8d0d08d5e",
   "lastOpenFiles": [
     "20260405101304-tac-administrative-law.md",
+    "20260408102311-new-reference-note-draft_.md",
+    "20260123011144-tac-gyoseishoshi-text.md",
     "20260405101646-principles-of-administrative-law.md",
     "system/dashboard.md",
     "20260402100045-relatives.md",
     "20260405032624-tac-constitution.md",
-    "20260123011144-tac-gyoseishoshi-text.md",
     "20260405032745-tac-civil-code.md",
     "20260405042049-.md",
     "20260129103559-new-words.md",
@@ -253,7 +230,6 @@
     "20260404084001-matthew-effect.md",
     "20260404124552-sns-ruins-diversity.md",
     "20260320122719-constructivism-vs-ecological-approach.md",
-    "20260404122820-mate-guarding.md",
     "system/assets/Pasted image 20260320005752.png",
     "system/assets/Pasted image 20260226003310.png",
     "all_permanent.txt",
