@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260408102311-new-reference-note-draft_.md",
+                "file": "20260408102311-administrative-organization.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260408102311-new-reference-note-draft_"
+              "title": "20260408102311-administrative-organization"
             }
           }
         ],
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260408102311-new-reference-note-draft_.md",
+                "file": "20260408102311-administrative-organization.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260408102311-new-reference-note-draft_"
+              "title": "Outline of 20260408102311-administrative-organization"
             }
           },
           {
@@ -205,8 +205,8 @@
   "active": "7433a6a8d0d08d5e",
   "lastOpenFiles": [
     "20260405101304-tac-administrative-law.md",
-    "20260408102311-new-reference-note-draft_.md",
     "20260123011144-tac-gyoseishoshi-text.md",
+    "20260408102311-administrative-organization.md",
     "20260405101646-principles-of-administrative-law.md",
     "system/dashboard.md",
     "20260402100045-relatives.md",
