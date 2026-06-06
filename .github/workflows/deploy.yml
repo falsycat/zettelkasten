@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - mycells
+  workflow_dispatch:
 
 permissions:
   contents: read
