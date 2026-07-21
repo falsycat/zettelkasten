@@ -7,6 +7,10 @@
 - `YYYYMMDD`: 作成日
 - `NN`: その日の連番（01〜）
 - `slug`: タイトルの意味を表す英小文字のkebab-case
+  - **英語に訳せる語は英語を使う**。日本語固有の専門用語（法律用語・固有名詞など）はローマ字のまま残してよい
+  - 助詞「の」→ `of-`、「と」→ `and-` のように英語の接続詞に置き換える
+  - 例: `gyosei-kikan-no-bunrui` ではなく `category-of-gyosei-kikan`
+  - 例: `shikko-kikan` ではなく `enforcement-gyosei-kikan`
 
 例: `2026060703-zettelkasten-minimum-unit.md`
 
