@@ -8,21 +8,15 @@
 ### 1. データ収集
 
 ```bash
-# エッジ一覧（source\ttarget）
-bash .claude/skills/zettelkasten/scripts/list-deps.sh
-
-# ID とタイトルの対応表
-bash .claude/skills/zettelkasten/scripts/list-titles.sh
+# クラスタ一覧（cluster_num\tnode_id\ttitle）
+python3 .claude/skills/zettelkasten/scripts/list-clusters.py
 ```
+
+これ一本でエッジ取得・Union-Find・タイトル付与まで完結する。同じ `cluster_num` のノードが同一クラスタ。
 
 ### 2. クラスタ分析
 
-取得したエッジをもとに、Union-Find（素集合）で連結成分を特定する。
-エッジは有向だが、連結性判定は無向として扱う（A→B があれば A と B は同一クラスタ）。
-
-孤立ノート（エッジが一切ない）は単独クラスタとして扱う。
-
-以下を整理する：
+スクリプト出力をもとに以下を整理する：
 - 各クラスタのメンバー ID とタイトル
 - 各クラスタの主題・テーマ（タイトルから推定）
 - クラスタのサイズ（ノード数）

@@ -15,6 +15,7 @@ falsycat のzettelkasten（第二の脳）リポジトリ。ノートは `cells/
 |---|---|---|
 | [list-titles.sh](scripts/list-titles.sh) | 全ノートの ID とタイトルを一覧する | `<ID>\t<title>` |
 | [list-deps.sh](scripts/list-deps.sh) | ノート間のリンク依存関係をエッジ一覧で出力する | `<source_id>\t<target_id>` |
+| [list-clusters.py](scripts/list-clusters.py) | Union-Find でクラスタを計算する | `<cluster_num>\t<node_id>\t<title>` |
 
 ## References
 
